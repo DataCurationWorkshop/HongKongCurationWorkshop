@@ -1,9 +1,15 @@
 
-There are many approaches to 
-
 A precise definition of data curation was developed by the Graduate School of Library and Information Science (GSLIS) at the University of Illinois: 
 
 >the active and ongoing management of data throughout its entire lifecycle of interest and usefulness to scholarship (Cragin et al. 2007)
+
+Muñoz and Flanders expand on this compact definition in the following ways: 
+
+> **active and ongoing management:** Data curators intervene in the research process in order to translate or migrate data into new formats, to enhance it through additional layers of context or markup, to create connections between data sets, and to otherwise ensure that data is maintained in as highly-functional a form as possible.
+
+> **entire lifecycle:** As we enter the era of thoroughly digital research, the full lifecycle of digital research data is still not yet known to us. However, we can anticipate that some data (particularly data collected through destructive means, such as archaeological data) will have a very long horizon of usefulness (in addition to increased evidentiary value for historical analysis and stewardship of our cultural heritage). The uses of data will likely change over time and with different stages of research.
+
+> **interest and usefulness to scholarship:** The term "scholarship" should be construed broadly, especially since data creation, use, and curation are not limited to the academy. Data curation seeks to retain the interest and usefulness of any data that has a serious purpose to fulfill. Furthermore, even for data created and curated within the academy, it is worth remarking that there may be potential user communities outside the academy that could provide valuable motivation and even resources for the curation process. Especially given the recent and increasing emphasis on crowd-sourcing, community-driven data, and the permeability of the boundary between the academy and the public sphere, it is reasonable to anticipate that definitions of "scholarship" may continue to broaden rather than narrow over time.
 
 
 
