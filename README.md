@@ -5,12 +5,12 @@ Curation**
 
 Morning session
 
--09:00 - 09:05: Welcome with Dr. Sam Chu (Associate Professor and Head, Division of Information and Technology Studies, HKU) and Ms. Diana Chan (University Librarian, HKUST)
--09:05 - 09:15: Opening words from Dr. Allen Renear (Professor and Dean, GSLIS, University of Illinois) 
--09:15 - 10:15: *NMW*: Keynote address - “Open Data and Scholarly Communication”
--10:15 - 10:30: Coffee break
--10:30 - 12:30: *AKT?*: Lecture - “Data Curation Life Cycles and Tools” [intro and overview of data curation]
--12:30 - 14:00: Lunch break
+- 09:00 - 09:05: Welcome with Dr. Sam Chu (Associate Professor and Head, Division of Information and Technology Studies, HKU) and Ms. Diana Chan (University Librarian, HKUST)
+- 09:05 - 09:15: Opening words from Dr. Allen Renear (Professor and Dean, GSLIS, University of Illinois) 
+- 09:15 - 10:15: *NMW*: Keynote address - “Open Data and Scholarly Communication”
+- 10:15 - 10:30: Coffee break
+- 10:30 - 12:30: *AKT?*: Lecture - “Data Curation Life Cycles and Tools” [intro and overview of data curation]
+- 12:30 - 14:00: Lunch break
 
 Afternoon: Split into 2 groups
 
