@@ -1,26 +1,66 @@
+# Introduction to Data Curation
 
-A precise definition of data curation was developed by the Graduate School of Library and Information Science (GSLIS) at the University of Illinois: 
+To understand data curation, as both a concept and a practice, we begin by defining the two terms - data, and curation - separately. 
+
+### What do we mean by data?
+
+Data is information in a role. For research data that institutions of higher education are charged with curating, preserving, and archiving for the long-term, data are playing a role that is evidential. 
+
+> Research data are the digital resources that scholars draw on in making claims, and producing new knowledge. 
+
+In research data curation a useful distinction is made by different evidential roles that data can play: Scientific and Humanistic.
+
+**Scientific data** 
+
+Scientific data is encoded and described with the aim of supporting retrieval, meaningful interpretation, use, and reuse (Wickett et al. 2012). This includes digitized physical materials (e.g. specimens, core samples, chemical analyses ) as well as born-digital data (e.g. databases, sequenced DNA, streamed sensor data). The verifiability, and validity of a claim within most scientific domains is dependent upon access to, and meaningfully described digital data.   
+
+**Humanistic Data**
+
+It may initially seem awkward to assume that humanists have data. In the humanities, and especially the burgeoning field of Digital Humanities, data support certain operations, and certain interpretations that are ultimately assigned meaning by specific communities (Munoz, 2014). Humanities data are propositions that are systematically asserted as encoded symbol structures (Dubin, et al. 2011). It is in this sense that data have an evidential value for humans to argue with, and through. 
+
+Humanistic data may take digital forms that range greatly in size and complexity - from single authored TEI - encoded texts, to large collections and corpora of manuscripts, images, cad models, and sound. 
+
+### What do we mean by curation?
+
+In the broadest definition, curation means the stewardship, preservation, and meaningful arrangement of material collections. Over time the concept has been transferred from the context of physical specimens found in natural history museums, and thematic collections cultural institutions to a digital environment where the curatorial roles of stewardship, preservation and meaningful arrangement have taken on new meanings. 
+
+In a scholarly environment these roles include developing indexing systems, metadata standards, ontologies, and retrieval systems that will make it possible for research data to work in concert with existing digital libraries, archives, and repositories. Increasingly, this work is aimed at improving data quality, guaranteeing authentication of digital resources throughout a lifecycle, and capturing provenance of scholarly activities using workflow tools.
+
+## Data Curation
+
+A precise definition of data curation is the following : 
 
 >the active and ongoing management of data throughout its entire lifecycle of interest and usefulness to scholarship (Cragin et al. 2007)
 
-Muñoz and Flanders expand on this compact definition in the following ways: 
+Muñoz and Flanders provide useful clarification of this definition in a scholarly context: 
 
-> **active and ongoing management:** Data curators intervene in the research process in order to translate or migrate data into new formats, to enhance it through additional layers of context or markup, to create connections between data sets, and to otherwise ensure that data is maintained in as highly-functional a form as possible.
+**Active and ongoing management:** 
 
-> **entire lifecycle:** As we enter the era of thoroughly digital research, the full lifecycle of digital research data is still not yet known to us. However, we can anticipate that some data (particularly data collected through destructive means, such as archaeological data) will have a very long horizon of usefulness (in addition to increased evidentiary value for historical analysis and stewardship of our cultural heritage). The uses of data will likely change over time and with different stages of research.
+Data curators intervene in the research process in order to translate or migrate data into new formats, to enhance it through additional layers of context or markup, to create connections between data sets, and to otherwise ensure that data is maintained in as highly-functional a form as possible.
 
-> **interest and usefulness to scholarship:** The term "scholarship" should be construed broadly, especially since data creation, use, and curation are not limited to the academy. Data curation seeks to retain the interest and usefulness of any data that has a serious purpose to fulfill. Furthermore, even for data created and curated within the academy, it is worth remarking that there may be potential user communities outside the academy that could provide valuable motivation and even resources for the curation process. Especially given the recent and increasing emphasis on crowd-sourcing, community-driven data, and the permeability of the boundary between the academy and the public sphere, it is reasonable to anticipate that definitions of "scholarship" may continue to broaden rather than narrow over time.
+**Entire lifecycle:** 
 
+As we enter the era of thoroughly digital research, the full lifecycle of digital research data is still not yet known to us. However, we can anticipate that some data (particularly data collected through destructive means, such as archaeological data) will have a very long horizon of usefulness (in addition to increased evidentiary value for historical analysis and stewardship of our cultural heritage). The uses of data will likely change over time and with different stages of research.
 
+**Interest and usefulness to scholarship:** 
 
-## Learning Objectives 
+The term "scholarship" should be construed broadly, especially since data creation, use, and curation are not limited to the academy. Data curation seeks to retain the interest and usefulness of any data that has a serious purpose to fulfill. Furthermore, even for data created and curated within the academy, it is worth remarking that there may be potential user communities outside the academy that could provide valuable motivation and even resources for the curation process. Especially given the recent and increasing emphasis on crowd-sourcing, community-driven data, and the permeability of the boundary between the academy and the public sphere, it is reasonable to anticipate that definitions of "scholarship" may continue to broaden rather than narrow over time.
 
-1.	Improve understanding of and familiarity with data management life cycles.2.	Gain hands-on experience with developing data management plans associated with sponsored projects, with an eye toward risk and sustainability3.	Learn to select and assess data management tools and repository systems for different disciplines for the purpose of sharing collections4.	Ability to select and adapt standards for data management and utilize existing tools5.	Use tools and approaches for data storage and access as well as understanding the inherent contextual frameworks, limitations and opportunity6.	Improve understanding and contextualizing of digital objects and accounting for data provenance7.	Participants will gain hands-on exposure to contextual data metadata schema design and learn how they support curation
-  
+### Differences between digital and data curation
+
+The two terms are often used interchangeably, but there are important differences to keep in mind when writing and speaking bout curation. Digital curation is, or has become, a term that better accommodates a broader range of digital material than research data. It does not indicate what is being curated nor does it necessarily imply which communities can be purposefully served by curatorial activities. Data curation, on the other hand, relates directly to data that is produced and used by scholarly communities, and it facilitates the reuse and repurposing of data to meet new research needs. As Renear and Muñoz aptly explained in the introduction to a DCEP workshop held at the annual Digital Humanities conference, “Data curation addresses the challenge of maintaining digital information that is produced in the course of research in a manner that preserves its meaning and usefulness as a potential input for further research” (2011). 
 
 ## Works Cited
 
+*[ Add full APA citations later ]* 
+
+- Wickett 2012
+- Munoz 2014
+- Renear and Munoz 2011
+- Weber et al 2013
 - Cragin, M. H., Heidorn, P. B., Palmer, C. L., & Smith, L. C. (2007). An educational program on data curation. ASIS&T annual conference,  [PDF](https://www.ideals.illinois.edu/handle/2142/3493)
+- David Dubin, Karen Wickett, and Simone Sacchi, “Content, Format, and Interpretation,” Proceedings of Balisage: The Markup Conference 2011. Balisage Series on Markup Technologies 7 (2011), doi:10.4242/BalisageVol7.Dubin01. 
+
 
 ## Bibliography
 
