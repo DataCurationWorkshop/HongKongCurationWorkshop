@@ -8,7 +8,7 @@ _ILO's:
 
 #Outline
 
-1. Review of lifecycle models (DCC, ... , workflows from the SBDC project?)
+1. Review of lifecycle models (DCC, DataOne... , workflows from the SBDC project?)
 2. Significant properties: identifying important data products and properties
 3. Tools?  seems broad..
 
@@ -17,9 +17,15 @@ _ILO's:
 
 **Data and Digital Curation Lifecycle Models**
 
-Higgins, S. (2008). The DCC curation lifecycle model. International Journal of Digital Curation, 3(1), 134-140. [PDF] (http://www.ijdc.net/index.php/ijdc/article/viewArticle/69)
+Higgins, S. (2008). The DCC curation lifecycle model. International Journal of Digital Curation, 3(1), 134-140. [PDF](http://www.ijdc.net/index.php/ijdc/article/viewArticle/69)
 
-[More on the DCC lifecycle model] (http://www.dcc.ac.uk/resources/curation-lifecycle-model)
+[More on the DCC lifecycle model](http://www.dcc.ac.uk/resources/curation-lifecycle-model)
+
+Ball, A., 2012. Review of Data Management Lifecycle Models. Other. Bath, UK: University of Bath. [PDF](http://opus.bath.ac.uk/28587/1/redm1rep120110ab10.pdf)
+
+Strasser, C., Cook, R., Michener, R., & Budden, A. (N.D.). Primer on Data Management: What you always wanted to know (but were afraid to ask). Data One. [PDF](https://www.dataone.org/sites/all/documents/DataONE_BP_Primer_020212.pdf)
+
+
 
 **Significant Properties**
 - Knight, G., & Pennock, M. (2009). Data Without Meaning : Establishing the Significant Properties of Digital Research. International Journal of Digital Curation, 4(1), 159–174. [PDF] (http://www.ijdc.net/index.php/ijdc/article/view/110)
