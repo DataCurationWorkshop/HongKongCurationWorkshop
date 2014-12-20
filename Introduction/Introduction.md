@@ -79,3 +79,5 @@ The following articles both introduce and provide important background for the f
 - Donnelly, M. (2014). Review: Research Data Management: Practical Strategies for Information Professionals. International Journal of Digital Curation, 9(2), 1-5. [PDF](http://ijdc.net/index.php/ijdc/article/viewFile/9.2.1/363)
 
 - Choudury, S. (2010). Data curation An ecological perspective. College & Research Libraries News, 71(4), 194-196. [PDF](http://crln.acrl.org/content/71/4/194.short)
+
+- Davis, H., & Vickery, J. (2007). Datasets, a Shift in the Currency of Scholarly Communication: Implications for Library Collections and Acquisitions. Serials Review, 33(1), 26–32. doi:10.1016/j.serrev.2006.11.004

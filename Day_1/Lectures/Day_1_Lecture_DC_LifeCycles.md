@@ -10,7 +10,13 @@ _ILO's:
 
 1. Review of lifecycle models (DCC, DataOne... , workflows from the SBDC project?)
 2. Significant properties: identifying important data products and properties
-3. Tools?  seems broad..
+3. Preview of Tools to be used in afternoon labs
+- DMP Tool
+- Curation Profiles forms?
+- ~~Data Up?~~ This has been discontinued for now, and CDL is in the process of merging it with DASH -- they suggest Morpho as a replacement for scientific data: https://knb.ecoinformatics.org/#tools
+
+## Spare notes [move to wiki]
+- need to talk about scope for "tools" -- what curation tasks are we aiming to support?
 
 ## Bibliography
 
@@ -42,5 +48,16 @@ Wallis, J. C., Borgman, C. L., Mayernik, M. S., & Pepe, A. (2008). Moving archiv
 
 ### Tools
 
+**DMP Tool**
+
 [DMP Tool](https://dmptool.org//)
+
+
+**Curation Profiles Project**
+
+Cragin, M. H., Palmer, C. L., Carlson, J. R., Witt, M., & A, P. T. R. S. (2010). Data sharing , small science and institutional repositories, 4023–4038. doi:10.1098/rsta.2010.0165
+
+Witt, M., Carlson, J., Brandt, D. S., & Cragin, M. H. (2009). The International Journal of Digital Curation Constructing Data Curation Profiles. Library, 4(3), 93–103.
+
+
 
