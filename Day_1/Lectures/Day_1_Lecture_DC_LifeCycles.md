@@ -11,6 +11,7 @@ _ILO's:
 1. Review of lifecycle models (DCC, DataOne... , workflows from the SBDC project?)
 2. Significant properties: identifying important data products and properties
 3. Preview of Tools to be used in afternoon labs
+
 - DMP Tool
 - Curation Profiles forms?
 - ~~Data Up?~~ This has been discontinued for now, and CDL is in the process of merging it with DASH -- they suggest Morpho as a replacement for scientific data: https://knb.ecoinformatics.org/#tools
