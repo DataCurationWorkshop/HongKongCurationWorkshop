@@ -1,10 +1,10 @@
 #“Data Curation Life Cycles and Tools” *[intro and overview of data curation]*
 
-_ILO's:
+ILO's:
 
 1. Improve understanding of and familiarity with data curation life cycles
 2. Gain hands-on experience with developing data management plans associated with sponsored projects, with an eye toward risk and sustainability
-3. Learn to select and assess data management tools and repository systems for different disciplines for the purpose of sharing collections_
+3. Learn to select and assess data management tools and repository systems for different disciplines for the purpose of sharing collections
 
 #Outline
 
@@ -15,9 +15,6 @@ _ILO's:
 - DMP Tool
 - Curation Profiles forms?
 - ~~Data Up?~~ This has been discontinued for now, and CDL is in the process of merging it with DASH -- they suggest Morpho as a replacement for scientific data: https://knb.ecoinformatics.org/#tools
-
-## Spare notes [move to wiki]
-- need to talk about scope for "tools" -- what curation tasks are we aiming to support?
 
 ## Bibliography
 
