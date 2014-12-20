@@ -12,23 +12,35 @@ _ILO's:
 2. Significant properties: identifying important data products and properties
 3. Tools?  seems broad..
 
-## Bibliogrpahy
+## Bibliography
 
 
-**Data and Digital Curation Lifecycle Models**
+### Data and Digital Curation Lifecycle Models
+
+**DCC**
 
 Higgins, S. (2008). The DCC curation lifecycle model. International Journal of Digital Curation, 3(1), 134-140. [PDF](http://www.ijdc.net/index.php/ijdc/article/viewArticle/69)
 
 [More on the DCC lifecycle model](http://www.dcc.ac.uk/resources/curation-lifecycle-model)
 
-Ball, A., 2012. Review of Data Management Lifecycle Models. Other. Bath, UK: University of Bath. [PDF](http://opus.bath.ac.uk/28587/1/redm1rep120110ab10.pdf)
+**Data ONE**
+
+[DataONE general resources and best practices](https://www.dataone.org/best-practices)
 
 Strasser, C., Cook, R., Michener, R., & Budden, A. (N.D.). Primer on Data Management: What you always wanted to know (but were afraid to ask). Data One. [PDF](https://www.dataone.org/sites/all/documents/DataONE_BP_Primer_020212.pdf)
 
+**Other**
+
+Ball, A., 2012. Review of Data Management Lifecycle Models. Other. Bath, UK: University of Bath. [PDF](http://opus.bath.ac.uk/28587/1/redm1rep120110ab10.pdf)
+
+Wallis, J. C., Borgman, C. L., Mayernik, M. S., & Pepe, A. (2008). Moving archival practices upstream: An exploration of the life cycle of ecological sensing data in collaborative field research. International Journal of Digital Curation, 3(1), 114-126. [PDF](http://www.ijdc.net/index.php/ijdc/article/viewArticle/67)
 
 
-**Significant Properties**
+### Significant Properties
+
 - Knight, G., & Pennock, M. (2009). Data Without Meaning : Establishing the Significant Properties of Digital Research. International Journal of Digital Curation, 4(1), 159–174. [PDF] (http://www.ijdc.net/index.php/ijdc/article/view/110)
 
+### Tools
 
+[DMP Tool](https://dmptool.org//)
 
