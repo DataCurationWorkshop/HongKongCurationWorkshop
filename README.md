@@ -1,3 +1,9 @@
+#NOTE
+
+This repository contains drafts of presentations, lectures, and lab activities for a data curation workshop to be held at Hong Kong University, Spring 2015. Please *do not* fork this repository or use anything here. We will publish a final version of the workbook and its source material prior to the workshop.
+
+*All content will be released `CC-BY` license. 
+
 HongKongCurationWorkshop
 ========================
 **Day 1: Data Curation Life Cycles (ILO: 1, 2, 3) & Introduction to Field & Academic Data
