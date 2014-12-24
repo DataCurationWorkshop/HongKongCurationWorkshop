@@ -29,27 +29,27 @@ There are numerous lifecycle models; for this workshop we'll focus on two of the
 
 The DCC model divides curatorial tasks into three interlinked categories, all of which are (quite literally) centered around data:
 
-- Full lifecycle actions: These are actions that are on-going throughout the "lifespan" of a dataset, and require on-going attention from the curator.  These tasks include,
+### Full lifecycle actions: These are actions that are on-going throughout the "lifespan" of a dataset, and require on-going attention from the curator.  These tasks include,
 
->Preservation Planning
+>**Preservation Planning**
 Plan for preservation throughout the curation lifecycle of digital material. This would include plans for management and administration of all curation lifecycle actions.
 
->Community Watch and Participation
+>**Community Watch and Participation**
 Maintain a watch on appropriate community activities, and participate in the development of shared standards, tools and suitable software. 
 
->Curate and Preserve
+>**Curate and Preserve**
 Be aware of, and undertake management and administrative actions planned to promote curation and preservation throughout the curation lifecycle.
 
->Description and Representation Information
+>**Description and Representation Information**
 Assign administrative, descriptive, technical, structural and preservation metadata, using appropriate standards, to ensure adequate description and control over the long-term. Collect and assign representation information required to understand and render both the digital material and the associated metadata.
 
 [See more](http://www.dcc.ac.uk/resources/curation-lifecycle-model#sthash.QOx0GL9t.dpuf)
 
 We'll talk more about these activities in coming sessions.
 
-- Occasional actions: These actions include disposal, reappraisal and migration of data
+### Occasional actions: These actions include disposal, reappraisal and migration of data
 
-- Sequential actions:  These actions mirror the general workflow of research, and each stage entails specific curatorial tasks.  We'll go into further detail on these tasks today.
+### Sequential actions:  These actions mirror the general workflow of research, and each stage entails specific curatorial tasks.  We'll go into further detail on these tasks today.
 
 ## 2.2 The Data One Model
 
