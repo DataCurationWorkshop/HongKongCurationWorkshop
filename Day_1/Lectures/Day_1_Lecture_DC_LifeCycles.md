@@ -29,7 +29,9 @@ There are numerous lifecycle models; for this workshop we'll focus on two of the
 
 The DCC model divides curatorial tasks into three interlinked categories, all of which are (quite literally) centered around data:
 
-### Full lifecycle actions: These are actions that are on-going throughout the "lifespan" of a dataset, and require on-going attention from the curator.  These tasks include,
+#### Full lifecycle actions: 
+
+These are actions that are on-going throughout the "lifespan" of a dataset, and require on-going attention from the curator.  These tasks include,
 
 >**Preservation Planning**
 Plan for preservation throughout the curation lifecycle of digital material. This would include plans for management and administration of all curation lifecycle actions.
@@ -47,9 +49,13 @@ Assign administrative, descriptive, technical, structural and preservation metad
 
 We'll talk more about these activities in coming sessions.
 
-### Occasional actions: These actions include disposal, reappraisal and migration of data
+#### Occasional actions: 
 
-### Sequential actions:  These actions mirror the general workflow of research, and each stage entails specific curatorial tasks.  We'll go into further detail on these tasks today.
+These actions include disposal, reappraisal and migration of data
+
+#### Sequential actions:  
+
+These actions mirror the general workflow of research, and each stage entails specific curatorial tasks.  We'll go into further detail on these tasks today.
 
 ## 2.2 The Data One Model
 
