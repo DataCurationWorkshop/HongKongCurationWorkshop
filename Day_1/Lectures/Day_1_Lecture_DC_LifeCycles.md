@@ -9,7 +9,7 @@ ILO's:
 #Outline
 
 0. Introduction (20 min, NW)
-1. Archives and Records Management for Data Curation (maybe move to 4)?
+1. Archives and Records Management for Data Curation (NW) 
 2. Review of lifecycle models (DCC, DataOne... , workflows from the SBDC project?) (20 min, AT)
 3. Making the lifecycle actionable (Checklists, Curation Profiles, Significant Properties) (20 Min, AT)
 4. Making the lifecycle actionable: the importance of stable identifiers (NW)
@@ -17,7 +17,7 @@ ILO's:
 
 ## 2. The Data Lifecycle
 
-While many curatorial steps _can_ take place long after data's original creation or collection, curation is generally more effective when conducted as an on-going process.  As the DCC says, 
+While many curatorial steps _can_ take place long after a dataset's original point of creation or collection, data curation is generally more effective when conducted as an on-going process.  As the DCC writes, 
 
 >It is a common misconception that data is created or captured and then passed on to someone else to curate. In fact, much of the most crucial information required for effective long-term curation and reuse must be captured at the conceptualisation and collection stages. [- DCC FAQ](http://www.dcc.ac.uk/resources/curation-lifecycle-model/lifecycle-model-faqs#sthash.I5US5DyT.dpuf)
 
@@ -27,23 +27,29 @@ There are numerous lifecycle models; for this workshop we'll focus on two of the
 
 ## 2.1 The DCC Lifecycle Model
 
+[image]
+
 The DCC model divides curatorial tasks into three interlinked categories, all of which are (quite literally) centered around data:
 
 #### Full lifecycle actions: 
 
-These are actions that are on-going throughout the "lifespan" of a dataset, and require on-going attention from the curator.  These tasks include,
+These are actions that continue throughout the lifespan[link to lifecycle def in introduction] of a dataset, and require on-going attention from the curator.  These tasks include,
 
->**Preservation Planning**
-Plan for preservation throughout the curation lifecycle of digital material. This would include plans for management and administration of all curation lifecycle actions.
+**Preservation Planning**
 
->**Community Watch and Participation**
-Maintain a watch on appropriate community activities, and participate in the development of shared standards, tools and suitable software. 
+>Plan for preservation throughout the curation lifecycle of digital material. This would include plans for management and administration of all curation lifecycle actions.
 
->**Curate and Preserve**
-Be aware of, and undertake management and administrative actions planned to promote curation and preservation throughout the curation lifecycle.
+**Community Watch and Participation**
 
->**Description and Representation Information**
-Assign administrative, descriptive, technical, structural and preservation metadata, using appropriate standards, to ensure adequate description and control over the long-term. Collect and assign representation information required to understand and render both the digital material and the associated metadata.
+>Maintain a watch on appropriate community activities, and participate in the development of shared standards, tools and suitable software. 
+
+**Curate and Preserve**
+
+>Be aware of, and undertake management and administrative actions planned to promote curation and preservation throughout the curation lifecycle.
+
+**Description and Representation Information**
+
+>Assign administrative, descriptive, technical, structural and preservation metadata, using appropriate standards, to ensure adequate description and control over the long-term. Collect and assign representation information required to understand and render both the digital material and the associated metadata.
 
 [See more](http://www.dcc.ac.uk/resources/curation-lifecycle-model#sthash.QOx0GL9t.dpuf)
 
@@ -51,11 +57,63 @@ We'll talk more about these activities in coming sessions.
 
 #### Occasional actions: 
 
-These actions include disposal, reappraisal and migration of data
+These actions may need to be done repeatedly, but only every once in a while.  They include:
+
+**Disposal**
+
+>Dispose of data, which has not been selected for long-term curation and preservation in accordance with documented policies, guidance or legal requirements.  Typically data may be transferred to another archive, repository, data centre or other custodian. In some instances data is destroyed. The data's nature may, for legal reasons, necessitate secure destruction.
+
+**Reappraisal**
+
+>Return data which fails validation procedures for further appraisal and re-selection.
+
+**Migration**
+
+>Migrate data to a different format. This may be done to accord with the storage environment or to ensure the data's immunity from hardware or software obsolescence. 
+
+[See more](http://www.dcc.ac.uk/resources/curation-lifecycle-model#sthash.Iq4isJfb.dpuf)
 
 #### Sequential actions:  
 
-These actions mirror the general workflow of research, and each stage entails specific curatorial tasks.  We'll go into further detail on these tasks today.
+These actions mirror the general workflow of research, and each stage entails specific curatorial tasks.  These include:
+
+**Conceptualise**
+
+>Conceive and plan the creation of data, including capture method and storage options.
+
+
+**Create or Receive**
+
+>Create data including administrative, descriptive, structural and technical metadata. Preservation metadata may also be added at the time of creation. Receive data, in accordance with documented collecting policies, from data creators, other archives, repositories or data centres, and if required assign appropriate metadata.
+
+**Appraise and Select**
+
+>Evaluate data and select for long-term curation and preservation. Adhere to documented guidance, policies or legal requirements.
+
+**Ingest**
+
+>Transfer data to an archive, repository, data centre or other custodian. Adhere to documented guidance, policies or legal requirements.
+
+**Preservation Action**
+>Undertake actions to ensure long-term preservation and retention of the authoritative nature of data. Preservation actions should ensure that data remains authentic, reliable and usable while maintaining its integrity. Actions include data cleaning, validation, assigning preservation metadata, assigning representation information and ensuring acceptable data structures or file formats.
+
+**Store**
+
+>Store the data in a secure manner adhering to relevant standards.
+
+**Access, Use and Reuse**
+
+>Ensure that data is accessible to both designated users and reusers, on a day-to-day basis. This may be in the form of publicly available published information. Robust access controls and authentication procedures may be applicable.
+
+**Transform**
+
+>Create new data from the original, for example: by migration into a different format, or by creating a subset, by selection or query, to create newly derived results, perhaps for publication
+
+(See more)[http://www.dcc.ac.uk/resources/curation-lifecycle-model#sthash.Iq4isJfb.dpuf]
+
+
+
+
 
 ## 2.2 The Data One Model
 
