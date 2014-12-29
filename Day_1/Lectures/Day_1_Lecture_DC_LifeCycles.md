@@ -23,7 +23,7 @@ While many curatorial steps _can_ take place long after a dataset's original poi
 
 Lifecycle models present us with a way of atomizing data collection, use, analysis and preservation into component stages, and then identifying individual curatorial tasks that can or should be completed at each point.
 
-There are numerous lifecycle models; for this workshop we'll focus on two of the more popular general models, from the DCC and Data One, and one domain-specific model from the SBDC project at Illinois.
+There are numerous lifecycle models; for this workshop we'll focus on two of the more popular general models, one from the Digital Curation Centre (DCC) and one from Data One, and one domain-specific model from the SBDC project at the University of Illinois.
 
 ## 2.1 The DCC Lifecycle Model
 
@@ -81,7 +81,6 @@ These actions mirror the general workflow of research, and each stage entails sp
 
 >Conceive and plan the creation of data, including capture method and storage options.
 
-
 **Create or Receive**
 
 >Create data including administrative, descriptive, structural and technical metadata. Preservation metadata may also be added at the time of creation. Receive data, in accordance with documented collecting policies, from data creators, other archives, repositories or data centres, and if required assign appropriate metadata.
@@ -109,22 +108,41 @@ These actions mirror the general workflow of research, and each stage entails sp
 
 >Create new data from the original, for example: by migration into a different format, or by creating a subset, by selection or query, to create newly derived results, perhaps for publication
 
-(See more)[http://www.dcc.ac.uk/resources/curation-lifecycle-model#sthash.Iq4isJfb.dpuf]
+[See more](http://www.dcc.ac.uk/resources/curation-lifecycle-model#sthash.Iq4isJfb.dpuf)
 
-
-
-
+Note that in the DCC model, the majority of work with data _prior_ to it's existence in an archive or repository takes place within the "Conceptualise" and "Create or Receive" phases of work.  While this may make the DCC Model particularly relevant for academic librarians and data curators, it does make it more less relevant to curators and researchers seeking to push curatorial activities "upstream" in the overall research process (see Wallis et al, 2008 for further explanation on the necessity of this).  The Data One and SBDC models presented below attempt to integrate curatorial and research activities a bit more holistically.
 
 ## 2.2 The Data One Model
 
+The Data One model is considerably simpler than the DCC model, and consists of 8 sequential, but continuous, stages: 
 
+>_Plan:_ description of the data that will be compiled, and how the data will be managed and made accessible throughout its lifetime
+_Collect:_ observations are made either by hand or with sensors or other instruments and the data are placed a into digital form
+_Assure:_ the quality of the data are assured through checks and inspections
+_Describe:_data are accurately and thoroughly described using the appropriate metadata
+standards
+_Preserve:_ data are submitted to an appropriate long-term archive (i.e. data center)
+_Discover:_ potentially useful data are located and obtained, along with the relevant information about the data (metadata)
+_Integrate:_ data from disparate sources are combined to form one homogeneous set of data that can be readily analyzed
+_Analyze:_ data are analyzed 
+
+(From the DataOne Best Practices Primer)
+
+[image]
+
+Many of these stages are similar to the sequential steps described by the DCC model -- however we do note that the Data ONE model is intended to be viewed through the perspective of an independent researcher or research team undertaking curatorial tasks on their own or in occasional collaboration with a data center or archiving service. Consequently, many of the recommendations are aimed at researchers rather than LIS practitioners. 
 
 ## 2.3 SBDC Workflow for Geobiology: Workflow documentation as a curatorial tool
 
-- Tie back to the "sequential actions" identified in the DCC model
+	
+
+
+
 
 ## References
 - DCC Model FAQ
+
+
 
 ## Bibliography
 
