@@ -48,9 +48,10 @@ Afternoon session - attendees will split into two groups
 
 Morning session
 
-- 09:00 - 10:30: *JSD:* Keynote address - “HathiTrust: Large-Scale Data Repository in the Humanities”
-- 10:00 - 10:15: Coffee break
-- 10:15 - 12:15: *AKT & NMW:* Lecture - “Providing Data Services”
+- 09:00 - 10:00: *AKT & NMW:* Lecture - “Providing Data Services”
+- 10:00 - 11:00: JSD interview Heidi Imker
+- 11:00 - 11:15: Coffee break
+- 11:15 - 12:15: *JSD:* Lecture - “HathiTrust: Large-Scale Data Repository in the Humanities” 
 - 12:15 - 12:30: Open discussion and question and answer period
 - 12:30 - 14:00: Lunch break
 
