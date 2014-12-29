@@ -116,14 +116,14 @@ Note that in the DCC model, the majority of work with data _prior_ to it's exist
 
 The Data One model is considerably simpler than the DCC model, and consists of 8 sequential, but continuous, stages: 
 
->_Plan:_ description of the data that will be compiled, and how the data will be managed and made accessible throughout its lifetime
-_Collect:_ observations are made either by hand or with sensors or other instruments and the data are placed a into digital form
-_Assure:_ the quality of the data are assured through checks and inspections
-_Describe:_data are accurately and thoroughly described using the appropriate metadata
-standards
-_Preserve:_ data are submitted to an appropriate long-term archive (i.e. data center)
-_Discover:_ potentially useful data are located and obtained, along with the relevant information about the data (metadata)
-_Integrate:_ data from disparate sources are combined to form one homogeneous set of data that can be readily analyzed
+>_Plan:_ description of the data that will be compiled, and how the data will be managed and made accessible throughout its lifetime<br>
+_Collect:_ observations are made either by hand or with sensors or other instruments and the data are placed a into digital form<br>
+_Assure:_ the quality of the data are assured through checks and inspections<br>
+_Describe:_ data are accurately and thoroughly described using the appropriate metadata
+standards<br>
+_Preserve:_ data are submitted to an appropriate long-term archive (i.e. data center)<br>
+_Discover:_ potentially useful data are located and obtained, along with the relevant information about the data (metadata)<br>
+_Integrate:_ data from disparate sources are combined to form one homogeneous set of data that can be readily analyzed<br>
 _Analyze:_ data are analyzed 
 
 (From the DataOne Best Practices Primer)
@@ -134,7 +134,13 @@ Many of these stages are similar to the sequential steps described by the DCC mo
 
 ## 2.3 SBDC Workflow for Geobiology: Workflow documentation as a curatorial tool
 
-	
+The Site-Based Data Curation (SBDC) project at the University of Illinois has been developing a framework of policies and best practices for the curation of digital research data collected from _scientifically significant sites_, using the interdisciplinary field of geobiology as an initial case study. We have found that extremely detailed workflow documentation can help practitioners identify important curatorial "points of intervention", or stages within a research project, at which data products must be captured for later sharing and reuse.
+
+Thus, rather than aiming to create an idealized lifecycle model applicable to all fields of scholarship (as the DCC and DataOne models do), we have created an extremely domain- or even project- specific workflow, that fully expresses the specificities of a given field of study or project.  We believe that the creation of field- or domain-specific workflows can be helpful curatorial tools in cases in which practitioners are working extensively with researchers from one scholarly domain, or one research team.
+
+In this example, we worked extensively with Bruce Fouke, a geobiologist and co-PI of our project, to first inventory all data products (e.g. digital data such as spreadsheets, databases, gene sequences, field notes, field photographs, and more) from one field project, and then document a) how those data products were created, and b) how those data products were interlinked. The SBDC team's later work curating those data products was also identified.
+
+The resulting workflow has 6 stages: Planning, Fieldwork, Processing & Analysis, Data Assessment, 
 
 
 
@@ -145,7 +151,6 @@ Many of these stages are similar to the sequential steps described by the DCC mo
 
 
 ## Bibliography
-
 
 ### Data and Digital Curation Lifecycle Models
 
@@ -167,5 +172,6 @@ Ball, A., 2012. Review of Data Management Lifecycle Models. Other. Bath, UK: Uni
 
 Wallis, J. C., Borgman, C. L., Mayernik, M. S., & Pepe, A. (2008). Moving archival practices upstream: An exploration of the life cycle of ecological sensing data in collaborative field research. International Journal of Digital Curation, 3(1), 114-126. [PDF](http://www.ijdc.net/index.php/ijdc/article/viewArticle/67)
 
+Haythornthwaite specificities paper
 
 
