@@ -4,7 +4,6 @@ Central to the enterprise of archiving and records management is the idea of a "
 
 1. Provenance, and the "chain of custody" 
 2. The "records continuum" and the "data continuum"
-3. Cost-models for appraisal and disposal of digital objects 
 
 Cliff Lynch has descried in detail, the difficult role that the scholarly record faces in a digitally networked environment - namely that issues of reliability, authenticity, and continued meaningful access are complicated by the distributed nature of digital artifacts, including data (1994). These issues have been at the center of archives and records management for many decades, and so being able to draw on the knowledge, and the tools developed by this community will be useful in your own institutional data curation initiatives.  
  
