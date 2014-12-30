@@ -1,10 +1,5 @@
 #“Data Curation Life Cycles and Tools”
 
-ILO's:
-
-1. Improve understanding of and familiarity with data curation life cycles
-2. Gain hands-on experience with developing data management plans associated with sponsored projects, with an eye toward risk and sustainability
-3. Learn to select and assess data management tools and repository systems for different disciplines for the purpose of sharing collections
 
 #Outline
 
@@ -35,19 +30,19 @@ The DCC model divides curatorial tasks into three interlinked categories, all of
 
 These are actions that continue throughout the lifespan[link to lifecycle def in introduction] of a dataset, and require on-going attention from the curator.  These tasks include,
 
-**Preservation Planning**
+_Preservation Planning_
 
 >Plan for preservation throughout the curation lifecycle of digital material. This would include plans for management and administration of all curation lifecycle actions.
 
-**Community Watch and Participation**
+_Community Watch and Participation_
 
 >Maintain a watch on appropriate community activities, and participate in the development of shared standards, tools and suitable software. 
 
-**Curate and Preserve**
+_Curate and Preserve_
 
 >Be aware of, and undertake management and administrative actions planned to promote curation and preservation throughout the curation lifecycle.
 
-**Description and Representation Information**
+_Description and Representation Information_
 
 >Assign administrative, descriptive, technical, structural and preservation metadata, using appropriate standards, to ensure adequate description and control over the long-term. Collect and assign representation information required to understand and render both the digital material and the associated metadata.
 
@@ -59,15 +54,15 @@ We'll talk more about these activities in coming sessions.
 
 These actions may need to be done repeatedly, but only every once in a while.  They include:
 
-**Disposal**
+_Disposal_
 
 >Dispose of data, which has not been selected for long-term curation and preservation in accordance with documented policies, guidance or legal requirements.  Typically data may be transferred to another archive, repository, data centre or other custodian. In some instances data is destroyed. The data's nature may, for legal reasons, necessitate secure destruction.
 
-**Reappraisal**
+_Reappraisal_
 
 >Return data which fails validation procedures for further appraisal and re-selection.
 
-**Migration**
+_Migration_
 
 >Migrate data to a different format. This may be done to accord with the storage environment or to ensure the data's immunity from hardware or software obsolescence. 
 
@@ -77,34 +72,34 @@ These actions may need to be done repeatedly, but only every once in a while.  T
 
 These actions mirror the general workflow of research, and each stage entails specific curatorial tasks.  These include:
 
-**Conceptualise**
+_Conceptualise_
 
 >Conceive and plan the creation of data, including capture method and storage options.
 
-**Create or Receive**
+_Create or Receive_
 
 >Create data including administrative, descriptive, structural and technical metadata. Preservation metadata may also be added at the time of creation. Receive data, in accordance with documented collecting policies, from data creators, other archives, repositories or data centres, and if required assign appropriate metadata.
 
-**Appraise and Select**
+_Appraise and Select_
 
 >Evaluate data and select for long-term curation and preservation. Adhere to documented guidance, policies or legal requirements.
 
-**Ingest**
+_Ingest_
 
 >Transfer data to an archive, repository, data centre or other custodian. Adhere to documented guidance, policies or legal requirements.
 
-**Preservation Action**
+_Preservation Action_
 >Undertake actions to ensure long-term preservation and retention of the authoritative nature of data. Preservation actions should ensure that data remains authentic, reliable and usable while maintaining its integrity. Actions include data cleaning, validation, assigning preservation metadata, assigning representation information and ensuring acceptable data structures or file formats.
 
-**Store**
+_Store_
 
 >Store the data in a secure manner adhering to relevant standards.
 
-**Access, Use and Reuse**
+_Access, Use and Reuse_
 
 >Ensure that data is accessible to both designated users and reusers, on a day-to-day basis. This may be in the form of publicly available published information. Robust access controls and authentication procedures may be applicable.
 
-**Transform**
+_Transform_
 
 >Create new data from the original, for example: by migration into a different format, or by creating a subset, by selection or query, to create newly derived results, perhaps for publication
 
