@@ -5,10 +5,10 @@
 
 0. Introduction (20 min, NW)
 1. Archives and Records Management for Data Curation (NW) 
-2. Review of lifecycle models (DCC, DataOne... , workflows from the SBDC project?) (20 min, AT)
+*2. Review of lifecycle models (DCC, DataOne... , workflows from the SBDC project?) (20 min, AT)*
 3. Making the lifecycle actionable (Checklists, Curation Profiles, Significant Properties) (20 Min, AT)
 4. Making the lifecycle actionable: the importance of stable identifiers (NW)
-5. Preview of Tools to be used in afternoon labs (AT)- Any preview of afternoon case study?
+5. Scholarly Communications Issues: Data Citation, Publication, and Linking
 
 ## 2. The Data Lifecycle
 
@@ -16,9 +16,13 @@ While many curatorial steps _can_ take place long after a dataset's original poi
 
 >It is a common misconception that data is created or captured and then passed on to someone else to curate. In fact, much of the most crucial information required for effective long-term curation and reuse must be captured at the conceptualisation and collection stages. [from the DCC FAQ](http://www.dcc.ac.uk/resources/curation-lifecycle-model/lifecycle-model-faqs#sthash.I5US5DyT.dpuf)
 
-Lifecycle models present us with a way of atomizing data collection, use, analysis and preservation into component stages, and then identifying individual curatorial tasks that can or should be completed at each point.
+Life cycle models present us with a way of atomizing data collection, use, analysis and preservation into component stages, and then identifying individual curatorial tasks that can or should be completed at each point. Further, a life cycle approach to curation is necessary because:
+>- Digital materials are fragile and susceptible to change from technological advances throughout their life cycle, i.e. from creation onwards;
+>- Activities (or lack of) at each stage in the life cycle directly influence our ability to manage and preserve digital materials in subsequent stages;
+>- Reliable re-use of digital materials is only possible if materials are curated in such a way that their authenticity and integrity are retained.  (Pennock, 2007)
 
-There are numerous lifecycle models; for this workshop we'll focus on two of the more popular general models, one from the Digital Curation Centre (DCC) and one from Data One, and one domain-specific model from the SBDC project at the University of Illinois.
+
+There are numerous life cycle models; for this workshop we'll focus on two of the more popular general models, one from the Digital Curation Centre (DCC) and one from Data One, and one domain-specific model from the SBDC project at the University of Illinois.
 
 ## 2.1 The DCC Lifecycle Model
 
@@ -147,8 +151,6 @@ we have tried to show the dependencies between different data products produced 
 Though this initial workflow is specific to the field of geobiology -- and indeed, Dr. Fouke's particular field practices -- we are working with other researchers in other fields to document their research and curation workflows as well, and we hope that the resulting workflows can be altered and used by others.  We will discuss the workflow documentation process further in today's lab session.
 
 
-
-
 ## Bibliography
 
 ### Data and Digital Curation Lifecycle Models
@@ -173,4 +175,4 @@ Wallis, J. C., Borgman, C. L., Mayernik, M. S., & Pepe, A. (2008). Moving archiv
 
 Haythornthwaite specificities paper
 
-
+Pennock, M. (2007). Digital curation: A life-cycle approach to managing and preserving usable digital information. Library and Archives Journal, Issue 1. Retrieved (preprint) June 18, 2008 from http://www.ukoln.ac.uk/ukoln/staff/m.pennock/publications/docs/lib-arch_curation.pdf
