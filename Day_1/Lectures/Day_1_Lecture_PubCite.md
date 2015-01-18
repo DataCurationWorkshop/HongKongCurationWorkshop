@@ -1,14 +1,10 @@
-## Scholarly Communications Issues: Data Citation, Publication, and Linking
+## Scholarly Communications Issues: Data Publication and Linking
+
 
 
 
 ### Bibliography
 
--  Belter CW (2014) Measuring the Value of Research Data: A Citation Analysis of Oceanographic Data Sets. PLoS ONE 9(3): e92590. doi:10.1371/journal.pone.0092590
-
-- Parsons, M. A., Duerr, R., & Minster, J. B. (2010). Data citation and peer review. Eos, Transactions American Geophysical Union, 91(34), 297-298.
-
-- Mooney, H., & Newton, M. P. (2012). The anatomy of a data citation: discovery, reuse, and credit. Journal of Librarianship and Scholarly Communication, 1(1), 6.
 
 - Costello, M. J. (2009). Motivating online publication of data. BioScience, 59(5), 418-427.
 
