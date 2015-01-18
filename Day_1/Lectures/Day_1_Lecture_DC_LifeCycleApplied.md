@@ -24,14 +24,6 @@ The DCC has created checklists of tasks to accomplish for each of the "sequentia
 >- Determine intellectual property rights from the outset and ensure they are documented
 >- Identify any anticipated publication requirements (embargoes, restrictions on publishing over multiple sites). 
 
-and
-
-> **Preservation Action**
-> - Know what you want people to be able to do with your data – this will impact many aspects (formats selected for long term storage, compression, etc…) 
-> - Pin down the significant properties of your data and communicate them – make sure that the people carrying out preservation actions know what they are. This might be through metadata or other means. 
-> - Don’t be afraid to be critical when reviewing ‘best practice’ and recommended approaches. They might work for the specific scenario for which they were created but not for you. Do you know the criteria used to rate things like ‘preferred’ formats?
-> - Document preservation actions so that people know what has been done to the data over time. 
-
 These tasks outlined in the checklists are intentionally broad -- this makes them appropriate for a broad range of data types and institutional setups.
 
 ### 3.2. Data Curation Profiles 
@@ -39,7 +31,6 @@ These tasks outlined in the checklists are intentionally broad -- this makes the
 The Curation Profiles Project (CPP) was an IMLS-funded research project between Purdue University Libraries and GSLIS; the overall goal was to understand which researchers would be willing to share data when, and why, via detailed case studies of different researchers' data practices.  The CPP team conducted cases studies of 12 different research domains, and from these, developed Data Curation Profiles: 
 
 >A Data Curation Profile is essentially an outline of the “story” of a data set or collection, describing its origin and lifecycle within a research project.
-
 
 Data Curation Profiles can:
 
@@ -50,15 +41,12 @@ Data Curation Profiles can:
 > - help identify possible data services
 > - create a starting point for curating a data set for archiving and preservation
 
-From these profiles, researchers at Purdue went on to develop the Data Curation Profile Toolkit for use by librarians and data curators, to help guide conversations between them and researchers. The Toolkit itself is essentially an interview guide -- similar to a reference interview, in some ways, but with the goal of helping the librarian understand a dataset's curatorial needs, rather than a patron's research needs.  At a broader level, the toolkit can:
+From these profiles, researchers at Purdue went on to develop the Data Curation Profile Toolkit for use by librarians and data curators, to help guide conversations between them and researchers. The Toolkit itself is essentially an interview guide -- similar to a reference interview, in some ways, but with the goal of helping the librarian understand a dataset's curatorial needs, rather than a patron's research needs. 
 
-> - can serve as a foundational document to guide the management and/or curation of a particular data set
-> - can be shared with staff providing data services and others to inform them of the researcher's needs and ensure that everyone is on the same page
-> - may be used to inform the development of data services to be offered by the institution, as well as to help identify the types of tools, infrastructure and responsibilities for data services staff
-> - may be used by others as a guide in developing data services at their own institutions
-> - may be used as objects of research to further a better understanding of data types that researchers want or need to share, curate or preserve as well as the needs of researchers in doing so
 
 ### 3.3. Identifying significant properties
+
+
 
 
 ### 3.4. SBDC: bridging checklists, curation profiles, and significant properties
@@ -66,8 +54,6 @@ From these profiles, researchers at Purdue went on to develop the Data Curation 
 In the SBDC project, we're working toward identifying more specific checklists of not just tasks, but key data products, that must be preserved at the time of their creation, or included in an archival package at the time of assembly.  
 [more]
 
-
-### 3.5. The importance of stable identifiers
 
 
 ## Bibliography
@@ -89,6 +75,8 @@ Cragin, M. H., Palmer, C. L., Carlson, J. R., & Witt, M. (2010). Data sharing , 
 Witt, M., Carlson, J., Brandt, D. S., & Cragin, M. H. (2009). The International Journal of Digital Curation Constructing Data Curation Profiles. Library, 4(3), 93–103.
 
 Curation Profiles Project web resources [link](http://datacurationprofiles.org/)
+
+### 3.5. The importance of stable identifiers
 
 ### Identifiers
 ## Bibliography
