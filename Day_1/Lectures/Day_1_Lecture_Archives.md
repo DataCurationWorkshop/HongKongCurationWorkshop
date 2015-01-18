@@ -26,3 +26,5 @@ Yeo, Geoffrey. (2008). Records and Representations. Paper given at the Conferenc
 Akmon, Dharma, Ann Zimmerman, Morgan Daniels, and Margaret Hedstrom. "The Application of Archival Concepts to a Data-Intensive Environment: Working with Scientists to Understand Data Management and Preservation Needs." Archival Science 11, no. 3/4 (2011): 329-348. http://hdl.handle.net/2027.42/86738
 
 Ilerbaig, Juan. (2010) Specimens as Records: Scientific Practice and Recordkeeping in Natural History Research. American Archivist 73(2):463-82. http://archivists.metapress.com/content/607470v482172220/
+
+- http://sunlightfoundation.com/blog/2014/05/06/how-good-records-management-helps-open-data/
