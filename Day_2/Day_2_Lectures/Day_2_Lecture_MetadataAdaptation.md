@@ -10,9 +10,9 @@ _ILO's:
 #Outline
 
 1. Review key concepts about metadata schemas
-2. Evaluating metadata schema FFU
-- Present Willis et al paper and Greenberg's MODAL framework (2005)
+2. Evaluating metadata schema FFU --  Present Willis et al paper and Greenberg's MODAL framework (2005)
 3. Adapting schemas -- examples in use
+
 - DwC as used in DwC Archives
 - humanities example: something in HTRC?
 - Social science?

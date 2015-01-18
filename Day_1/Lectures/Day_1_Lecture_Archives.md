@@ -4,7 +4,6 @@ Central to the enterprise of archiving and records management is the idea of a "
 
 1. Provenance, and the "chain of custody" 
 2. The "records continuum" and the "data continuum"
-3. Cost-models for appraisal and disposal of digital objects 
 
 Cliff Lynch has descried in detail, the difficult role that the scholarly record faces in a digitally networked environment - namely that issues of reliability, authenticity, and continued meaningful access are complicated by the distributed nature of digital artifacts, including data (1994). These issues have been at the center of archives and records management for many decades, and so being able to draw on the knowledge, and the tools developed by this community will be useful in your own institutional data curation initiatives.  
  
@@ -26,5 +25,8 @@ Yeo, Geoffrey. (2008). Records and Representations. Paper given at the Conferenc
 Akmon, Dharma, Ann Zimmerman, Morgan Daniels, and Margaret Hedstrom. "The Application of Archival Concepts to a Data-Intensive Environment: Working with Scientists to Understand Data Management and Preservation Needs." Archival Science 11, no. 3/4 (2011): 329-348. http://hdl.handle.net/2027.42/86738
 
 Ilerbaig, Juan. (2010) Specimens as Records: Scientific Practice and Recordkeeping in Natural History Research. American Archivist 73(2):463-82. http://archivists.metapress.com/content/607470v482172220/
+<<<<<<< HEAD
 
 - http://sunlightfoundation.com/blog/2014/05/06/how-good-records-management-helps-open-data/
+=======
+>>>>>>> FETCH_HEAD
