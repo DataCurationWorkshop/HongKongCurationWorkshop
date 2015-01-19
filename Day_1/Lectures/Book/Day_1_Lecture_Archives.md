@@ -11,7 +11,7 @@ Cliff Lynch has descried in detail, the difficult role that the scholarly record
 
 - A definition of "record" from the _American Archivists Association's_ Glossary - http://www2.archivists.org/glossary/terms/r/record 
 
-Lynch, C.  (1994) Rethinking the Integrity of the Scholarly Record in the Networked Information Age." Educom Review 29, no. 2.  38-40. http://net.educause.edu/apps/er/review/reviewArticles/29238.html
+- Lynch, C.  (1994) Rethinking the Integrity of the Scholarly Record in the Networked Information Age." Educom Review 29, no. 2.  38-40. http://net.educause.edu/apps/er/review/reviewArticles/29238.html
 
 
 ## Bibliography
