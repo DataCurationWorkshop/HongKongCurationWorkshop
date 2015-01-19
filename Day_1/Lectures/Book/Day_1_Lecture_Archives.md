@@ -7,6 +7,8 @@ Central to the enterprise of archiving and records management is the idea of a "
 
 Cliff Lynch has descried in detail, the difficult role that the scholarly record faces in a digitally networked environment - namely that issues of reliability, authenticity, and continued meaningful access are complicated by the distributed nature of digital artifacts, including data (1994). These issues have been at the center of archives and records management for many decades, and so being able to draw on the knowledge, and the tools developed by this community will be useful in your own institutional data curation initiatives.  
  
+ <iframe src="//www.slideshare.net/slideshow/embed_code/43665021" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+ 
 ## Works Cited
 
 - A definition of "record" from the _American Archivists Association's_ Glossary - http://www2.archivists.org/glossary/terms/r/record 
