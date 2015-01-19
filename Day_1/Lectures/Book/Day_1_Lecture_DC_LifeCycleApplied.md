@@ -38,13 +38,13 @@ From these profiles, researchers at Purdue went on to develop the Data Curation 
 
 **DMP Tool**
 
-[DMP Tool](https://dmptool.org//)
+- [DMP Tool](https://dmptool.org//)
 
 - Sallans, A., & Donnelly, M. (2012). DMP Online and DMPTool: Different strategies towards a shared goal. International Journal of Digital Curation, 7(2), 123-129.
 
 - Mallery, M. (2014). Dmptool: Guidance and Resources for Your Data Management Plan; https://dmp. cdlib. org. Technical Services Quarterly, 31(2), 197-199.
 
--Shreeves, S. L. (2014). Presenting the New and Improved DMPTool. [Link to presentation](https://www.ideals.illinois.edu/handle/2142/49957)
+- Shreeves, S. L. (2014). Presenting the New and Improved DMPTool. [Link to presentation](https://www.ideals.illinois.edu/handle/2142/49957)
 
 **Curation Profiles Project**
 
