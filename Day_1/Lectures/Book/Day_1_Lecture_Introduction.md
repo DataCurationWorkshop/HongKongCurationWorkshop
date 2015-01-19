@@ -6,6 +6,6 @@ In this opening session we will introduce various lifecycle models, and describe
 
 ## Bibliography
 
-- Palmer, C. L., Wickett, K. M., Weber, N. M., Muñoz, T., & Renear, A. H. (2013). Foundations of data curation: the pedagogy and practice of “purposeful work” with research data. Arch J, 3.
+- Palmer, C. L., Weber, N. M., Muñoz, T., & Renear, A. H. (2013). Foundations of data curation: the pedagogy and practice of “purposeful work” with research data. Arch J, 3.
 
 
