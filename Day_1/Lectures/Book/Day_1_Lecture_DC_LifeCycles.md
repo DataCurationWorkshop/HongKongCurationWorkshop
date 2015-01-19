@@ -1,16 +1,6 @@
-#“Data Curation lifecycles and Tools”
+#Data Curation lifecycles and Tools
 
-
-#Outline
-
-0. Introduction (20 min, NW)
-1. Archives and Records Management for Data Curation (NW) 
-*2. Review of lifecycle models (DCC, DataOne... , workflows from the SBDC project?) (20 min, AT)*
-3. Making the lifecycle actionable (Checklists, Curation Profiles, Significant Properties) (20 Min, AT)
-4. Making the lifecycle actionable: the importance of stable identifiers (AT)
-5. Scholarly Communications Issues: Data Citation, Publication, and Linking
-
-## 2. From the OAIS to the Data Lifecycle
+##From the OAIS to the Data Lifecycle
 
 While many curatorial steps _can_ take place long after a dataset's original point of creation or collection, data curation is generally more effective when conducted as an on-going process.  As the DCC writes, 
 
@@ -22,7 +12,7 @@ Lifecycle models are a way of atomizing data collection, use, analysis and prese
 
 There are numerous lifecycle models; for this workshop we'll focus on two of the more popular general models, one from the Digital Curation Centre (DCC) and one from Data One, and one domain-specific model from the SBDC project at the University of Illinois.
 
-## 2.1 OAIS Reference Model
+##OAIS Reference Model
 
 Created by Consultive Committee for Space Data Systems (CCSDS) for use with space data, the OAIS Reference Model has been widely adapted by a broad range of non-space agencies as a general model of a preservation system for both analog and digital data objects.
 
@@ -33,9 +23,9 @@ The OAIS Reference Model provides information professionals with a conceptual fr
 
 Preservation activities are prioritized according to the needs of a "designated community" of users.
  
-## 2.2 The DCC Lifecycle Model
+##The DCC Lifecycle Model
 
-[image]
+![image](http://www.lib.ua.edu/wiki/sura/images/0/0d/DCC-data-lifecycle.png)
 
 The DCC model divides curatorial tasks into three interlinked categories, all of which are (quite literally) centered around data:
 
@@ -55,15 +45,15 @@ These actions mirror the general workflow of research, and each stage entails sp
 
 Note that in the DCC model, the majority of work with data _prior_ to it's existence in an archive or repository takes place within the "Conceptualise" and "Create or Receive" stages.  While this may make the DCC Model particularly relevant for academic librarians and data curators, it does make it more less relevant to curators and researchers seeking to push curatorial activities "upstream" in the overall research process (see Wallis et al, 2008 for further explanation on the necessity of this).  The Data One and SBDC models presented below attempt to integrate curatorial and research activities a bit more holistically.
 
-## 2.2 The Data One Model
+##The Data One Model
 
 The Data One model is considerably simpler than the DCC model, and consists of 8 sequential, but continuous, stages: 
 
-[image]
+![image](http://image.slidesharecdn.com/lifecyclestarr-121114085254-phpapp01/95/what-is-the-research-life-cycle-5-638.jpg?cb=1355761447)
 
 Many of these stages are similar to the sequential steps described by the DCC model -- however we do note that the Data ONE model is intended to be viewed through the perspective of an independent researcher or research team undertaking curatorial tasks on their own or in occasional collaboration with a data center or archiving service. Consequently, many of the recommendations are aimed at researchers rather than LIS practitioners. 
 
-## 2.3 SBDC Workflow for Geobiology: Workflow documentation as a curatorial tool
+## SBDC Workflow for Geobiology: Workflow documentation as a curatorial tool
 
 The Site-Based Data Curation (SBDC) project at the University of Illinois has been developing a framework of policies and best practices for the curation of digital research data collected from _scientifically significant sites_, using the interdisciplinary field of geobiology as an initial case study. We have found that extremely detailed workflow documentation can help practitioners identify important curatorial "points of intervention", or stages within a research project, at which data products must be captured for later sharing and reuse.
 
@@ -71,7 +61,7 @@ Thus, rather than aiming to create an idealized lifecycle model applicable to al
 
 In this example, we worked extensively with Bruce Fouke, a geobiologist and co-PI of our project, to first inventory all data products (e.g. digital data such as spreadsheets, databases, gene sequences, field notes, field photographs, and more) from one field project, and then document a) how those data products were created, and b) how those data products were interlinked. The SBDC team's later work curating those data products was also identified.
 
-The resulting workflow has 6 stages: Planning, Fieldwork, Processing & Analysis, Data Assessment, Standardizing and Packaging.  
+The resulting workflow has 6 stages: Planning, Fieldwork, Processing & Analysis, Data Assessment, Standardizing and Packaging. 
 
 [image of workflow]
 
@@ -88,44 +78,40 @@ Though this initial workflow is specific to the field of geobiology -- and indee
 ### Data and Digital Curation Lifecycle Models
 
 **OAIS**
-ISO 14721:2003 [link](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=24683)
+- ISO 14721:2003 [link](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=24683)
 
-CCSDS "Magenta Books" [link](http://public.ccsds.org/publications/MagentaBooks.aspx)
+- CCSDS "Magenta Books" [link](http://public.ccsds.org/publications/MagentaBooks.aspx)
 
-CCSDS - Reference Model for an OAIS: [link](http://public.ccsds.org/publications/archive/650x0m2.pdf)
+- CCSDS - Reference Model for an OAIS: [link](http://public.ccsds.org/publications/archive/650x0m2.pdf)
 
-Knight, G., & Hedges, M. (2008). Modelling OAIS Compliance for Disaggregated Preservation Services. International Journal of Digital Curation, 2(1), 62–72. Retrieved from http://www.ijdc.net/index.php/ijdc/article/viewArticle/25
+- Knight, G., & Hedges, M. (2008). Modelling OAIS Compliance for Disaggregated Preservation Services. International Journal of Digital Curation, 2(1), 62–72. Retrieved from http://www.ijdc.net/index.php/ijdc/article/viewArticle/25
 
-McDonough, J. P. (2011). Packaging videogames for long-term preservation: Integrating FRBR and the OAIS reference model. Journal of the American Society for Information Science and Technology, 62(1), 171–184. doi:10.1002/asi.21412
+- McDonough, J. P. (2011). Packaging videogames for long-term preservation: Integrating FRBR and the OAIS reference model. Journal of the American Society for Information Science and Technology, 62(1), 171–184. doi:10.1002/asi.21412
 
-Vardigan, M., & Whiteman, C. (2007). ICPSR meets OAIS: applying the OAIS reference model to the social science archive context. Archival Science, 7(1), 73–87. doi:10.1007/s10502-006-9037-z
+- Vardigan, M., & Whiteman, C. (2007). ICPSR meets OAIS: applying the OAIS reference model to the social science archive context. Archival Science, 7(1), 73–87. doi:10.1007/s10502-006-9037-z
 
 **DCC**
 
-DCC Lifecycle Model and Web Resources [link](http://www.dcc.ac.uk/resources/curation-lifecycle-model)
+- DCC Lifecycle Model and Web Resources [link](http://www.dcc.ac.uk/resources/curation-lifecycle-model)
 
-Higgins, S. (2008). The DCC curation lifecycle model. International Journal of Digital Curation, 3(1), 134-140. [PDF](http://www.ijdc.net/index.php/ijdc/article/viewArticle/69)
+- Higgins, S. (2008). The DCC curation lifecycle model. International Journal of Digital Curation, 3(1), 134-140. [PDF](http://www.ijdc.net/index.php/ijdc/article/viewArticle/69)
 
 
 **Data ONE**
 
-DataONE general resources and best practices [link](https://www.dataone.org/best-practices)
+- DataONE general resources and best practices [link](https://www.dataone.org/best-practices)
 
-Strasser, C., Cook, R., Michener, R., & Budden, A. (N.D.). Primer on Data Management: What you always wanted to know (but were afraid to ask). Data One. [PDF](https://www.dataone.org/sites/all/documents/DataONE_BP_Primer_020212.pdf)
+- Strasser, C., Cook, R., Michener, R., & Budden, A. (N.D.). Primer on Data Management: What you always wanted to know (but were afraid to ask). Data One. [PDF](https://www.dataone.org/sites/all/documents/DataONE_BP_Primer_020212.pdf)
 
 **SBDC**
 
-Site-Based Data Curation Guide [link](https://sitebaseddatacuration.wordpress.com/)
+- Site-Based Data Curation Guide [link](https://sitebaseddatacuration.wordpress.com/)
 
-- asist poster
-- link to AGU posters
 
 **Other Resources and References**
 
-Ball, A., 2012. Review of Data Management Lifecycle Models. Other. Bath, UK: University of Bath. [PDF](http://opus.bath.ac.uk/28587/1/redm1rep120110ab10.pdf)
+- Ball, A., 2012. Review of Data Management Lifecycle Models. Other. Bath, UK: University of Bath. [PDF](http://opus.bath.ac.uk/28587/1/redm1rep120110ab10.pdf)
 
-Wallis, J. C., Borgman, C. L., Mayernik, M. S., & Pepe, A. (2008). Moving archival practices upstream: An exploration of the lifecycle of ecological sensing data in collaborative field research. International Journal of Digital Curation, 3(1), 114-126. [PDF](http://www.ijdc.net/index.php/ijdc/article/viewArticle/67)
+- Wallis, J. C., Borgman, C. L., Mayernik, M. S., & Pepe, A. (2008). Moving archival practices upstream: An exploration of the lifecycle of ecological sensing data in collaborative field research. International Journal of Digital Curation, 3(1), 114-126. [PDF](http://www.ijdc.net/index.php/ijdc/article/viewArticle/67)
 
-Haythornthwaite specificities paper
-
-Pennock, M. (2007). Digital curation: A life-cycle approach to managing and preserving usable digital information. Library and Archives Journal, Issue 1. Retrieved (preprint) June 18, 2008 from http://www.ukoln.ac.uk/ukoln/staff/m.pennock/publications/docs/lib-arch_curation.pdf
+- Pennock, M. (2007). Digital curation: A life-cycle approach to managing and preserving usable digital information. Library and Archives Journal, Issue 1. Retrieved (preprint) June 18, 2008 from http://www.ukoln.ac.uk/ukoln/staff/m.pennock/publications/docs/lib-arch_curation.pdf
