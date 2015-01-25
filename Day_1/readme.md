@@ -8,7 +8,7 @@ ILO's:
 
 Key Note:
 
-“Open Data and Scholarly Communication”
+“Open Data and Scholarly Communication” (NW)
 
 Morning lectures:
 
@@ -21,8 +21,8 @@ Morning lectures:
 
 Case Study:
 
-- Data Conservancy + Data Curation in Research Libraries
+- Data Conservancy + Data Curation in Research Libraries (NW)
 
 Lab:
 
-- Curation profiles Toolkit and Data management planning
+- Curation profiles Toolkit and Data management planning (AT)
