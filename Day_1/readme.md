@@ -6,9 +6,23 @@ ILO's:
 
 #Outline
 
+Key Note:
+
+“Open Data and Scholarly Communication”
+
+Morning lectures:
+
 0. Introduction (20 min, NW)
 1. Archives and Records Management for Data Curation (20 min, NW) 
 2. Review of lifecycle models (DCC, DataOne... , workflows from the SBDC project?) (20 min, AT)
 3. Making the lifecycle actionable (Checklists, Curation Profiles, Significant Properties) (20 Min, AT)
 4. Making the lifecycle actionable: the importance of stable identifiers (20 min, AT)
 5. Scholarly Communications Issues: Data Citation, Publication, and Linking (20 min, NW)
+
+Case Study:
+
+- Data Conservancy + Data Curation in Research Libraries
+
+Lab:
+
+- Curation profiles Toolkit and Data management planning
