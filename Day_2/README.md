@@ -2,11 +2,10 @@ Day 2
 
 Morning
 
-JSD on Metadata
-
 JSD + JM on Metadata
 
 lecture:
+
 1. Metadata for data curation (intro)
 2. Evaluating and selecting between existing standards
 3. Crosswalking
