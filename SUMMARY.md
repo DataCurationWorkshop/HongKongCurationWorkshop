@@ -8,7 +8,7 @@
 		* [1.1: Archives and Records Management for Data Curation](Day_1/Lectures/Book/Day_1_Lecture_Archives.md)
 		* [1.2: Overview of the data lifecycle](Day_1/Lectures/Book/Day_1_Lecture_DC_LifeCycles.md)
 		* [1.3: The lifecycle applied](Day_1/Lectures/Book/Day_1_Lecture_DC_LifeCycleApplied.md)
-		* [1.4: Identifiers](Day_1/Lectures/Book/Day_1_Lecture_Identifiers.md)
+		* [1.4: Identifiers](Day_1/Lectures/Book/Day_1_Lectures_Identifiers.md)
 	* [Case Study: Academic Data Curation](Day_1/Case_Study/Day_1_AcadDataCuration_CaseStudy.md)
 	* Lab: Curation Profiles Toolkit and Data Management Plans
 * [Day 2](Day_2/readme.md)
