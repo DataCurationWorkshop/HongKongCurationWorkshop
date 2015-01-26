@@ -11,6 +11,8 @@ Our case study will focus on two institutions that have been at the forefront of
 
 - Task Group on Data Citation Standards and Practices, C. I. (2013). Out of Cite, Out of Mind: The Current State of Practice, Policy, and Technology for the Citation of Data. Data Science Journal, 12(0), CIDCR1-CIDCR75: http://openscholar.mit.edu/sites/default/files/dept/files/outofcite.pdf 
 
+- Proll, S., & Rauber, A. (2013, October). Scalable data citation in dynamic, large databases: Model and reference implementation. In Big Data, 2013 IEEE International Conference on (pp. 307-312). IEEE.
+
 - Mooney, H., & Newton, M. P. (2012). The anatomy of a data citation: discovery, reuse, and credit. Journal of Librarianship and Scholarly Communication, 1(1), 6.
 
 - Mayernik, M. (2012). Data citation initiatives and issues. Bulletin of the American Society for Information Science and Technology, 38(5), 23-28. http://www.asis.org/Bulletin/Jun-12/JunJul12_MayernikDataCitation.html
