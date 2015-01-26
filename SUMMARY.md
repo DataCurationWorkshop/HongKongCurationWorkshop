@@ -17,3 +17,4 @@
 		* 2.1 Evaluating and selecting between existing standards
 		* 2.2 Crosswalking
 		* 2.3 Application Profiles
+* [Day 3](Day_3/readme.md)
