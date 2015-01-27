@@ -4,11 +4,11 @@ In parallel with the lowered cost of computing, and the rise of networked inform
 
 Digital data produced by research in the humanities, and science & engineering has, similarly, become an important aspect of scholarship. Just as our phones and cars depend on data to get us where we are going safely, scholars depend on access to, and preservation of their data in order to produce reliable knowledge.  
 
-Data curation has emerged as an approach to stewarding digital data for scholars, by institutions like Archives, Museums, and most especially Libraries. 
+Data curation has emerged as an approach to reliablity stewarding and preserving digital data for scholars 
 
-Although many of the goals of data curation are the same across these different types of institutions, data curation means different things to different institutional, educational, and scholarly communities. 
+Archives, Museums, and most especially Libraries have responded to the stewardship and preservation of these digital products through data curation initatives.  
 
-The goal of this workshop is to provide you a working knowledge of the concepts, tools, and approaches to *doing* data curation. In understanding the foundations of data curation - as it cuts across each of these settings - , you will be better prepared to make decisions about the costs and benefits of offering data curation services in your own institutional settings. 
+The goal of this workshop is to provide you a working knowledge of the concepts, tools, and approaches to *doing* data curation. In understanding the foundations of data curation - as it cuts across different disciplines and domains - you will be better prepared to make decisions about the costs and benefits of offering data curation services in your own institutional settings. 
 
 An important first step in this process is to carefully define what is we mean when we talk about data curation, and what it is that we do NOT mean.    
 
@@ -16,7 +16,7 @@ So, to begin we find it helpful to tease apart the "data" and the "curation" asp
 
 ### What do we mean by data?
 
-Rather than a distinct type of information object (i.e. a map, a database, a digital document) we consider data to be any information objects that plays a role in the scholars process. In this sense, data has many different forms and types. What makes these forms and types related is that they are used for a similar end. 
+Rather than a distinct type of information object (i.e. a map, a database, a digital document) we consider data to be any information objects that plays a role in a scholars' process of creating new knowledge. In this sense, data has many different forms and types. What makes these forms and types related is that they are used for a similar end. 
 
 In data curation, especially as it is practices by institutions of higher education, data are information objects playing an evidential role for supporting scholarship.
 
@@ -26,7 +26,7 @@ With this framework in mind, we offer the following definition:
 
 Note that in this definition we do not make a distinction about these informational resources being digital; research data could include any number of physical objects, such as a biological specimen, an architectural blue print, a paper map, etc.
 
-The focus of this workshop will be on the curation of digital data. However, there are times when it is necessary to consider how digital data are linked to other forms of physical data - as we discuss in later sessions related to provenance and workflow technologies. 
+Although the focus of this workshop will be on the curation of digital data there are times when it is necessary to consider how digital data are, and should be linked to physical data. (We will discuss these issues in sessions related to provenance and workflow technologies) 
 
 ### What kinds of evidential roles do data play?
 
