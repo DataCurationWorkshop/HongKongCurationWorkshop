@@ -53,25 +53,6 @@ The Data One model is considerably simpler than the DCC model, and consists of 8
 
 Many of these stages are similar to the sequential steps described by the DCC model -- however we do note that the Data ONE model is intended to be viewed through the perspective of an independent researcher or research team undertaking curatorial tasks on their own or in occasional collaboration with a data center or archiving service. Consequently, many of the recommendations are aimed at researchers rather than LIS practitioners. 
 
-## SBDC Workflow for Geobiology: Workflow documentation as a curatorial tool
-
-The Site-Based Data Curation (SBDC) project at the University of Illinois has been developing a framework of policies and best practices for the curation of digital research data collected from _scientifically significant sites_, using the interdisciplinary field of geobiology as an initial case study. We have found that extremely detailed workflow documentation can help practitioners identify important curatorial "points of intervention", or stages within a research project, at which data products must be captured for later sharing and reuse.
-
-Thus, rather than aiming to create an idealized lifecycle model applicable to all fields of scholarship (as in the DCC and DataOne models do), we have created an extremely domain- (or even project-) specific workflow, that fully expresses the specificities unique to a particular kind of research.  We believe that the creation of domain- or project-specific workflows can be helpful curatorial tools in cases in which practitioners are working extensively with researchers from one scholarly domain, or one research team.
-
-In this example, we worked extensively with Bruce Fouke, a geobiologist and co-PI of our project, to first inventory all data products (e.g. digital data such as spreadsheets, databases, gene sequences, field notes, field photographs, and more) from one field project, and then document a) how those data products were created, and b) how those data products were interlinked. The SBDC team's later work curating those data products was also identified.
-
-The resulting workflow has 6 stages: Planning, Fieldwork, Processing & Analysis, Data Assessment, Standardizing and Packaging. 
-
-[image of workflow]
-
-While these aren't substantially different from the DCC or Data One models, we do note our inclusion of and emphasis on field work (or data collection) as its own stage.  Further,
-we have tried to show the dependencies between different data products produced at different stages of research and curation:
-
-[image of key documents and data products]
-
-Though this initial workflow is specific to the field of geobiology -- and indeed, Dr. Fouke's particular field practices -- we are working with other researchers in other fields to document their research and curation workflows as well, and we hope that the resulting workflows can be altered and used by others.  We will discuss the workflow documentation process further in today's lab session.
-
 
 ## Bibliography
 
@@ -102,10 +83,6 @@ Though this initial workflow is specific to the field of geobiology -- and indee
 - DataONE general resources and best practices [link](https://www.dataone.org/best-practices)
 
 - Strasser, C., Cook, R., Michener, R., & Budden, A. (N.D.). Primer on Data Management: What you always wanted to know (but were afraid to ask). Data One. [PDF](https://www.dataone.org/sites/all/documents/DataONE_BP_Primer_020212.pdf)
-
-**SBDC**
-
-- Site-Based Data Curation Guide [link](https://sitebaseddatacuration.wordpress.com/)
 
 
 **Other Resources and References**

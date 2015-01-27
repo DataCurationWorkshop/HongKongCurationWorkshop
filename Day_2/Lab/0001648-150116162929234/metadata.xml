@@ -1,0 +1,429 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="c3e588e4-faf3-4970-a4b4-47d61220017c" system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+  <title>GBIF Occurrence Download 0001648-150116162929234</title>
+<creator>
+    <individualName>
+      <surName>GBIF Download Service</surName>
+    </individualName>
+</creator>
+<metadataProvider>
+    <individualName>
+      <surName>GBIF Download Service</surName>
+    </individualName>
+</metadataProvider>
+<associatedParty>
+<organizationName>OZCAM (Online Zoological Collections of Australian Museums) Provider</organizationName><onlineUrl>http://www.ozcam.org.au/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Sharon</givenName>      <surName>Grant</surName>
+    </individualName>
+<organizationName>Field Museum of Natural History</organizationName><positionName>Technology Liaison to Science</positionName>    <address>
+<deliveryPoint>1400 S Lake Shore Drive</deliveryPoint><city>Chicago</city><administrativeArea>IL</administrativeArea><postalCode>60605</postalCode><country>UNITED_STATES</country>    </address>
+<phone>3126657203</phone><electronicMailAddress>sgrant@fieldmuseum.org</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <address>
+<deliveryPoint>Bioversity International, Via dei Tre Denari 472/a, 00057 Maccarese, Rome, ITALY</deliveryPoint>    </address>
+<electronicMailAddress>s.dias@cgiar.org</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Jeroen</givenName>      <surName>Creuwels</surName>
+    </individualName>
+<organizationName>Naturalis Biodiversity Center</organizationName><positionName>IPT Administrator</positionName>    <address>
+<deliveryPoint>PO Box 9517</deliveryPoint><city>Leiden</city><administrativeArea>Zuid Holland</administrativeArea><postalCode>NL-2300 RA</postalCode><country>NETHERLANDS</country>    </address>
+<phone>+31.71.5687600</phone><electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress><onlineUrl>http://science.naturalis.nl</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Jeroen</givenName>      <surName>Creuwels</surName>
+    </individualName>
+<organizationName>Naturalis Biodiversity Center</organizationName><positionName>IPT Administrator</positionName>    <address>
+<deliveryPoint>PO Box 9517</deliveryPoint><city>Leiden</city><administrativeArea>Zuid Holland</administrativeArea><postalCode>NL-2300 RA</postalCode><country>NETHERLANDS</country>    </address>
+<phone>+31.71.5687600</phone><electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress><onlineUrl>http://science.naturalis.nl</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Jeroen</givenName>      <surName>Creuwels</surName>
+    </individualName>
+<organizationName>Naturalis Biodiversity Center</organizationName><positionName>IPT Administrator</positionName>    <address>
+<deliveryPoint>PO Box 9517</deliveryPoint><city>Leiden</city><administrativeArea>Zuid Holland</administrativeArea><postalCode>NL-2300 RA</postalCode><country>NETHERLANDS</country>    </address>
+<phone>+31.71.5687600</phone><electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress><onlineUrl>http://science.naturalis.nl</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+      <surName>Rob Cubey</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Alan</givenName>      <surName>Fryday</surName>
+    </individualName>
+<organizationName>Michigan State University Herbarium</organizationName><positionName>Assistant Curator</positionName>    <address>
+<deliveryPoint>Dept. of Plant Biology, 612 Wilson Road, Room 166</deliveryPoint><city>East Lansing</city><administrativeArea>MI</administrativeArea><postalCode>48824</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 517-355-4696</phone><electronicMailAddress>fryday@msu.edu</electronicMailAddress><onlineUrl>http://www.herbarium.msu.edu/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+      <surName>MNHN</surName>
+    </individualName>
+<organizationName>MNHN</organizationName><positionName>Provider</positionName>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Rob</givenName>      <surName>Robins</surName>
+    </individualName>
+<organizationName>Florida Museum of Natural History</organizationName><positionName>Ichthyology Collection Manager</positionName>    <address>
+<deliveryPoint>PO Box 117800</deliveryPoint><city>Gainesville</city><administrativeArea>FL</administrativeArea><postalCode>32611-7800</postalCode>    </address>
+<phone>352-273-1957</phone><electronicMailAddress>rhrobins@flmnh.ufl.edu</electronicMailAddress><onlineUrl>http://www.flmnh.ufl.edu/fish/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Larry</givenName>      <surName>Gall</surName>
+    </individualName>
+<organizationName>Yale Peabody Museum</organizationName><positionName>Head, Computer Systems Office</positionName>    <address>
+<deliveryPoint>170 Whitney Avenue</deliveryPoint><city>New Haven</city><administrativeArea>CT</administrativeArea><postalCode>06511</postalCode><country>UNITED_STATES</country>    </address>
+<phone>203-432-9892</phone><electronicMailAddress>lawrence.gall@yale.edu</electronicMailAddress><onlineUrl>http://www.peabody.yale.edu</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Charles</givenName>      <surName>Dardia</surName>
+    </individualName>
+<organizationName>Cornell University Museum of Vertebrates</organizationName><positionName>Collections Manager</positionName>    <address>
+<deliveryPoint>159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 607-254-2161</phone><electronicMailAddress>cmd7@cornell.edu</electronicMailAddress><onlineUrl>http://www.cumv.cornell.edu/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Larry</givenName>      <surName>Gall</surName>
+    </individualName>
+<organizationName>Yale Peabody Museum</organizationName><positionName>Head, Computer Systems Office</positionName>    <address>
+<deliveryPoint>170 Whitney Avenue</deliveryPoint><city>New Haven</city><administrativeArea>CT</administrativeArea><postalCode>06511</postalCode><country>UNITED_STATES</country>    </address>
+<phone>203-432-9892</phone><electronicMailAddress>lawrence.gall@yale.edu</electronicMailAddress><onlineUrl>http://www.peabody.yale.edu</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Alison</givenName>      <surName>Davis Rabosky</surName>
+    </individualName>
+<organizationName>University of Michigan Museum of Zoology</organizationName><positionName>Research Faculty and Assistant Curator</positionName>    <address>
+<deliveryPoint>1109 Geddes Ave., Room 1089 Ruthven</deliveryPoint><city>Ann Arbor</city><administrativeArea>MI</administrativeArea><postalCode>48109</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 734-763-8694</phone><electronicMailAddress>ardr@umich.edu</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Larry</givenName>      <surName>Gall</surName>
+    </individualName>
+<organizationName>Yale Peabody Museum</organizationName><positionName>Head, Computer Systems Office</positionName>    <address>
+<deliveryPoint>170 Whitney Avenue</deliveryPoint><city>New Haven</city><administrativeArea>CT</administrativeArea><postalCode>06511</postalCode><country>UNITED_STATES</country>    </address>
+<phone>203-432-9892</phone><electronicMailAddress>lawrence.gall@yale.edu</electronicMailAddress><onlineUrl>http://www.peabody.yale.edu</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Dr. Andreas</givenName>      <surName>Schlüter</surName>
+    </individualName>
+<organizationName>Staatliches Museum für Naturkunde Stuttgart</organizationName><positionName>Curator</positionName>    <address>
+<country>GERMANY</country>    </address>
+<phone>+49 711 8936 257</phone><electronicMailAddress>schlueter.smns@naturkundemuseum-bw.de</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Anders</givenName>      <surName>Telenius</surName>
+    </individualName>
+<organizationName>Swedish museum of natural history</organizationName><positionName>Node manager</positionName>    <address>
+<city>Stockholm</city><country>SWEDEN</country>    </address>
+<electronicMailAddress>anders.telenius@nrm.se</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Larry</givenName>      <surName>Gall</surName>
+    </individualName>
+<organizationName>Yale Peabody Museum</organizationName><positionName>Head, Computer Systems Office</positionName>    <address>
+<deliveryPoint>170 Whitney Avenue</deliveryPoint><city>New Haven</city><administrativeArea>CT</administrativeArea><postalCode>06511</postalCode><country>UNITED_STATES</country>    </address>
+<phone>203-432-9892</phone><electronicMailAddress>lawrence.gall@yale.edu</electronicMailAddress><onlineUrl>http://www.peabody.yale.edu</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+      <surName>MNHN</surName>
+    </individualName>
+<organizationName>MNHN</organizationName><positionName>Provider</positionName>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Larry</givenName>      <surName>Gall</surName>
+    </individualName>
+<organizationName>Yale Peabody Museum</organizationName><positionName>Head, Computer Systems Office</positionName>    <address>
+<deliveryPoint>170 Whitney Avenue</deliveryPoint><city>New Haven</city><administrativeArea>CT</administrativeArea><postalCode>06511</postalCode><country>UNITED_STATES</country>    </address>
+<phone>203-432-9892</phone><electronicMailAddress>lawrence.gall@yale.edu</electronicMailAddress><onlineUrl>http://www.peabody.yale.edu</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Sharon</givenName>      <surName>Grant</surName>
+    </individualName>
+<organizationName>Field Museum of Natural History</organizationName><positionName>Technology Liaison to Science</positionName>    <address>
+<deliveryPoint>1400 S Lake Shore Drive</deliveryPoint><city>Chicago</city><administrativeArea>IL</administrativeArea><postalCode>60605</postalCode><country>UNITED_STATES</country>    </address>
+<phone>3126657203</phone><electronicMailAddress>sgrant@fieldmuseum.org</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+<organizationName>OZCAM (Online Zoological Collections of Australian Museums) Provider</organizationName>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Brian</givenName>      <surName>Fisher</surName>
+    </individualName>
+<organizationName>California Academy of Sciences</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>55 Music Concourse Drvie</deliveryPoint><city>San Francisco</city><administrativeArea>CA</administrativeArea><postalCode>94118</postalCode><country>UNITED_STATES</country>    </address>
+<electronicMailAddress>bfisher@calacademy.org</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Gustav</givenName>      <surName>Paulay</surName>
+    </individualName>
+<organizationName>Florida Museum of Natural History</organizationName><positionName>Curator of Invertebrate Zoology</positionName>    <address>
+<deliveryPoint>Dickinson Hall, 1659 Museum Road</deliveryPoint><city>Gainesville</city><administrativeArea>FL</administrativeArea><postalCode>32611</postalCode><country>UNITED_STATES</country>    </address>
+<phone>352-273-1948</phone><electronicMailAddress>paulay@flmnh.ufl.edu</electronicMailAddress><onlineUrl>http://www.flmnh.ufl.edu/malacology/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Frans</givenName>      <surName>Slieker</surName>
+    </individualName>
+<organizationName>Natural History Museum Rotterdam</organizationName><positionName>Honorary Curator</positionName>    <address>
+<deliveryPoint>Westzeedijk 345</deliveryPoint><city>Rotterdam</city><postalCode>NL-3015 AA</postalCode><country>NETHERLANDS</country>    </address>
+<phone>+31-(0)10-4364222</phone><electronicMailAddress>fjas@caiway.net</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+<organizationName>Royal Botanic Gardens, Kew</organizationName>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Rafe</givenName>      <surName>Brown</surName>
+    </individualName>
+<organizationName>KU Biodiversity Institute</organizationName><positionName>Curator-in-Charge of Herpetology</positionName>    <address>
+<deliveryPoint>1345 Jayhawk Blvd</deliveryPoint><city>Lawrence</city><administrativeArea>KS</administrativeArea><postalCode>66045</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 785-864-3403</phone><electronicMailAddress>rafe@ku.edu</electronicMailAddress><onlineUrl>http://herpetology.biodiversity.ku.edu/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Jeroen</givenName>      <surName>Creuwels</surName>
+    </individualName>
+<organizationName>Naturalis Biodiversity Center</organizationName><positionName>IPT Administrator</positionName>    <address>
+<deliveryPoint>PO Box 9517</deliveryPoint><city>Leiden</city><administrativeArea>Zuid Holland</administrativeArea><postalCode>NL-2300 RA</postalCode><country>NETHERLANDS</country>    </address>
+<phone>+31.71.5687600</phone><electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress><onlineUrl>http://science.naturalis.nl</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Jeroen</givenName>      <surName>Creuwels</surName>
+    </individualName>
+<organizationName>Naturalis Biodiversity Center</organizationName><positionName>IPT Administrator</positionName>    <address>
+<deliveryPoint>PO Box 9517</deliveryPoint><city>Leiden</city><administrativeArea>Zuid Holland</administrativeArea><postalCode>NL-2300 RA</postalCode><country>NETHERLANDS</country>    </address>
+<phone>+31.71.5687600</phone><electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress><onlineUrl>http://science.naturalis.nl</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Larry</givenName>      <surName>Gall</surName>
+    </individualName>
+<organizationName>Yale Peabody Museum</organizationName><positionName>Head, Computer Systems Office</positionName>    <address>
+<deliveryPoint>170 Whitney Avenue</deliveryPoint><city>New Haven</city><administrativeArea>CT</administrativeArea><postalCode>06511</postalCode><country>UNITED_STATES</country>    </address>
+<phone>203-432-9892</phone><electronicMailAddress>lawrence.gall@yale.edu</electronicMailAddress><onlineUrl>http://www.peabody.yale.edu</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Heather</givenName>      <surName>Prestridge</surName>
+    </individualName>
+<organizationName>Texas A&amp;M University Biodiversity Research and Teaching Collections</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Department of Wildlife and Fisheries Sciences, TAMU 2258</deliveryPoint><city>College Station</city><administrativeArea>TX</administrativeArea><postalCode>77843</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 (979) 845-5783</phone><electronicMailAddress>hlprestridge@tamu.edu</electronicMailAddress><onlineUrl>http://brtc.tamu.edu</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Gary</givenName>      <surName>Shugart</surName>
+    </individualName>
+<organizationName>Slater Museum of Natural History, University of Puget Sound</organizationName><positionName>Collections Manager</positionName>    <address>
+<deliveryPoint>1500 N. Warner</deliveryPoint><city>Tacoma</city><administrativeArea>WA</administrativeArea><postalCode>98416</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 253-879-3356</phone><electronicMailAddress>gshugart@pugetsound.edu</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Jeroen</givenName>      <surName>Creuwels</surName>
+    </individualName>
+<organizationName>Naturalis Biodiversity Center</organizationName><positionName>IPT Administrator</positionName>    <address>
+<deliveryPoint>PO Box 9517</deliveryPoint><city>Leiden</city><administrativeArea>Zuid Holland</administrativeArea><postalCode>NL-2300 RA</postalCode><country>NETHERLANDS</country>    </address>
+<phone>+31.71.5687600</phone><electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress><onlineUrl>http://science.naturalis.nl</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+<organizationName>GBIF Norway</organizationName>    <address>
+<country>NORWAY</country>    </address>
+<electronicMailAddress>gbif-drift@nhm.uio.no</electronicMailAddress><onlineUrl>http://gbif.no/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Jennifer</givenName>      <surName>Thomas</surName>
+    </individualName>
+<organizationName>KU Biodiversity Institute</organizationName><positionName>Assistant Collection Manager</positionName>    <address>
+<deliveryPoint>1501 Crestline Dr. suite 140</deliveryPoint><city>Lawrence</city><administrativeArea>Kansas</administrativeArea><postalCode>66045</postalCode><country>UNITED_STATES</country>    </address>
+<phone>785-864-2234</phone><electronicMailAddress>jct@ku.edu</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Linda</givenName>      <surName>Jennings</surName>
+    </individualName>
+<organizationName>University of British Columbia Herbarium</organizationName><positionName>Assistant Curator, Vascular Plants &amp; Algae</positionName>    <address>
+<deliveryPoint>3529-6270 University Boulevard</deliveryPoint><city>Vancouver</city><administrativeArea>British Columbia</administrativeArea><postalCode>V6T 1Z4</postalCode><country>CANADA</country>    </address>
+<phone>(604) 822-9740</phone><electronicMailAddress>linda.jennings@beatymuseum.ubc.ca</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Christoffer</givenName>      <surName>Fägerström</surName>
+    </individualName>
+<organizationName>Lund Museum of Zoology</organizationName>    <address>
+<city>Lund</city><administrativeArea>Skåne län</administrativeArea><country>SWEDEN</country>    </address>
+<electronicMailAddress>christoffer.fagerstrom@biol.lu.se</electronicMailAddress><onlineUrl>http://www.biomus.lu.se/zoologiska-museet</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Olivia</givenName>      <surName>Lee</surName>
+    </individualName>
+<organizationName>University of British Columbia Herbarium</organizationName><positionName>Collections Manager, Bryophytes, Fungi &amp; Lichen</positionName>    <address>
+<deliveryPoint>3529-6270 University Boulevard</deliveryPoint><city>Vancouver</city><administrativeArea>British Columbia</administrativeArea><postalCode>V6T 1Z4</postalCode><country>CANADA</country>    </address>
+<phone>(604) 822-3344</phone><electronicMailAddress>olivia.lee@botany.ubc.ca</electronicMailAddress><onlineUrl>http://www.biodiversity.ubc.ca/museum/herbarium/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Stephen</givenName>      <surName>Rogers</surName>
+    </individualName>
+<organizationName>Carnegie Museum of Natural History</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>4400 Forbes Ave.</deliveryPoint><city>Pittsburg</city><administrativeArea>PA</administrativeArea><postalCode>15213-4080</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 412-622-3255</phone><electronicMailAddress>rogerss@carnegiemnh.org</electronicMailAddress><onlineUrl>http://www.carnegiemnh.org/herps/index.html</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+      <surName>MNHN</surName>
+    </individualName>
+<organizationName>MNHN</organizationName><positionName>Provider</positionName>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Rick</givenName>      <surName>Feeney</surName>
+    </individualName>
+<organizationName>Natural History Museum of Los Angeles County</organizationName><positionName>Fishes Collection Manager</positionName>    <address>
+<deliveryPoint>900 Exposition Blvd.</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90007</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 213 763 3374</phone><electronicMailAddress>rfeeney@nhm.org</electronicMailAddress><onlineUrl>http://www.nhm.org/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Christian</givenName>      <surName>Bohm</surName>
+    </individualName>
+<organizationName>Natural History Museum</organizationName><positionName>System administrator</positionName>    <address>
+<city>Göteborg</city><country>SWEDEN</country>    </address>
+<electronicMailAddress>christian.bohm@vgregion.se</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+<organizationName>Australia&apos;s Virtual Herbarium</organizationName><onlineUrl>http://avh.rbg.vic.gov.au</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Bradley</givenName>      <surName>Millen</surName>
+    </individualName>
+<organizationName>Royal Ontario Museum</organizationName><positionName>Associate Curator</positionName>    <address>
+<deliveryPoint>100 Queen&apos;s Park</deliveryPoint><city>Toronto</city><administrativeArea>Ontario</administrativeArea><postalCode>M5S 2C6</postalCode><country>CANADA</country>    </address>
+<phone>1-416-586-5768</phone><electronicMailAddress>bradm@rom.on.ca</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+<organizationName>OZCAM (Online Zoological Collections of Australian Museums) Provider</organizationName>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Sven</givenName>      <surName>Kullander</surName>
+    </individualName>
+<organizationName>Swedish museum of natural history</organizationName><positionName>Senior Curator</positionName>    <address>
+<country>SWEDEN</country>    </address>
+<electronicMailAddress>sven.kullander@nrm.se</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+      <surName>MNHN</surName>
+    </individualName>
+<organizationName>MNHN</organizationName><positionName>Provider</positionName>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Bradley</givenName>      <surName>Millen</surName>
+    </individualName>
+<organizationName>Royal Ontario Museum</organizationName><positionName>Database Technician</positionName>    <address>
+<deliveryPoint>100 Queen&apos;s Park</deliveryPoint><city>Toronto</city><administrativeArea>Ontario</administrativeArea><postalCode>M5S 2C6</postalCode><country>CANADA</country>    </address>
+<phone>1-416-586-5768</phone><electronicMailAddress>bradm@rom.on.ca</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>MCZ</givenName>      <surName>Harvard University</surName>
+    </individualName>
+<organizationName>Museum of Comparative Zoology</organizationName>    <address>
+<deliveryPoint>26 Oxford Street</deliveryPoint><city>Cambridge</city><administrativeArea>MA</administrativeArea><postalCode>02138</postalCode><country>UNITED_STATES</country>    </address>
+<onlineUrl>http://www.mcz.harvard.edu</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Michael</givenName>      <surName>Norén</surName>
+    </individualName>
+<organizationName>Swedish Museum of Natural History</organizationName><positionName>Intendant</positionName>    <address>
+<country>SWEDEN</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+      <surName>akthom</surName>
+    </individualName>
+    <role>AUTHOR</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+      <surName>GBIF Download Service</surName>
+    </individualName>
+    <role>ORIGINATOR</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+      <surName>GBIF Download Service</surName>
+    </individualName>
+    <role>METADATA_AUTHOR</role>
+</associatedParty>
+<pubDate>
+        2015-01-26
+</pubDate>
+<language>ENGLISH</language>
+<abstract>
+  <para>A dataset containing all occurrences available in GBIF matching the query: {&quot;type&quot;:&quot;and&quot;,&quot;predicates&quot;:[{&quot;type&quot;:&quot;equals&quot;,&quot;key&quot;:&quot;COUNTRY&quot;,&quot;value&quot;:&quot;HK&quot;},{&quot;type&quot;:&quot;or&quot;,&quot;predicates&quot;:[{&quot;type&quot;:&quot;equals&quot;,&quot;key&quot;:&quot;BASIS_OF_RECORD&quot;,&quot;value&quot;:&quot;PRESERVED_SPECIMEN&quot;},{&quot;type&quot;:&quot;equals&quot;,&quot;key&quot;:&quot;BASIS_OF_RECORD&quot;,&quot;value&quot;:&quot;FOSSIL_SPECIMEN&quot;}]}]}&lt;br/&gt;The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:&lt;br/&gt;1 records from Departamento de Biolog. Veg. II, Facultad de Farmacia, Universidad Complutense, Madrid: MAF-Lich&lt;br/&gt;1 records from Field Museum of Natural History (Zoology) Fish Collection&lt;br/&gt;1 records from Paleobiology Database&lt;br/&gt;1 records from CONN&lt;br/&gt;1 records from Michigan State University Herbarium Lichens&lt;br/&gt;1 records from SMNS Herpetologie&lt;br/&gt;1 records from Vertebrate Zoology Division - Ichthyology, Yale Peabody Museum&lt;br/&gt;1 records from South Australian Museum Australia provider for OZCAM&lt;br/&gt;1 records from Birds collection of Yamashina Institute for Ornithology&lt;br/&gt;1 records from Herp specimens&lt;br/&gt;1 records from ORN&lt;br/&gt;1 records from PSM Vertebrates Collection&lt;br/&gt;1 records from Naturalis Biodiversity Center (NL) - Chelicerata and Myriapoda&lt;br/&gt;1 records from Cnidaria Collection of the Seto Marine Biological Laboratory, Kyoto University&lt;br/&gt;1 records from Lichen herbarium, Oslo (O)&lt;br/&gt;1 records from Vertebrates of the Gothenburg Natural History Museum (GNM)&lt;br/&gt;1 records from South African Institute for Aquatic Biodiversity - Fish Collection (AfrOBIS)&lt;br/&gt;1 records from Mammalogy Collection - Royal Ontario Museum&lt;br/&gt;1 records from Mammal specimens&lt;br/&gt;1 records from Zoological Museum Amsterdam, University of Amsterdam (NL) – Mollusca_Types&lt;br/&gt;1 records from Naturalis National Natural History Museum (NL) – Crustacea_Decapoda&lt;br/&gt;1 records from Flora of Japan Specimen Database&lt;br/&gt;2 records from Naturalis Biodiversity Center (NL) - Amphibia and Reptilia&lt;br/&gt;2 records from Collection Crustacea - ZMB&lt;br/&gt;2 records from Collection of Heteroptera&lt;br/&gt;2 records from Hemiptera collection (EH) of the Muséum national d&apos;Histoire naturelle (MNHN - Paris)&lt;br/&gt;2 records from Botany Division, Yale Peabody Museum&lt;br/&gt;2 records from Lichen Collection of National Museum of Nature and Science&lt;br/&gt;2 records from Insect specimens database of Shizuoka Prefecture Museum of Natural History&lt;br/&gt;2 records from Zoological Museum Amsterdam, University of Amsterdam (NL) - Platyhelminthes&lt;br/&gt;2 records from University of British Columbia Herbarium (UBC) - Bryophytes Collection&lt;br/&gt;2 records from CM Herps Collection&lt;br/&gt;2 records from Karl Franzens University of Graz, Insitute for Botany - Herbarium GZU&lt;br/&gt;2 records from NRM-Herpetology&lt;br/&gt;3 records from Mosquito Occurrence Dataset&lt;br/&gt;3 records from The Lichen Collection at the Botanische Staatssammlung München&lt;br/&gt;3 records from Herbarium specimens of Université de Montpellier 2, Institut
+		de Botanique (MPU))&lt;br/&gt;3 records from Zoological Museum Amsterdam, University of Amsterdam (NL) – Herpetology&lt;br/&gt;4 records from Algaterra Types&lt;br/&gt;4 records from Fish specimens&lt;br/&gt;4 records from Naturalis Biodiversity Center (NL) - Botany Wageningen&lt;br/&gt;4 records from Biodiversity Research and Teaching Collections - TCWC Vertebrates&lt;br/&gt;4 records from Database Schema for UC Davis [Herbarium Labels]&lt;br/&gt;4 records from Ichthyology Collection - Royal Ontario Museum&lt;br/&gt;6 records from SAIAB&lt;br/&gt;6 records from Zoological Museum Amsterdam, University of Amsterdam (NL) - Aves&lt;br/&gt;7 records from Herpetology&lt;br/&gt;8 records from Naturalis Biodiversity Center (NL) - Botany Utrecht&lt;br/&gt;8 records from Lepidoptera specimen database of Japan&lt;br/&gt;8 records from invertebratezoology&lt;br/&gt;8 records from Lund Museum of Zoology - Insect collections (MZLU)&lt;br/&gt;8 records from Ichthyology, Kagoshima University Museum&lt;br/&gt;10 records from University of British Columbia Herbarium (UBC) - Algae Collection&lt;br/&gt;11 records from Herbarium Berolinense&lt;br/&gt;12 records from Bohart Museum of Entomology, UCD&lt;br/&gt;14 records from Field Museum of Natural History (Zoology) Insect, Arachnid and Myriapod Collection&lt;br/&gt;16 records from Zoological Museum Amsterdam, University of Amsterdam (NL) – Mollusca_Pectinoidea&lt;br/&gt;17 records from University of Vienna, Institute for Botany - Herbarium WU&lt;br/&gt;18 records from UMMZ Herpetology Collection&lt;br/&gt;18 records from Invertebrate Zoology Division, Yale Peabody Museum&lt;br/&gt;19 records from PRECIS&lt;br/&gt;19 records from Cryptogamy collection (PC) of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris)&lt;br/&gt;23 records from Natural History Museum Rotterdam (NL) - Mollusca collection&lt;br/&gt;26 records from Western Australian Museum provider for OZCAM&lt;br/&gt;26 records from Entomological Specimens of Museum of Nature and Human Activities, Hyogo Pref., Japan&lt;br/&gt;27 records from UF FLMNH Ichthyology&lt;br/&gt;29 records from CUMV Bird Collection (Arctos)&lt;br/&gt;30 records from LACM Vertebrate Collection&lt;br/&gt;33 records from Zoological Museum Amsterdam, University of Amsterdam (NL) - Porifera&lt;br/&gt;35 records from NZFUNGI - Collections of the New Zealand National Fungal Herbarium (PDD)&lt;br/&gt;36 records from EURISCO, The European Genetic Resources Search Catalogue&lt;br/&gt;36 records from Vertebrate Zoology Division - Mammalogy, Yale Peabody Museum&lt;br/&gt;38 records from KUBI Herpetology Collection&lt;br/&gt;42 records from Hymenoptera specimen database of Kyushu University&lt;br/&gt;48 records from Australian National Herbarium (CANB)&lt;br/&gt;55 records from Snow Entomological Museum Collection&lt;br/&gt;67 records from Royal Botanic Garden Edinburgh Herbarium (E)&lt;br/&gt;67 records from AntWeb&lt;br/&gt;68 records from Shellfish specimens in the NISHINOMIYA SHELL MUSEUM, Japan.&lt;br/&gt;77 records from Naturalis Biodiversity Center (NL) - Mollusca&lt;br/&gt;102 records from Fish Collection of Kanagawa Prefectural Museum of Natural History&lt;br/&gt;129 records from Entomology Division, Yale Peabody Museum&lt;br/&gt;159 records from RBINS collections&lt;br/&gt;160 records from Lichen Herbarium Berlin&lt;br/&gt;182 records from Australia&apos;s Virtual Herbarium&lt;br/&gt;192 records from Nationaal Herbarium Nederland&lt;br/&gt;207 records from Fishbase&lt;br/&gt;268 records from Australian Museum provider for OZCAM&lt;br/&gt;280 records from EASIANET&lt;br/&gt;317 records from MAL&lt;br/&gt;328 records from The University of Hong Kong Herbarium&lt;br/&gt;358 records from Herbarium of The New York Botanical Garden&lt;br/&gt;510 records from Vertebrate Zoology Division - Herpetology, Yale Peabody Museum&lt;br/&gt;707 records from Naturalis Biodiversity Center (NL) - Botany Leiden&lt;br/&gt;948 records from Royal Botanic Gardens, Kew - Herbarium Specimens&lt;br/&gt;980 records from Vascular plants collection (P) of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris)&lt;br/&gt;2221 records from Museum of Comparative Zoology, Harvard University&lt;br/&gt;2331 records from Invertebrates (GBIF-SE:SMNH)&lt;br/&gt;</para>
+</abstract>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <citation identifier="0001648-150116162929234">GBIF Occurrence Download 0001648-150116162929234</citation>
+        <physical>
+          <objectName></objectName>
+          <characterEncoding>UTF-8</characterEncoding>
+          <dataFormat>
+            <externallyDefinedFormat>
+              <formatName>Darwin Core Archive</formatName>
+            </externallyDefinedFormat>
+          </dataFormat>
+          <distribution>
+            <online>
+              <url function="download">http://api.gbif.org/v1/occurrence/download/request/0001648-150116162929234.zip</url>
+            </online>
+          </distribution>
+        </physical>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>
