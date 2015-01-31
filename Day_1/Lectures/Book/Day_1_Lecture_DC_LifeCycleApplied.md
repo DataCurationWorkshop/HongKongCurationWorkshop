@@ -36,6 +36,14 @@ From these profiles, researchers at Purdue went on to develop the Data Curation 
 
 ## Bibliography
 
+**Curation Profiles Project**
+
+- Cragin, M. H., Palmer, C. L., Carlson, J. R., & Witt, M. (2010). Data sharing , small science and institutional repositories, 4023–4038. doi:10.1098/rsta.2010.0165
+
+- Witt, M., Carlson, J., Brandt, D. S., & Cragin, M. H. (2009). The International Journal of Digital Curation Constructing Data Curation Profiles. Library, 4(3), 93–103.
+
+- Curation Profiles Project web resources [link](http://datacurationprofiles.org/)
+
 **DMP Tool**
 
 - [DMP Tool](https://dmptool.org//)
@@ -45,11 +53,3 @@ From these profiles, researchers at Purdue went on to develop the Data Curation 
 - Mallery, M. (2014). Dmptool: Guidance and Resources for Your Data Management Plan; https://dmp. cdlib. org. Technical Services Quarterly, 31(2), 197-199.
 
 - Shreeves, S. L. (2014). Presenting the New and Improved DMPTool. [Link to presentation](https://www.ideals.illinois.edu/handle/2142/49957)
-
-**Curation Profiles Project**
-
-- Cragin, M. H., Palmer, C. L., Carlson, J. R., & Witt, M. (2010). Data sharing , small science and institutional repositories, 4023–4038. doi:10.1098/rsta.2010.0165
-
-- Witt, M., Carlson, J., Brandt, D. S., & Cragin, M. H. (2009). The International Journal of Digital Curation Constructing Data Curation Profiles. Library, 4(3), 93–103.
-
-- Curation Profiles Project web resources [link](http://datacurationprofiles.org/)
