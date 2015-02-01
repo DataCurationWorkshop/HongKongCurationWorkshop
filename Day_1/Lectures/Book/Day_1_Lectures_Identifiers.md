@@ -1,13 +1,13 @@
 # Identifiers
 
 ## What is an identifier?
-An identifier, most simply, is “a name that identifies either a unique object or a unique class of objects.”  In computer or technical systems, these are often found in the form of bar codes or unique alphanumeric strings such as ISSNs or even URLs.  
+An identifier, most simply, is “a name that identifies either a unique object or a unique class of objects.”  In computer or technical systems, these are often found in the form of bar codes, QR codes or unique alphanumeric strings such as ISSNs or URLs.  
 
-In data curation, we need identifiers to battle reference rot: if data are playing the role of evidence in research and even public policy, they need to be accessible for the long-term.  Using stable identifiers is key to this: they allow users to reliably reference and find materials.
+In data curation, we need identifiers to battle reference rot: if data are playing the role of evidence in research and public policy, they need to be accessible for the long-term.  Using stable identifiers is key to this: they allow users to reliably reference and locate materials.
 
 ## IDs for data curation
 
-Identifiers must be:
+Identifiers for data curation must be:
 
 - Machine Readable: they must be consistently formatted in a way that computers can parse them
 - Unique: at least within a local system, but preferably globally
@@ -19,24 +19,26 @@ There are many different kinds of identifier schemas for use with data:
 - Archival Resource Keys (ARKs)
 - Digital Object Identifiers (DOIs)
 - Extensible Resource Identifiers (XRIs)
-- Handle System (Handles)
+- Handle System (Handles or HDLs)
 - Life Science Unique Identifiers (LSIDs)
 - Object Identifiers (OIDs)
 - Persistent Uniform Resource Locators (PURLs)
 - Uniform Resource Identifiers/Names/Locators (URIs/ URNs/URLs)
 - Universally Unique Identifiers (UUIDs)
 
-All of these have different properties
+All of these have different properties:
 
-[figure showing comparison]
+![image](Day_1/Lectures/Book/IDSchemaComparison.png)
 
-DOIs have recently gained wide-spread use for both bibliographic materials and datasets.
+**[Reference?]**
 
 ##DOIs
 
-Digital Object Identifiers are character strings separated into the URL of resolution service, a prefix which points to the identity of the registrant (e.g. the company or individual assigning the DOI), and a suffix which points to the object itself.  The prefix and suffix are separated by a forward slash
+Digital Object Identifiers, or DOIs, have recently gained widespread use with both bibliographic materials and datasets, largely thanks to their adoption and subsequent popularization by CrossRef.
 
-[image of DOI anatomy]
+DOIs are character strings, and can be divided into three parts: the URL of resolution service (e.g. the metadata store that redirects the user to the current location of the digital object), a prefix which points to the identity of the registrant (e.g. the company or individual assigning the DOI), and a suffix which points to the object itself.  The prefix and suffix are separated by a forward slash:
+
+![image](http://ands.org.au/guides/anatomy-of-a-doi-fig1.jpg)
 
 Once created, a DOI cannot be renamed or deleted.
 
@@ -51,7 +53,11 @@ Both service require institution- or project-level paid subscriptions.
 The prevalence of DOI minting services means that while each identifier is unique and only points to one resource, there's nothing keeping different DOI services from minting multiple identifiers for one resource.  
 
 ## DOIs alone are not enough
-Just as an address won’t prevent a house from being demolished or remodeled, an ID will not prevent “content drift” or data from being deleted from its hosting server.  Furthermore, a DOI doesn't make data more or less reliable or citable (remember, we've been citing papers and books long before they had DOIs attached to them!).
+Just as an address won’t prevent a house from being demolished or remodeled, an ID will not prevent “content drift,” or prevent data from being deleted from its hosting server.  Furthermore, its important to remember that a DOI doesn't:
+
+- make data more or less citable (remember, we've been citing papers and books long before they had DOIs attached to them!)
+- make data more or less trustworthy (DOIs can be assigned to anything, even nonscholarly, non-peer-reviewed objects).
+- make data more or less stable as a data set.  Though DOIs cannot be altered or destroyed, digital objects still can be.  **Just because a paper or object has a DOI assigned to it doesn't mean that it can't/won't be changed or altered by its host.**
 
 ## Bibliography
 
