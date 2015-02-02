@@ -1,4 +1,4 @@
-#Making data curation life cycles actionable: Checklists, Curation Profiles, Significant Properties, and other tools.
+#Making data curation life cycles actionable: Checklists, Curation Profiles, and Data Management Planning.
 
 
 ##Putting data lifecycle models into practice
@@ -33,6 +33,17 @@ Data Curation Profiles can:
 > - create a starting point for curating a data set for archiving and preservation
 
 From these profiles, researchers at Purdue went on to develop the Data Curation Profile Toolkit for use by librarians and data curators, to help guide conversations between them and researchers. The Toolkit itself is essentially an interview guide -- similar to a reference interview, in some ways, but with the goal of helping the librarian understand a dataset's curatorial needs, rather than a patron's research needs. 
+
+###Data Management Planning Tool (DMP Tool)
+
+Increasingly, US funding agencies such as the National Science Foundation (NSF), the National Institutes of Health (NIH), and other private funders are requiring that researchers submit a data management plan along with their funding applications.  For instance, the NSF writes,
+
+> Investigators are expected to share with other researchers, at no more than incremental cost and within a reasonable time, the primary data, samples, physical collections and other supporting materials created or gathered in the course of work under NSF grants. Grantees are expected to encourage and facilitate such sharing... Proposals submitted or due on or after January 18, 2011, must include a supplementary document of no more than two pages labeled “Data Management Plan”. This supplementary document should describe how the proposal will conform to NSF policy on the dissemination and sharing of research results. [read more](http://www.nsf.gov/bfa/dias/policy/dmp.jsp)
+
+Even if researchers aren't required to create a data management plan, creating one can be of helpful for both the researchers themselves and for the data curators who will be eventually tasked with caring for the data.  Creating a management plan at the beginning of research can help ensure that important data objects are preserved throughout the research lifecycle -- not accidentally discarded or lost.  
+
+The California Digital Library has created the Data Management Planning (DMP) Tool, which we will use in this afternoon to create a DMP.  This tool walks users through templates for different institutions and funding agencies, and allows users to create their own templates as well.
+
 
 ## Bibliography
 

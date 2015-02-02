@@ -69,7 +69,7 @@ Just as an address won’t prevent a house from being demolished or remodeled, a
 
 - Van de Sompel, H., Sanderson, R., Shankar, H., & Klein, M. (2014). Persistent Identifiers for Scholarly Assets and the Web: The Need for an Unambiguous Mapping. International Journal of Digital Curation, 9(1), 331-342.
 
-http://www.doi.org/doi_handbook/2_Numbering.html#2.1
+http://www.doi.org/doi_handbook/2_Numbering.html
 
 Blog posts from RDM Page 
 - Page, RDM. (2013) Multiple DOIs for one article issued by different publishers.  iPhylo.  http://iphylo.blogspot.com/2013/05/duplicate-dois-for-same-article-issued.html
