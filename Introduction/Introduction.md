@@ -4,29 +4,29 @@ In parallel with the lowered cost of computing, and the rise of networked inform
 
 Digital data produced by research in the humanities, and science & engineering has, similarly, become an important aspect of scholarship. Just as our phones and cars depend on data to get us where we are going safely, scholars depend on access to, and preservation of their data in order to produce reliable knowledge.  
 
-Data curation has emerged as an approach to reliablity stewarding and preserving digital data for scholars 
-
-Archives, Museums, and most especially Libraries have responded to the stewardship and preservation of these digital products through data curation initatives.  
+Archives, Museums, and Libraries have responded to the stewardship and preservation of these digital products by developing data curation services.  
 
 The goal of this workshop is to provide you a working knowledge of the concepts, tools, and approaches to *doing* data curation. In understanding the foundations of data curation - as it cuts across different disciplines and domains - you will be better prepared to make decisions about the costs and benefits of offering data curation services in your own institutional settings. 
 
-An important first step in this process is to carefully define what is we mean when we talk about data curation, and what it is that we do NOT mean.    
+An important first step in this process is to broadly define what is we mean when we talk about data curation, and what it is that we do NOT mean.    
 
-So, to begin we find it helpful to tease apart the "data" and the "curation" aspects of "data curation."
+To begin, we find it helpful to tease apart the "data" and the "curation" aspects of "data curation."
 
 ### What do we mean by data?
 
-Rather than a distinct type of information object (i.e. a map, a database, a digital document) we consider data to be any information objects that plays a role in a scholars' process of creating new knowledge. In this sense, data has many different forms and types. What makes these forms and types related is that they are used for a similar end. 
+In the research contexts, data can mean different things in different people. A humanist may treat a collection of digitized maps as a source of data, while an ecologists might be concerned with geo-location data in the form of latitude and longitude.
 
-In data curation, especially as it is practices by institutions of higher education, data are information objects playing an evidential role for supporting scholarship.
+In this workshop, rather than assuming that data is a distinct type of artifact (i.e. a map, a database, a digital document) we consider data to be a role - one that is capable of being played by many different types of artifacts.
 
-With this framework in mind, we offer the following definition: 
+In the library, archives and museums setting, research data are information objects playing an **evidential role** - they are the resources that scholars draw upon to support their claims, and verify their observations or experimental findings.   
 
-> Research data are the informational resources that scholars draw on in doing research, supporting their findings, and producing new knowledge. 
+In short, we will rely upon the following definition: 
 
-Note that in this definition we do not make a distinction about these informational resources being digital; research data could include any number of physical objects, such as a biological specimen, an architectural blue print, a paper map, etc.
+> Research data are information objects that scholars draw upon for evidence in supporting their findings, and producing new knowledge. 
 
-Although the focus of this workshop will be on the curation of digital data there are times when it is necessary to consider how digital data are, and should be linked to physical data. (We will discuss these issues in sessions related to provenance and workflow technologies) 
+Note that in this definition we do not make a distinction about data being digital; research data could include any number of physical objects, such as a biological specimen, an architectural blue print, a paper map, etc.
+
+Although the focus of this workshop will be on the curation of digital data there are times when it is necessary to consider how digital data are, and should be linked to physical data. (We will discuss these issues in sessions related to provenance and workflow technologies.) 
 
 ### What kinds of evidential roles do data play?
 
@@ -34,7 +34,7 @@ In research data curation it is also important to make a distinction about the d
 
 **Humanistic Data**
 
-It may initially seem awkward to assume that humanists have data. In the humanities, and the rapidly developing field of Digital Humanities, data support certain operations, and certain interpretations that are ultimately assigned meaning by specific communities (Munoz, 2014). To put this another way, humanities data are propositions that are systematically asserted as encoded symbol structures (Dubin, et al. 2011). It is in this sense that data have an evidential value for humanists to argue with, and through. 
+It may initially seem awkward to assume that humanists have data. In the humanities, and the rapidly developing field of Digital Humanities, data support certain operations, and certain interpretations that are ultimately assigned meaning by specific communities (Munoz, 2014). To put this another way, humanities data are propositions that are systematically asserted as encoded symbol structures (Dubin, et al. 2011). It is in this sense that a map may have an evidential value for a humanist to build an argument around. The map - in another context - may simply be a wall decoration... 
 
 Humanities data may take digital forms that range greatly in size and complexity - from single authored TEI - encoded texts, to large collections and corpora of manuscripts, images, cad models, and sound. 
 
