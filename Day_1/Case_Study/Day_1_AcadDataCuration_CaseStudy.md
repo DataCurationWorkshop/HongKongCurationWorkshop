@@ -20,11 +20,11 @@ In a breakout session we will review five different additional cases covered in 
 
 For each institution answer the following questions: 
 
-- Where are the research data services located (i.e. IT department, University Library, collaboration between different units, etc.)
+- Where are the research data services located (i.e. IT department, University Library, collaboration between different units, etc.)?
 - When did research data services begin at this institution? What was the motivation?
 - What types of services are offered, by whom and for whom?
 - What is the cost recovery / charge for these services? Are they offered free? 
-- What IR options are available for archiving data? What software / systems do these 
+- What IR options are available for archiving data? What software / repository systems do these institutions use? 
 
 ## Works cited
 
