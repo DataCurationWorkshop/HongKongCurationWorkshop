@@ -44,7 +44,7 @@
 	<key>Creator</key>
 	<string>Nicholas Weber</string>
 	<key>DisplayScale</key>
-	<string>1 0/72 in = 1 0/72 in</string>
+	<string>1 0/72 in = 1.0000 in</string>
 	<key>GraphDocumentVersion</key>
 	<integer>8</integer>
 	<key>GraphicsList</key>
@@ -1423,18 +1423,16 @@ QI}</string>
 				BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0
 				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
 				bmcBlIQBKwVEYXkgMYaEAmlJAQWShISEDE5TRGljdGlv
-				bmFyeQCUhAFpBZKElpYHTlNDb2xvcoaShISEB05TQ29s
-				b3IAlIQBYwKEBGZmZmaDzcxMPoPNzEw+g83MTD4BhpKE
-				lpYOTlNPcmlnaW5hbEZvbnSGkoSEhAZOU0ZvbnQelJkw
-				hAVbNDhjXQYAAAAmAAAA//5IAGUAbAB2AGUAdABpAGMA
-				YQBOAGUAdQBlAC0AQgBvAGwAZAAAAIQBZhKbAJsBmwCb
-				AIaShJaWBk5TS2VyboaShISECE5TTnVtYmVyAISEB05T
-				VmFsdWUAlIQBKoSEAWSjAIaShJaWBk5TRm9udIaSnZKE
-				lpYQTlNQYXJhZ3JhcGhTdHlsZYaShISEF05TTXV0YWJs
-				ZVBhcmFncmFwaFN0eWxlAISEEE5TUGFyYWdyYXBoU3R5
-				bGUAlIQEQ0NAUwAAhISEB05TQXJyYXkAlJkCkoSEhAlO
-				U1RleHRUYWIAlIQCQ2YAC4aShKypABqGhoEkAoQEWzNm
-				XRoUJIaGhg==
+				bmFyeQCUhAFpBJKElpYQTlNQYXJhZ3JhcGhTdHlsZYaS
+				hISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwAAhISE
+				B05TQXJyYXkAlJkCkoSEhAlOU1RleHRUYWIAlIQCQ2YA
+				C4aShJ+eABqGhoEkAoQEWzNmXRoUJIaShJaWB05TQ29s
+				b3KGkoSEhAdOU0NvbG9yAJSEAWMChARmZmZmg83MTD6D
+				zcxMPoPNzEw+AYaShJaWBk5TRm9udIaShISEBk5TRm9u
+				dB6UmTCEBVs0OGNdBgAAACYAAAD//kgAZQBsAHYAZQB0
+				AGkAYwBhAE4AZQB1AGUALQBCAG8AbABkAAAAhAFmEqEA
+				oQGhAKEAhpKElpYGTlNLZXJuhpKEhIQITlNOdW1iZXIA
+				hIQHTlNWYWx1ZQCUhAEqhIQBZKkAhoaG
 				</data>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
@@ -2503,7 +2501,7 @@ Subject}</string>
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{134, -52}, {1844, 1152}}</string>
+		<string>{{4, 0}, {1436, 878}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -2517,7 +2515,7 @@ Subject}</string>
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{-279, -132}, {1709, 997}}</string>
+		<string>{{-75, 0}, {1301, 723}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
