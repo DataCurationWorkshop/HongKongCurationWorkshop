@@ -1,6 +1,6 @@
 # Research Data Management in Academic Libraries
 
-In this session we will use a case study method, which been used extensively in the academic data curation space. 
+In this session we will use a case study method, which been used extensively in the academic data curation space.
 
 By example, an early ARL (Association of Research Libraries in the USA) used a case study approach to compare six academic libraries that were expanding their capacity to service eScience research initiatives, including data-intensive efforts in astronomy, molecular biology, and seismic engineering (Soehner, Steeves & Ward 2010). Later case study research focused on the development of research data management services (RDM) at three separate universities that were responding to federal mandates in data management planning documents attached to research funding proposals (Raboin, Reznik-Zellenk, and Salo, 2012). The most recent set of data curation case studies were offered by a group from the University of Michigan that concentrated specifically on the "prominent role of the library in providing services to educate and assist researchers with managing data before, during, and after their research projects" (Akers et al. 2014). 
 
