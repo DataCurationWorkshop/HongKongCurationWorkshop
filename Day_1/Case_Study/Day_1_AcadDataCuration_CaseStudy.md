@@ -1,9 +1,8 @@
 # Research Data Management in Academic Libraries
 
-The case study approach has been used extensively in the academic data curation space. 
+In this session we will use a case study method, which been used extensively in the academic data curation space. 
 
-An early feasibility study by ARL (Association of research libraries in the USA) focused on six academic libraries that were expanding their capacity to service eScience research initiatives, including data-intensive efforts in astronomy, molecular biology, and seismic engineering (Soehner, Steeves & Ward 2010). Later work focused on the development of research data management services (RDM) at three separate universities that were responding to federal mandates in data management planning documents attached to research funding proposals (Raboin, Reznik-Zellenk, and Salo, 2012). The most recent set of case studies offered by a group from the University of Michigan concentrated specifically on the "prominent role of the library in providing services to educate and assist researchers with
-managing data before, during, and after their research projects" (Akers et al. 2014). 
+By example, an early ARL (Association of Research Libraries in the USA) used a case study approach to compare six academic libraries that were expanding their capacity to service eScience research initiatives, including data-intensive efforts in astronomy, molecular biology, and seismic engineering (Soehner, Steeves & Ward 2010). Later case study research focused on the development of research data management services (RDM) at three separate universities that were responding to federal mandates in data management planning documents attached to research funding proposals (Raboin, Reznik-Zellenk, and Salo, 2012). The most recent set of data curation case studies were offered by a group from the University of Michigan that concentrated specifically on the "prominent role of the library in providing services to educate and assist researchers with managing data before, during, and after their research projects" (Akers et al. 2014). 
 
 Case Studies that we will review as a group:
 
@@ -12,11 +11,11 @@ Case Studies that we will review as a group:
 
 In a breakout session we will review five different additional cases covered in Akers et al (note: we will also cover the University of Illinois, Urbana-Champaign) in greater detail on Day 3): 
 
--  Cornell University : http://data.research.cornell.edu/
--  Emory University :http://edc.library.emory.edu/content/online-analysis
--  Purdue University : https://www.lib.purdue.edu/researchdata | http://d2c2.lib.purdue.edu/
--  University of Michigan : http://www.lib.umich.edu/research-data-services
--  University of Virginia : http://data.library.virginia.edu/
+-  [Cornell University](http://data.research.cornell.edu/)
+-  [Emory University](http://edc.library.emory.edu/content/online-analysis)
+-  [Purdue University](https://www.lib.purdue.edu/researchdata) and [D2C2](http://d2c2.lib.purdue.edu/)
+-  [University of Michigan](http://www.lib.umich.edu/research-data-services)
+-  [University of Virginia](http://data.library.virginia.edu/)
 
 For each institution answer the following questions: 
 
@@ -24,7 +23,7 @@ For each institution answer the following questions:
 - When did research data services begin at this institution? What was the motivation?
 - What types of services are offered, by whom and for whom?
 - What is the cost recovery / charge for these services? Are they offered free? 
-- What IR options are available for archiving data? What software / systems do these 
+- What institutional repository (IR) options are available for archiving data? What software do these systems use? Can you find any supporting documents for those systems? Do these IRs have any accreditation or auditing documentats available publicly?  
 
 ## Works cited
 

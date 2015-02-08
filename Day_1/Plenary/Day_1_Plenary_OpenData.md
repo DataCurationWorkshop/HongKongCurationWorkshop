@@ -1,13 +1,6 @@
 #Current Topics in Scholarly Communications and Data Curation: Open Data
 
-The opening lecture of the workshop will focus on a timely topic of data curation - the open accessibility and licensing of data. 
-
-
-
-The focus of the workshop will be on research data, but 
-
-
-
+The opening lecture of the workshop will focus on a timely topic in data curation - the open accessibility and licensing of data. We will first focus on the impetus for open data, how this is informing 
 
 
  - http://opensource.com/government/14/12/year-local-open-data
