@@ -59,44 +59,53 @@ For each sampling site, we recommend that researchers record:
 4. Water temperature (for water samples)
 5. pH (for water samples)
 
-## Process modeling for Geobiology: Workflow documentation as a curatorial tool
+## Process modeling for data curation: Workflow documentation as a curatorial tool
 
-After developing s
+After developing the minimum information guidelines, we sought to "test" their efficacy by curating a dataset (a year's worth of field data collected by our co-PI Bruce Fouke) according to their recommendations.  However, this presented us with a problem: while the guidelines tell what kind of data to collect, they don't tell us how or when to collect it.  Furthermore, no metadata schema is capable of reconstructing metadata that was never collected in the first place!
 
-We have found that extremely detailed workflow documentation can help practitioners identify important curatorial "points of intervention", or stages within a research project, at which data products must be captured for later sharing and reuse.
+We turned to a method from systems analysis for help: process modeling and activity diagramming.
 
-Thus, rather than aiming to create an idealized lifecycle model applicable to all fields of scholarship (as in the DCC and DataOne models do), we have created an extremely domain- (or even project-) specific workflow, that fully expresses the specificities unique to a particular kind of research.  We believe that the creation of domain- or project-specific workflows can be helpful curatorial tools in cases in which practitioners are working extensively with researchers from one scholarly domain, or one research team.
+###PROCESS MODELING & ACTIVITY DIAGRAM
 
-In this example, we worked extensively with Bruce Fouke, a geobiologist and co-PI of our project, to first inventory all data products (e.g. digital data such as spreadsheets, databases, gene sequences, field notes, field photographs, and more) from one field project, and then document a) how those data products were created, and b) how those data products were interlinked. The SBDC team's later work curating those data products was also identified.
+Process models, 
 
-The resulting workflow has 6 stages: Planning, Fieldwork, Processing & Analysis, Data Assessment, Standardizing and Packaging. 
+>describe the different activities that, when combined, support a [research] process. [Research] processes typically cut across functional departments (e.g., the creation of a new [dataset] involves many different activities that combine the efforts of many [researchers]). (edited from Dennis et al, ch 4, 2012)
 
-### How to Read This Diagram 
+Process modeling is often visualized in the form of an activity diagram.  Activity diagrams, "portray the primary activities and the relationships among the activities in a process" (ibid).  They model activities, objects and decisions as workflows:
 
-The panels below represent different stages of research and curatorial work; each colored box corresponds to similarly colored documents and data products below. 
+![image](Day_3/CaseStudy/exampleAD.jpeg)
 
-Each box with a red border represents a curatorial point of intervention identified through our work.
+_From Dennis et al, 2012, ch 4.  We will talk more about this method in detail during today's lab_
 
+Process models are typically created through discussions with a systems designer or potential users _before_ a system is developed.  Because our model was retrospective, we took the following steps:
 
-[image of workflow]
+1. Assessed and inventoried Bruce's field data from one year (including digital data such as spreadsheets, databases, gene sequences, field notes, field photographs and more)
+2. Began trying to relate "final" products with their "raw" parents
+3. Created a first draft of an activity diagram
+4. Consulted with Bruce to see how accurate it was, and corrected as necessary
+5. Repeated steps 1-4 as necessary.
 
-#### Key documents and data products
+Two diagrams resulted:
 
-Each data product or sample is linked to its parent data products by arrows. 
+![image](Day_3/CaseStudy/Documents1.png)
 
-Each element with < pointed corners > represents a standard, protocol or best practice.  
+_Bruce's field data, as linked from parent to child_
 
-##### SBDC Minimum Information Guidelines
-In consultation with geobiologists and YNP staff, we developed SBDC Minimum Information Guidelines, a set of core data and metadata elements necessary for documenting the context of geobiology data collection in the field. These include (but are not limited to) each sample’s location in relation to a hot spring’s vent; the temperature and pH of the water collected with each sample; field photographs; and more. For more information, please visit our SBDC Data Curation Guide: sitebaseddatacuration.wordpress.com   
+![image](Day_3/CaseStudy/workflow1.png)
 
+_ver. 1 of the activity model_
 
-[image of key documents and data products]
+After this first iteration, we went on to curate Bruce's data for submission to a repository.  We then revised both diagrams again to account for our curatorial work, and to begin identifying "points of intervention" at which Bruce could begin curatorial work earlier during future field trips.
 
+![image](Day_3/CaseStudy/Documents2.png)
 
+_Version 2 of the activity model and data diagram. The panels below represent different stages of research and curatorial work; each colored box corresponds to similarly colored documents and data products above. Each data product or sample is linked to its parent data products by arrows. Each element with < pointed corners > represents a standard, protocol or best practice. Each box below with a red border represents a curatorial point of intervention identified through our work._
 
+![image](Day_3/CaseStudy/workflow2.png)
 
+The final workflow has 6 stages: Planning, Fieldwork, Processing & Analysis, Data Assessment, Standardizing and Packaging. 
 
-Though this initial workflow is specific to the field of geobiology -- and indeed, Dr. Fouke's particular field practices -- we are working with other researchers in other fields to document their research and curation workflows as well, and we hope that the resulting workflows can be altered and used by others.  
+Though this diagram is specific to the field of geobiology -- and indeed, Dr. Fouke's particular field practices -- we are working with other researchers in other fields to document their research and curation workflows as well, and we hope that the resulting workflows can be altered and used by others.  
 
 
 ## References and further resources
@@ -105,7 +114,9 @@ The SBDC Guide [link](https://sitebaseddatacuration.wordpress.com/)
 
 More on YNP [link](http://www.nps.gov/yell/index.htm)
 
+Dennis, Alan., Wixom, Barbara Haley,Tegarden, David Paul. (2012) Systems analysis design UML version 2.0an object oriented approach Hoboken, NJ : J. Wiley & Sons,
+
 ## Acknowledgements
-The SBDC project is a collaboration among information scientists, data archiving experts, geobiologists, and site resource managers at the University of Illinois at Urbana-Champaign, the University of Washington, Johns Hopkins University, and Yellowstone National Park. This presentation summarizes work conducted by the SBDC Team since 2012. Team members include: Carole Palmer (PI), Bruce Fouke, G. Sayeed Choudhury, Ann Rodman, Karen Baker, Jacob Jett, Abigail Asangba, Karen Wickett, Sean Gordon, and Christie Hendrix.
+The SBDC project is a collaboration among information scientists, data archiving experts, geobiologists, and site resource managers at the University of Illinois at Urbana-Champaign, the University of Washington, Johns Hopkins University, and Yellowstone National Park. This presentation summarizes work conducted by the SBDC Team since 2012. Team members include: Carole Palmer (PI), Bruce Fouke, G. Sayeed Choudhury, Ann Rodman, Karen Baker, Jacob Jett, Abigail Asangba, Karen Wickett, Sean Gordon, and Christie Hendrix.  Dr. Wickett in particular has been instrumental in developing the process modeling approach described here.
 
 The SBDC Project has been funded through Institute of Museum and Library Service National Leadership Grant number LG-06-12-0706-12.
