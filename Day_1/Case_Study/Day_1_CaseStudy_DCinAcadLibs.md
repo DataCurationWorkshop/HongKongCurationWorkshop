@@ -1,8 +1,6 @@
 # Research Data Management in Academic Libraries
 
-In this session we will use a case study method, which been used extensively in the academic data curation space.
-
-By example, an early ARL (Association of Research Libraries in the USA) used a case study approach to compare six academic libraries that were expanding their capacity to service eScience research initiatives, including data-intensive efforts in astronomy, molecular biology, and seismic engineering (Soehner, Steeves & Ward 2010). Later case study research focused on the development of research data management services (RDM) at three separate universities that were responding to federal mandates in data management planning documents attached to research funding proposals (Raboin, Reznik-Zellenk, and Salo, 2012). The most recent set of data curation case studies were offered by a group from the University of Michigan that concentrated specifically on the "prominent role of the library in providing services to educate and assist researchers with managing data before, during, and after their research projects" (Akers et al. 2014). 
+In this session we will use a case study method that been used extensively in the academic data curation space. For example, an early ARL (Association of Research Libraries in the USA) used a case study approach to compare six academic libraries that were expanding their capacity to service eScience research initiatives, including data-intensive efforts in astronomy, molecular biology, and seismic engineering (Soehner, Steeves & Ward 2010). Later case study research focused on the development of research data management services (RDM) at three separate universities that were responding to federal mandates in data management planning documents attached to research funding proposals (Raboin, Reznik-Zellenk, and Salo, 2012). The most recent set of data curation case studies were offered by a group from the University of Michigan that concentrated specifically on the "prominent role of the library in providing services to educate and assist researchers with managing data before, during, and after their research projects" (Akers et al. 2014). 
 
 Case Studies that we will review as a group:
 
@@ -19,11 +17,12 @@ In a breakout session we will review five different additional cases covered in 
 
 For each institution answer the following questions: 
 
-- Where are the research data services located (i.e. IT department, University Library, collaboration between different units, etc.)
+- Where are the research data services located (i.e. IT department, University Library, collaboration between different units, etc.)?
 - When did research data services begin at this institution? What was the motivation?
 - What types of services are offered, by whom and for whom?
 - What is the cost recovery / charge for these services? Are they offered free? 
-- What institutional repository (IR) options are available for archiving data? What software do these systems use? Can you find any supporting documents for those systems? Do these IRs have any accreditation or auditing documentats available publicly?  
+- What institutional repository (IR) options are available for archiving data? What software do these systems use? Can you find any supporting documents for those systems? Do these IRs have any accreditation or auditing documentation available publicly?  
+
 
 ## Works cited
 
@@ -34,7 +33,6 @@ For each institution answer the following questions:
 - Soehner, C., Steeves, C., & Ward, J. (2010). E-science and data support services: A study of ARL member institutions. Retrieved from Association of Research Libraries website: http://www.arl.org/storage/documents/publications/escience-report-2010.pdf
 
 ## Bibliogrpahy
-
 
 **Data Curation In Academic Libraries**
 
