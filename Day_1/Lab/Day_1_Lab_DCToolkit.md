@@ -1,4 +1,4 @@
-#Lab: Data Curation Toolkits and the DMP Tool
+# Data Curation Toolkits and the DMP Tool
 
 In this lab, we'll review Purdue's Data Curation Toolkit, and the California Digital Library's Data Management Planning Tool.  
 
