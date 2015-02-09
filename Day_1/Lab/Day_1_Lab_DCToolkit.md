@@ -23,9 +23,3 @@ Some of these datasets should be available on your desktop; others can be naviga
 Developed by California Digital Libraries, the DMPTool is an interactive templating tool to help researchers and librarians create data management plans.  You will need to create a user profile to log in.
 
 Create a user profile: [link](https://dmptool.org/users/new?institution_id=0)
-
-##Bibliography
-- Carlson, J. (2012). Demystifying the data interview: Developing a foundation for reference librarians to talk with researchers about their data. Reference Services Review, 40, 7–23. doi:10.1108/00907321211203603
-- Cragin, M. H., Palmer, C. L., Carlson, J. R., & Witt, M. (2010). Data sharing, small science and institutional repositories. Philosophical Transactions. Series A, Mathematical, Physical, and Engineering Sciences, 368(1926), 4023–38. doi:10.1098/rsta.2010.0165
-- Sallans, A., & Donnelly, M. (2012). DMP Online and DMPTool: Different Strategies Towards a Shared Goal. International Journal of Digital Curation, 7(2), 123–129. doi:10.2218/ijdc.v7i2.235
-- Witt, M., Carlson, J., Brandt, D. S., & Cragin, M. H. (2009). Constructing Data Curation Profiles. International Journal of Digital Curation. doi:10.2218/ijdc.v4i3.117
