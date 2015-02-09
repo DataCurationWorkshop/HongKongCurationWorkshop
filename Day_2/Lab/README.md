@@ -1,4 +1,4 @@
-#LAB: Data carpentry with **Open Refine**
+#Data curation with **Open Refine**
 
 1. Open Refine Overview & Basics
 2. Reconciliation
@@ -30,7 +30,7 @@ Data from the New York Public Library "What's on the Menu?" Project: [http://men
 
 ##2. Reconciliation
 
-###Biodiversity Reconciliation Services (from Rod Page's [iPhylo Blog](iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html))
+### Biodiversity Reconciliation Services (from Rod Page's [iPhylo Blog](iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html))
 
 - EOL: http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_eol.php
 - NCBI taxonomy: http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_ncbi.php
@@ -39,7 +39,7 @@ WORMS http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_worms.ph
 - GBIF: http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_gbif.php
 - Global Names Index: http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_globalnames.php
 
-### Dataset for this section 
+##Dataset for this section 
 
 Custom dataset from [GBIF.org](http://www.gbif.org/).  Should be on your desktop as biodiversity.txt
 
@@ -57,7 +57,7 @@ Using NYPL dataset again; template should be on your desktop as template.txt
 
 - More tutorials: [link](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources)
 
-###A quick note on the Freebase Reconciliation API -- Many Refine services rely/relied on this; however, Google has been slowly shutting Freebase down over the last year.  Developers are currently working on integration with Wikidata as a replacement, but there's no ETA on its availability.  Some Freebase services are still active and can be used as a tutorial, but I don't want to spend too much time on them.
+A quick note on the Freebase Reconciliation API -- Many Refine services rely/relied on this; however, Google has been slowly shutting Freebase down over the last year.  Developers are currently working on integration with Wikidata as a replacement, but there's no ETA on its availability.  Some Freebase services are still active and can be used as a tutorial, but I don't want to spend too much time on them.
 
 API: http://reconcile.freebaseapps.com/reconcile
 
@@ -66,7 +66,7 @@ Further information about [Freebase](www.freebase.org) integration with Open Ref
 Google on Freebase shut down: [link](https://plus.google.com/109936836907132434202/posts/bu3z2wVqcQc)
 
 
-### Advanced resources
+###Advanced resources
 
 - Google Refine "Cheat Sheet": [link](http://arcadiafalcone.net/GoogleRefineCheatSheets.pdf)
 
@@ -74,7 +74,7 @@ Google on Freebase shut down: [link](https://plus.google.com/1099368369071324342
 
 - Clustering in depth: [link](https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth)
 
-## Acknowledgements
+##Acknowledgements
 
 This NYPL portion of this exercise was created at the Maryland Institute for Technology in the Humanities and developed through the Digital Humanities Data Curation Institute series, generously funded by the National Endowment of the Humanities.  
 

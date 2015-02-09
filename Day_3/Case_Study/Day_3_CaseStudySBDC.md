@@ -1,4 +1,4 @@
-# The Site-Based Data Curation Project
+#The Site-Based Data Curation Project
 
 ## Overview
 
@@ -20,7 +20,7 @@ YNP was established as the USA's first national park in 1872, and is world famou
 
 >The park's geothermal system is the visible expression of the immense Yellowstone volcano; they would not exist without the underlying magma body that releases tremendous heat. They also depend on sources of water, such as the mountains surrounding the Yellowstone Plateau. There, snow and rain slowly percolate through layers of permeable rock riddled with cracks. Some of this cold water meets hot brine directly heated by the shallow magma body. The water's temperature rises well above the boiling point but the water remains in a liquid state due to the great pressure and weight of the overlying water. The result is superheated water with temperatures exceeding 400°F. [link](http://www.nps.gov/yell/naturescience/hydrothermalsystems.htm)
 
-![image](Day_3/CaseStudy/YNPmap.png)
+![image](Day_3/Case_Study/YNPmap.png)
 
 _Geothermal areas (red) and caldera (shaded) in Yellowstone National Park.
 (courtesy NPS)_
@@ -87,7 +87,7 @@ Process models are typically created through discussions with a systems designer
 
 Two diagrams resulted:
 
-![image](Day_3/CaseStudy/Documents1.png)
+![image](Documents1.png)
 
 _Bruce's field data, as linked from parent to child_
 

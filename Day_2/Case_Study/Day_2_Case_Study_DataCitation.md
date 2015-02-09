@@ -1,4 +1,4 @@
-# Case Study: Data Citation
+#Case Study: Data Citation
 
 The reuse of research data is predicated on it being discoverable and accessible to a public audience. One way of achieving this is by citing data in journal articles. The infrastructure that supports the citation of data as a first class research output includes many of the topics that we have already covered in this workshop: data publication, persistent identifiers, machine readable metadata, etc. 
 
@@ -6,7 +6,7 @@ In this session we will draw upon this work in discussing the emergence of data 
 
 Our case study will focus on two institutions that have been at the forefront of data citation initiatives, the National Center for Atmospheric Research - in the earth sciences -  and the Institute for Qualitative Social Science at Harvard University. Both have developed initiatives around citing data, and have partnered with repository developers and scholarly journals to comprehensively provide an infrastructure to facilitate data curation. 
 
-## Bibliography
+##Bibliography
 
 - Uhlir, P. E. (Ed.). (2012). For Attribution--Developing Data Attribution and Citation Practices and Standards:: Summary of an International Workshop. National Academies Press. [PDF](http://www.nap.edu/openbook.php?record_id=13564)
 

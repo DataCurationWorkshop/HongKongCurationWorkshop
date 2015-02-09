@@ -12,11 +12,11 @@ The design and analysis of systems to support the lifecycle of research data man
 
 The three scenarios will cover data producers from the following domains:
 
-1. Ecology: Habitat Selection by Grassland Birds 
+1. [Ecology: Habitat Selection by Grassland Birds](https://github.com/HKDCWorkshop/HongKongCurationWorkshop/raw/master/Day_3/Lab/necdmc_researchcase_grasslandbirds.docx)
 
-2. Engineering:  Characterizing a Component of a Rocket Engine Used to Control Satellites in Orbit
+2. [Engineering:  Characterizing a Component of a Rocket Engine Used to Control Satellites in Orbit](https://github.com/HKDCWorkshop/HongKongCurationWorkshop/raw/master/Day_3/Lab/necdmc_researchcase_characterizing.docx)
 
-3. Public health (qualitative):  Improving End-of-Life Care for African Americans 
+3. [Public health (qualitative):  Improving End-of-Life Care for African Americans](https://github.com/HKDCWorkshop/HongKongCurationWorkshop/raw/master/Day_3/Lab/necdmc_researchcase_improving.docx) 
 
 <br>
 <br>
