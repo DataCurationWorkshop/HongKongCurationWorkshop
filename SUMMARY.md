@@ -10,8 +10,7 @@
 		* [Overview of the data lifecycle](Day_1/Lectures/Book/Day_1_Lecture_DC_LifeCycles.md)
 		* [The lifecycle applied](Day_1/Lectures/Book/Day_1_Lecture_DC_LifeCycleApplied.md)
 		* [Identifiers](Day_1/Lectures/Book/Day_1_Lectures_Identifiers.md)
-	* Case Study 1: Data Curation in Academic Libraries
-	* [Case Study 1: Academic Data Curation](Day_1/Case_Study/Day_1_AcadDataCuration_CaseStudy.md)
+	* [Case Study 1: Data Curation in Academic Libraries](Day_1/Case_Study/Day_1_AcadDataCuration_CaseStudy.md)
 	* Lab 1: Curation Profiles Toolkit and Data Management Plans
 * [Day 2](Day_2/readme.md)
 	* Lecture:“Selecting and Applying Standards for Building Data Collections” - interactive session with Dr. Jerome McDonough and Dr. J. Stephen Downie
