@@ -1,15 +1,15 @@
-#Making data curation life cycles actionable: Checklists, Curation Profiles, and Data Management Planning.
-
+#Making data curation life cycles actionable
 
 ##Putting data lifecycle models into practice
 
 A life cycle approach to data curation is needed because different curatorial activities (or a lack thereof) at each stage in the life cycle directly influence practitioners' ability to preserve data, and later researchers' ability to reuse data. Thus its important to identify specific curatorial actions that must be undertaken at each stage.  
 
-###Checklists -- DCC
+##Checklists -- DCC
 
 The DCC has created checklists of tasks to accomplish for each of the "sequential" steps in their lifecycle, for instance: 
 
 > **Conceptualize**
+
 >- Get into the habit of equating data curation with good research. 
 >- Know what your funding body expects you to do with your data and for how long. Assess your ability to be able to meet these expectations (i.e., do you need additional funding or staff?). 
 >- Determine intellectual property rights from the outset and ensure they are documented
@@ -17,7 +17,7 @@ The DCC has created checklists of tasks to accomplish for each of the "sequentia
 
 These tasks outlined in the checklists are intentionally broad -- this makes them appropriate for a broad range of data types and institutional setups.
 
-###Data Curation Profiles 
+##Data Curation Profiles 
 
 The Curation Profiles Project (CPP) was an IMLS-funded research project between Purdue University Libraries and GSLIS; the overall goal was to understand which researchers would be willing to share data when, and why, via detailed case studies of different researchers' data practices.  The CPP team conducted cases studies of 12 different research domains, and from these, developed Data Curation Profiles: 
 
@@ -34,7 +34,7 @@ Data Curation Profiles can:
 
 From these profiles, researchers at Purdue went on to develop the Data Curation Profile Toolkit for use by librarians and data curators, to help guide conversations between them and researchers. The Toolkit itself is essentially an interview guide -- similar to a reference interview, in some ways, but with the goal of helping the librarian understand a dataset's curatorial needs, rather than a patron's research needs. 
 
-###Data Management Planning Tool (DMP Tool)
+##Data Management Planning Tool (DMP Tool)
 
 Increasingly, US funding agencies such as the National Science Foundation (NSF), the National Institutes of Health (NIH), and other private funders are requiring that researchers submit a data management plan along with their funding applications.  For instance, the NSF writes,
 
@@ -45,7 +45,7 @@ Even if researchers aren't required to create a data management plan, creating o
 The California Digital Library has created the Data Management Planning (DMP) Tool, which we will use in this afternoon to create a DMP.  This tool walks users through templates for different institutions and funding agencies, and allows users to create their own templates as well.
 
 
-## Bibliography
+##Bibliography
 
 **Curation Profiles Project**
 

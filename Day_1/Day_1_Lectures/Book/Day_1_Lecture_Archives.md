@@ -1,4 +1,4 @@
-# Archives and Records Management for Data Curation
+#Archives and Records Management for Data Curation
 
 Central to the enterprise of archiving and records management is the idea of a "record" - defined as "data or information fixed on some medium which has **content, context, and structure**" (AAA, 2014). The archival definition of a record is very close to how we think about data playing an information role within scholarly communities. In future sessions we will talk about the **context** and **structure** of digital data in curation, but for this section we want to focus on how the three concepts (content, context, and structures) from archives and records management are applied to data curation. 
 
@@ -9,14 +9,14 @@ We will cover two additional themes from archival science:
 
 As we apply these concepts to the domain of research data curation, it is helpful to draw upon the work of Cliff Lynch who has descried in detail, the difficult role that the scholarly record faces in a digitally networked environment. Issues of reliability, authenticity, and continued meaningful access are complicated by the distributed nature of digital artifacts, including data (1994). Archives and records management have thoughtfully approached these topics for many decades, and so being able to draw on the knowledge, and the tools developed by this community will be useful in your own institutional data curation initiatives.  
  
-## Works Cited
+##Works Cited
 
 - A definition of "record" from the _American Archivists Association's_ Glossary - http://www2.archivists.org/glossary/terms/r/record 
 
 - Lynch, C.  (1994) Rethinking the Integrity of the Scholarly Record in the Networked Information Age." Educom Review 29, no. 2.  38-40. http://net.educause.edu/apps/er/review/reviewArticles/29238.html
 
 
-## Bibliography
+##Bibliography
 
 - Treloar, A., Groenewegen, D., & Harboe-Ree, C. (2007). The data curation continuum: Managing data objects in institutional repositories. D-Lib magazine, 13(9), 4.
 

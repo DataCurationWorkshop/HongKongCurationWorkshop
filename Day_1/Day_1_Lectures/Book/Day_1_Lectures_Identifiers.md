@@ -1,11 +1,11 @@
-# Identifiers
+#Identifiers
 
-## What is an identifier?
+##What is an identifier?
 An identifier, most simply, is “a name that identifies either a unique object or a unique class of objects.”  In computer or technical systems, these are often found in the form of bar codes, QR codes or unique alphanumeric strings such as ISSNs or URLs.  
 
 In data curation, we need identifiers to battle reference rot: if data are playing the role of evidence in research and public policy, they need to be accessible for the long-term.  Using stable identifiers is key to this: they allow users to reliably reference and locate materials.
 
-## IDs for data curation
+##IDs for data curation
 
 Identifiers for data curation must be:
 
@@ -28,7 +28,7 @@ There are many different kinds of identifier schemas for use with data:
 
 All of these have different properties:
 
-![image](Day_1/Lectures/Book/IDSchemaComparison.png)
+![image](IDSchemaComparison.png)
 
 **[Reference?]**
 
@@ -52,14 +52,14 @@ Both service require institution- or project-level paid subscriptions.
 
 The prevalence of DOI minting services means that while each identifier is unique and only points to one resource, there's nothing keeping different DOI services from minting multiple identifiers for one resource.  
 
-## DOIs alone are not enough
+##DOIs alone are not enough
 Just as an address won’t prevent a house from being demolished or remodeled, an ID will not prevent “content drift,” or prevent data from being deleted from its hosting server.  Furthermore, its important to remember that a DOI doesn't:
 
 - make data more or less citable (remember, we've been citing papers and books long before they had DOIs attached to them!)
 - make data more or less trustworthy (DOIs can be assigned to anything, even nonscholarly, non-peer-reviewed objects).
 - make data more or less stable as a data set.  Though DOIs cannot be altered or destroyed, digital objects still can be.  **Just because a paper or object has a DOI assigned to it doesn't mean that it can't/won't be changed or altered by its host.**
 
-## Bibliography
+##Bibliography
 
 - Duerr, R. E., Downs, R. R., Tilmes, C., Barkstrom, B., Lenhardt, W. C., Glassy, J. J., … Slaughter, P. (2011). On the Utility of identification schemes for digital earth science data: an assessment and recommendations. Earth Science Informatics, (4), 139–160. doi:10.1007/s12145-011-0083-6
 
@@ -69,15 +69,16 @@ Just as an address won’t prevent a house from being demolished or remodeled, a
 
 - Van de Sompel, H., Sanderson, R., Shankar, H., & Klein, M. (2014). Persistent Identifiers for Scholarly Assets and the Web: The Need for an Unambiguous Mapping. International Journal of Digital Curation, 9(1), 331-342.
 
-http://www.doi.org/doi_handbook/2_Numbering.html
+- http://www.doi.org/doi_handbook/2_Numbering.html
 
 Blog posts from RDM Page 
+
 - Page, RDM. (2013) Multiple DOIs for one article issued by different publishers.  iPhylo.  http://iphylo.blogspot.com/2013/05/duplicate-dois-for-same-article-issued.html
 
-On identifiers (again) http://iphylo.blogspot.com/search?updated-max=2014-12-17T18:31:00Z
+- On identifiers (again) http://iphylo.blogspot.com/search?updated-max=2014-12-17T18:31:00Z
 
-DOIs are not enough http://iphylo.blogspot.com/2014/05/dois-are-not-enough.html
+- DOIs are not enough http://iphylo.blogspot.com/2014/05/dois-are-not-enough.html
 
-http://crosstech.crossref.org/2013/09/dois-unambiguously-and-persistently-identify-published-trustworthy-citable-online-scholarly-literature-right.html
+- http://crosstech.crossref.org/2013/09/dois-unambiguously-and-persistently-identify-published-trustworthy-citable-online-scholarly-literature-right.html
 
-http://ezid.cdlib.org/home/why
+- http://ezid.cdlib.org/home/why
