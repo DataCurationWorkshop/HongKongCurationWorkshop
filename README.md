@@ -6,27 +6,26 @@ This repository contains drafts of presentations, lectures, and lab activities f
 
 HongKongCurationWorkshop
 ========================
-**Day 1: Data Curation Life Cycles (ILO: 1, 2, 3) & Introduction to Field & Academic Data
-Curation**
+**Day 1: Data Curation Life Cycles & Introduction to Academic Data Curation**
 
 Morning session
 
 - 09:00 - 09:05: Welcome with Dr. Sam Chu (Associate Professor and Head, Division of Information and Technology Studies, HKU) and Ms. Diana Chan (University Librarian, HKUST)
 - 09:05 - 09:15: Opening words from Dr. Allen Renear (Professor and Dean, GSLIS, University of Illinois)
-- 09:15 - 10:15: *NMW*: Keynote address - “Open Data and Scholarly Communication”
+- 09:15 - 10:15: Keynote address - “Open Data and Scholarly Communications for Data Curation”
 - 10:15 - 10:30: Coffee break
-- 10:30 - 12:30: *NMW + AKT*: Lecture - “Data Curation Life Cycles and Tools” [intro and overview of data curation]
+- 10:30 - 12:30: Lecture - “Data Curation Life Cycles and Tools” 
 - 12:30 - 14:00: Lunch break
 
 Afternoon: Split into 2 groups
 
-- 14:00 - 15:30: *NMW* Case studies - Academic Data Curation
+- 14:00 - 15:30: Case study 1 - Academic Data Curation
 - 15:30 - 15:45: Coffee break
-- 15:45 - 17:15: *AKT* Lab - Curation Profiles Toolkit & DMPTool
+- 15:45 - 17:15: Lab 1 - Curation Profiles Toolkit & DMPTool
 - 17:15 - 17:30: Day 1 wrap-up
 
 
-**Day 2: Metadata Schema Design, Adaptation & Contextualization (ILO: 5, 6)**
+**Day 2: Metadata Schema Design, Adaptation & Contextualization**
 
 Morning session
 
