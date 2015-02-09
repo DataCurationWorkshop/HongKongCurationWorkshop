@@ -8,6 +8,8 @@ Our case study will focus on two institutions that have been at the forefront of
 
 ## Bibliography
 
+- Uhlir, P. E. (Ed.). (2012). For Attribution--Developing Data Attribution and Citation Practices and Standards:: Summary of an International Workshop. National Academies Press. [PDF](http://www.nap.edu/openbook.php?record_id=13564)
+
 - Ball, A. & Duke, M. (2012). ‘How to Cite Datasets and Link to Publications’. DCC How-to Guides. Edinburgh: Digital Curation Centre. Available online: http://www.dcc.ac.uk/resources/how-guides - See more at: http://www.dcc.ac.uk/resources/how-guides/cite-datasets#x1-13000
 
 - Task Group on Data Citation Standards and Practices, C. I. (2013). Out of Cite, Out of Mind: The Current State of Practice, Policy, and Technology for the Citation of Data. Data Science Journal, 12(0), CIDCR1-CIDCR75: http://openscholar.mit.edu/sites/default/files/dept/files/outofcite.pdf 
