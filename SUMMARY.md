@@ -1,7 +1,5 @@
 # Summary
 
-* [Cover](cover.jpg)
-* [Citation](Introduction/citation.md)
 * [Introduction to Research Data Curation](Introduction/Introduction.md)
 * [The Data Curation Workshop](Introduction/CaseStudy-Lab-Overview.md)
 * [Day 1](Day_1/readme.md)
