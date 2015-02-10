@@ -36,7 +36,7 @@ For each institution try toanswer the following questions:
 
 - Soehner, C., Steeves, C., & Ward, J. (2010). E-science and data support services: A study of ARL member institutions. Retrieved from Association of Research Libraries website: http://www.arl.org/storage/documents/publications/escience-report-2010.pdf
 
-## Bibliogrpahy
+## Bibliography
 
 **Data Curation In Academic Libraries**
 
