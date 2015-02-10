@@ -1,6 +1,6 @@
 #The Site-Based Data Curation Project
 
-## Overview
+##Overview
 
 The Site-Based Data Curation (SBDC) project at the University of Illinois has been developing a framework of policies and best practices for the curation of digital research data collected _in the field from scientifically significant sites_, using the interdisciplinary field of geobiology as an initial case study. 
 
@@ -10,28 +10,28 @@ The SBDC framework will help researchers produce shareable, reusable data by:
 2) streamlining submission of reusable data to open repositories, and
 3) organizing collections for access within and across field sites.
 
-### About geobiology
+**About Geobiology**
 
 Our initial case study has focused on the interdisciplinary field of geobiology, as conducted in the geothermal hot springs at Yellowstone National Park (YNP).  Geobiologists study the interactions between microbial organisms and the sediments they live in and generate.  The microbes living in the hot springs at YNP are particularly interesting for being _thermophiles_: they can only live in extremely hot temperatures.  Thus, YNP has become an important research locality for scientists interested in understanding how life on earth may have originally evolved (many think that it may have emerged from similar, ancient hot springs or undersea volcanic vents), or even how life may evolve on other planets.  Furthemore, there are quite a number of industrial applications to this work: _Taq polymerase_, an enzyme critical to DNA amplification, was first found and isolated from a bacterium living in the hot springs at YNP.
 
-### About Yellowstone National Park
+**About Yellowstone National Park**
 
 YNP was established as the USA's first national park in 1872, and is world famous for its numerous hot springs and geysers: the park includes more than 10,000 hydrothermal features, including more than 300 geysers.  The majority of the park is located within the eroded caldera of a (still active!) ancient volcano, which last erupted 174,000 years ago.  The site is still quite geologically active, and thus of enormous interest to a broad range of scientists:
 
->The park's geothermal system is the visible expression of the immense Yellowstone volcano; they would not exist without the underlying magma body that releases tremendous heat. They also depend on sources of water, such as the mountains surrounding the Yellowstone Plateau. There, snow and rain slowly percolate through layers of permeable rock riddled with cracks. Some of this cold water meets hot brine directly heated by the shallow magma body. The water's temperature rises well above the boiling point but the water remains in a liquid state due to the great pressure and weight of the overlying water. The result is superheated water with temperatures exceeding 400°F. [link](http://www.nps.gov/yell/naturescience/hydrothermalsystems.htm)
+>The park's geothermal system is the visible expression of the immense Yellowstone volcano; they would not exist without the underlying magma body that releases tremendous heat. They also depend on sources of water, such as the mountains surrounding the Yellowstone Plateau. There, snow and rain slowly percolate through layers of permeable rock riddled with cracks. Some of this cold water meets hot brine directly heated by the shallow magma body. The water's temperature rises well above the boiling point but the water remains in a liquid state due to the great pressure and weight of the overlying water. The result is superheated water with temperatures exceeding 400°F. (["Hydrothermal Systems"](http://www.nps.gov/yell/naturescience/hydrothermalsystems.htm))
 
 ![image](YNPmap.png)
 
 _Geothermal areas (red) and caldera (shaded) in Yellowstone National Park.
 (courtesy NPS)_
 
-## Minimum information guidelines:
+##Minimum information guidelines:
 
 Capturing context in the field is crucial for research on geothermal systems: all sampling locations need to be contextualized by their location relative to the feature vent, and by the water chemistry of the spring at the sampling point. These data points concretely situate sampling locations within a geothermal system, and can act as community recognized “anchor points” that help future researchers integrate diverse datasets.
 
 In Spring 2013, we held a stakeholders' workshop to begin generating more specific metadata requirements for geobiology data. Working with geobiologists and resource managers, we developed the following minimum information guidelines for different aspects of geobiology work at YNP:
 
-###MINIMUM INFORMATION ABOUT A FIELD TRIP
+**MINIMUM INFORMATION ABOUT A FIELD TRIP**
 
 1. Full name(s) of PI/Investigators, all members of the field party
 2. Permit number
@@ -40,7 +40,7 @@ In Spring 2013, we held a stakeholders' workshop to begin generating more specif
 5. Investigator Sample ID numbering scheme – a short description of your basic sample reference code structure
 6. A free text description of the purpose of the field trip and the sampling plan specifics
 
-###MINIMUM INFORMATION ABOUT A GEOTHERMAL VENT
+**MINIMUM INFORMATION ABOUT A GEOTHERMAL VENT**
 
 1. GPS location at vent- up to 3X different types of input coordinates
 2. Altitude (Elevation) at vent – in meters derived from topographical maps or separate GPS systems
@@ -49,7 +49,7 @@ In Spring 2013, we held a stakeholders' workshop to begin generating more specif
 5. A contextualizing field photograph that includes the vent of the thermal feature and its surrounding environment (i.e. single facies at mm-cm-m+ length-scale and specific position within the drainage system) with embedded digital information on sample sites and other information (not just a “marked” photo)
 6. A short free text description of the site overall, including the condition of the vent and sampling sites
 
-###MINIMUM INFORMATION ABOUT A SAMPLING SITE
+**MINIMUM INFORMATION ABOUT A SAMPLING SITE**
 
 For each sampling site, we recommend that researchers record:
 
@@ -59,13 +59,13 @@ For each sampling site, we recommend that researchers record:
 4. Water temperature (for water samples)
 5. pH (for water samples)
 
-## Process modeling for data curation: Workflow documentation as a curatorial tool
+##Process modeling for data curation: Workflow documentation as a curatorial tool
 
 After developing the minimum information guidelines, we sought to "test" their efficacy by curating a dataset (a year's worth of field data collected by our co-PI Bruce Fouke) according to their recommendations.  However, this presented us with a problem: while the guidelines tell what kind of data to collect, they don't tell us how or when to collect it.  Furthermore, no metadata schema is capable of reconstructing metadata that was never collected in the first place!
 
 We turned to a method from systems analysis for help: process modeling and activity diagramming.
 
-###PROCESS MODELING & ACTIVITY DIAGRAM
+**PROCESS MODELING & ACTIVITY DIAGRAM**
 
 Process models, 
 
@@ -107,8 +107,7 @@ The final workflow has 6 stages: Planning, Fieldwork, Processing & Analysis, Dat
 
 Though this diagram is specific to the field of geobiology -- and indeed, Dr. Fouke's particular field practices -- we are working with other researchers in other fields to document their research and curation workflows as well, and we hope that the resulting workflows can be altered and used by others.  
 
-
-## References and further resources
+##Works Cited
 
 The SBDC Guide [link](https://sitebaseddatacuration.wordpress.com/)
 
