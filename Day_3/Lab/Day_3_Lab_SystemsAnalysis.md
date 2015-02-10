@@ -1,12 +1,12 @@
-##Systems Analysis for Data Curation
+#Systems Analysis for Data Curation
 
-The design and analysis of systems to support the lifecycle of research data management are essential skills for data curators. In this laboratory we will use three different research data producer scenarios [1] to complete the following activities:  
+The design and analysis of systems to support the lifecycle of research data management are essential skills for data curators. In this lab we will use three different research data producer scenarios [1] to complete the following activities:  
 
 - Develop a **requirements gathering** document which specifies a range of use case activities. 
 
-- Based on the requirements gathering document, develop a single **use cases** which outlines a set of intended actions, and supporting services. Use cases are valuable and important because it helps a data curator move from modeling what data are (types, roles, etc.) to understand how the data might be used in the future.
+- Based on the requirements gathering document, develop a single **use case** which outlines a set of intended actions, and supporting services. Use cases are valuable and important because they help a data curator move from modeling what data are (types, roles, etc.) to understanding how the data might be used in the future.
 
-- Create a **process diagram** which models the use case. Systems modeling in data curation can take a formal approach, such as UML (Unified Modeling Language) or an informal approach, such as process diagrams, which we will cover in this 
+- Create a **activity diagram** which models the research processes described in th euse case. Systems modeling in data curation can take a formal approach, such as UML (Unified Modeling Language) or an informal approach, such as activity diagrams, which we will cover in this.
 
 - Using the scenario documents to create a **data dictionary**
 
