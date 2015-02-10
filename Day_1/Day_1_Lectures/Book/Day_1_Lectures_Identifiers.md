@@ -30,7 +30,7 @@ All of these have different properties:
 
 ![image](IDSchemaComparison.png)
 
-**[Reference?]**
+_From Duerr et al., 2011_
 
 ##DOIs
 
@@ -39,6 +39,8 @@ Digital Object Identifiers, or DOIs, have recently gained widespread use with bo
 DOIs are character strings, and can be divided into three parts: the URL of resolution service (e.g. the metadata store that redirects the user to the current location of the digital object), a prefix which points to the identity of the registrant (e.g. the company or individual assigning the DOI), and a suffix which points to the object itself.  The prefix and suffix are separated by a forward slash:
 
 ![image](http://ands.org.au/guides/anatomy-of-a-doi-fig1.jpg)
+
+_From the Australian National Data Service ["Cite My Data" Guide](http://ands.org.au/guides/cite-my-data.html)_
 
 Once created, a DOI cannot be renamed or deleted.
 
@@ -59,26 +61,30 @@ Just as an address won’t prevent a house from being demolished or remodeled, a
 - make data more or less trustworthy (DOIs can be assigned to anything, even nonscholarly, non-peer-reviewed objects).
 - make data more or less stable as a data set.  Though DOIs cannot be altered or destroyed, digital objects still can be.  **Just because a paper or object has a DOI assigned to it doesn't mean that it can't/won't be changed or altered by its host.**
 
+For more on this, see ["DOIs unambiguously and persistently identify published, trustworthy, citable online scholarly literature. Right?"](http://crosstech.crossref.org/2013/09/dois-unambiguously-and-persistently-identify-published-trustworthy-citable-online-scholarly-literature-right.html)
+
+##Works Cited
+
+- Australian National Data Service. (2011). Cite My Data Guide.  Available from: http://ands.org.au/guides/cite-my-data.html
+
+- Bilder, G. (2013). DOIs unambiguously and persistently identify published, trustworthy, citable online scholarly literature. Right? CrossTech Blog. Available from: http://crosstech.crossref.org/2013/09/dois-unambiguously-and-persistently-identify-published-trustworthy-citable-online-scholarly-literature-right.html
+
+-Duerr, R. E., Downs, R. R., Tilmes, C., Barkstrom, B., Lenhardt, W. C., Glassy, J. J., Slaughter, P. (2011). On the Utility of identification schemes for digital earth science data: an assessment and recommendations. Earth Science Informatics, (4), 139–160. doi:10.1007/s12145-011-0083-6
+
+- DataCite: https://www.datacite.org/
+
+- EZID: http://ezid.cdlib.org/home/why
+
 ##Bibliography
 
-- Duerr, R. E., Downs, R. R., Tilmes, C., Barkstrom, B., Lenhardt, W. C., Glassy, J. J., … Slaughter, P. (2011). On the Utility of identification schemes for digital earth science data: an assessment and recommendations. Earth Science Informatics, (4), 139–160. doi:10.1007/s12145-011-0083-6
+- International DOI Foundation. (2014).  Chapter 2: Numbering. Available from http://www.doi.org/doi_handbook/2_Numbering.html
 
 - Klein, M., Van de Sompel, H., Sanderson, R., Shankar, H., Balakireva, L., Zhou, K., & Tobin, R. (2014). Scholarly Context Not Found: One in Five Articles Suffers from Reference Rot. PLoS ONE, 1–39. doi:10.1371/journal.pone.0115253
+
+- Page, RDM. (2013) Multiple DOIs for one article issued by different publishers.  iPhylo.  http://iphylo.blogspot.com/2013/05/duplicate-dois-for-same-article-issued.html
+
+- Page, RDM. (2014) DOIs are not enough. iPhylo. http://iphylo.blogspot.com/2014/05/dois-are-not-enough.html
 
 - Starr, J., & Gastl, A. (2011). isCitedBy: A Metadata Scheme for DataCite. D-Lib Magazine, 17(12).
 
 - Van de Sompel, H., Sanderson, R., Shankar, H., & Klein, M. (2014). Persistent Identifiers for Scholarly Assets and the Web: The Need for an Unambiguous Mapping. International Journal of Digital Curation, 9(1), 331-342.
-
-- http://www.doi.org/doi_handbook/2_Numbering.html
-
-Blog posts from RDM Page 
-
-- Page, RDM. (2013) Multiple DOIs for one article issued by different publishers.  iPhylo.  http://iphylo.blogspot.com/2013/05/duplicate-dois-for-same-article-issued.html
-
-- On identifiers (again) http://iphylo.blogspot.com/search?updated-max=2014-12-17T18:31:00Z
-
-- DOIs are not enough http://iphylo.blogspot.com/2014/05/dois-are-not-enough.html
-
-- http://crosstech.crossref.org/2013/09/dois-unambiguously-and-persistently-identify-published-trustworthy-citable-online-scholarly-literature-right.html
-
-- http://ezid.cdlib.org/home/why
