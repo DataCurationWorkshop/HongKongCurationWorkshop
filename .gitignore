@@ -2,3 +2,11 @@
 Day_1/Case_Study/Day_1_AcadDataCuration_CaseStudy.md
 
 Day_1/Case_Study/Day_1_CaseStudy_DCinAcadLibs.md
+
+# Book build output
+_book
+
+# eBook build output
+*.epub
+*.mobi
+*.pdf
