@@ -2,7 +2,7 @@
 
 In this lab, we'll review Purdue's Data Curation Toolkit, and the California Digital Library's Data Management Planning Tool.  
 
-##1. Curation Profile Toolkit
+##Curation Profile Toolkit
 
 >“A Data Curation Profile is a tool that can be used to provide a foundational base of information about a particular set of data that may be curated by an academic library or other institution.” (Carlson and Witt, 2010) 
 
@@ -18,7 +18,7 @@ http://figshare.com/articles/) [link to further documentation](Understanding_Gen
 
 Some of these datasets should be available on your desktop; others can be navigated to through your web browser.
 
-##2. Data Management Planning Tool
+##Data Management Planning Tool
 
 Developed by California Digital Libraries, the DMPTool is an interactive templating tool to help researchers and librarians create data management plans.  You will need to create a user profile to log in.
 
