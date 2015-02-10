@@ -4,7 +4,9 @@ In this lab, we'll review Purdue's Data Curation Toolkit, and the California Dig
 
 ##Curation Profile Toolkit
 
->“A Data Curation Profile is a tool that can be used to provide a foundational base of information about a particular set of data that may be curated by an academic library or other institution.” (Carlson and Witt, 2010) 
+>“A Data Curation Profile is a tool that can be used to provide a foundational base of information about a particular set of data that may be curated by an academic library or other institution.” 
+
+_(Carlson and Witt, 2010)_
 
 Developed jointly by Purdue University and the University of Illinois, the toolkit is a generalizable worksheet and interview guide for libraries, cultural heritage instituions and non-profits. The toolkit acts as a guide for a curator or librarian in their collaborations with researchers. 
 
