@@ -1,6 +1,6 @@
 #Metadata for Research Data Curation
 
-A central aspect of the data curation is the design, selection, and adaptation of metadata standards. Metadata often drives the indexing and search functions of the systems we build, and it will act as a communicative device between data users and data producers. This set of lectures  will give a broad overview of different types of research metadata metadata used in curation, and some example use cases. We will focus specifically on how to select from existing metadata standards, how to design new standards, and the process of cross-walking between standards. 
+A central aspect of data curation is the design, selection, and adaptation of metadata standards. Metadata often drives the indexing and search functions of the systems we build, and it will act as a communicative device between data users and data producers. This set of lectures  will give a broad overview of different types of research metadata that are used in curation, and some example use cases. We will focus specifically on how to select from existing metadata standards, how to design new standards, and the process of cross-walking between standards. 
 
 ##Bibliography
 
