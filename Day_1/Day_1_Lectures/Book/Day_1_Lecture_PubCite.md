@@ -1,9 +1,10 @@
 ## Data Publication
 
-What does it mean to "publish" data on the web? Most datasets that are "published" don't end up in a journal. Referring the act of making data discoverable, attributable, and well described as "publishing" seems to perpetuate a relationship between publishers and libraries / archives / data repositories that may not be necessary (Parsons and Fox, 2012). 
+What does it mean to "publish" data? 
+
+Most datasets that aren't "published" in a journal like a research article, so referring the act of making data discoverable, attributable, and well described as "publishing" seems to perpetuate a relationship between publishers and libraries that may not be necessary (Parsons and Fox, 2012). 
 
 In this session we will look at the various ways that data publication can be achieved. Some models of data publication include papers written to describe a dataset (e.g. a "data paper") while others refer to the host of activities required to make data available through an online portal, webpage, or data archive. 
-
 
 ### Bibliography
 
