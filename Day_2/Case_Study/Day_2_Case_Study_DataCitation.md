@@ -4,7 +4,7 @@ The reuse of research data is predicated on it being discoverable and accessible
 
 In this session we will draw upon this work in discussing the emergence of data citation initiatives in the humanities, arts, and sciences. This includes the motivation for citing data, some principles for encouraging the citation of data in a scholarly communications context, and the practical anatomy of a data citation based on publishers' standards. 
 
-Our case study will focus on two institutions that have been at the forefront of data citation initiatives, the National Center for Atmospheric Research - in the earth sciences -  and the Institute for Qualitative Social Science at Harvard University. Both have developed initiatives around citing data, and have partnered with repository developers and scholarly journals to comprehensively provide an infrastructure to facilitate data curation. 
+Our case study will focus on two institutions that have been at the forefront of data citation initiatives, the National Center for Atmospheric Research, and the Institute for Qualitative Social Science at Harvard University. Both have developed initiatives around citing data, and have partnered with repository developers and scholarly journals to comprehensively provide an infrastructure to facilitate data curation. 
 
 ##Bibliography
 
