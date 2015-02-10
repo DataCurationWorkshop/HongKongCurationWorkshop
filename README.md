@@ -4,7 +4,7 @@ We have relied heavily on secondary sources in compiling the material for this w
 
 To reference this work, or the workshop in a general way, please use the following citation: 
 
-`AUTHORS AND ORDER (2015) Data Curation Workshop: University of Hong Kong. IDEALS ARK`
+`Downie, J.S., Thomer, A.K., & Weber, N.M. (2015). Data Curation Workshop: University of Hong Kong. IDEALS ARK`
 
 #Licenses for this work
 
@@ -24,7 +24,7 @@ Please cite responsibly.
 
 This workshop is generously supported by the Center for Informatics Research in Science and Scholarship at the University of Illinois Graduate School for Library and Information Science, and the University of Hong Kong. 
 
-The NYPL portion of the "Open Refine" lab were created at the Maryland Institute for Technology in the Humanities and developed through the Digital Humanities Data Curation Institute series, generously funded by the National Endowment of the Humanities. Special thanks to Trevor Muñoz, Lydia Zvyaginsteva and Megan Senseney!
+The NYPL portion of the "Open Refine" lab were created at the Maryland Institute for Technology in the Humanities and developed through the Digital Humanities Data Curation Institute series, generously funded by the National Endowment of the Humanities. Special thanks to Trevor Muñoz, Lydia Zvyaginsteva and Megan Senseney.
 
 The SBDC Case Study was been funded through Institute of Museum and Library Service National Leadership Grant number LG-06-12-0706-12. The SBDC project is a collaboration among information scientists, data archiving experts, geobiologists, and site resource managers at the University of Illinois at Urbana-Champaign, the University of Washington, Johns Hopkins University, and Yellowstone National Park. This presentation summarizes work conducted by the SBDC Team since 2012. Team members include: Carole Palmer (PI), Bruce Fouke, G. Sayeed Choudhury, Ann Rodman, Karen Baker, Jacob Jett, Abigail Asangba, Karen Wickett, Sean Gordon, and Christie Hendrix. Dr. Wickett in particular has been instrumental in developing the process modeling approach described here.
 
