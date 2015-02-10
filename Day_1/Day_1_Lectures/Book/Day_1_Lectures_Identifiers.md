@@ -69,7 +69,7 @@ For more on this, see ["DOIs unambiguously and persistently identify published, 
 
 - Bilder, G. (2013). DOIs unambiguously and persistently identify published, trustworthy, citable online scholarly literature. Right? CrossTech Blog. Available from: http://crosstech.crossref.org/2013/09/dois-unambiguously-and-persistently-identify-published-trustworthy-citable-online-scholarly-literature-right.html
 
--Duerr, R. E., Downs, R. R., Tilmes, C., Barkstrom, B., Lenhardt, W. C., Glassy, J. J., Slaughter, P. (2011). On the Utility of identification schemes for digital earth science data: an assessment and recommendations. Earth Science Informatics, (4), 139–160. doi:10.1007/s12145-011-0083-6
+- Duerr, R. E., Downs, R. R., Tilmes, C., Barkstrom, B., Lenhardt, W. C., Glassy, J. J., Slaughter, P. (2011). On the Utility of identification schemes for digital earth science data: an assessment and recommendations. Earth Science Informatics, (4), 139–160. doi:10.1007/s12145-011-0083-6
 
 - DataCite: https://www.datacite.org/
 
