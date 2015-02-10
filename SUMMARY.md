@@ -6,7 +6,7 @@
 * [The Data Curation Workshop](Introduction/CaseStudy-Lab-Overview.md)
 * [Day 1](Day_1/readme.md)
 	* [Plenary: Open Data and Scholarly Communication](Day_1/Plenary/Day_1_Plenary_OpenData.md)
-	* [Lecture: The Data Curation Landscape](Day_1/Day_1_Lectures/Book/Day_1_Lecture_introduction.md)
+	* [Lecture: The Data Curation Landscape](Day_1/Day_1_Lectures/Book/Day_1_Lecture_Introduction.md)
 		* [Archives and records management for data curation](Day_1/Day_1_Lectures/Book/Day_1_Lecture_Archives.md)
 		* [Overview of the data lifecycle](Day_1/Day_1_Lectures/Book/Day_1_Lecture_DC_LifeCycles.md)
 		* [The lifecycle applied](Day_1/Day_1_Lectures/Book/Day_1_Lecture_DC_LifeCycleApplied.md)
