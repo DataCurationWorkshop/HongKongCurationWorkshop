@@ -1,9 +1,4 @@
-#Data curation with **Open Refine**
-
-1. Open Refine Overview & Basics
-2. Reconciliation
-3. Publishing XML w/OpenRefine
-4. Further Resources
+#Data Curation with **Open Refine**
 
 ##Vocabulary
 
@@ -16,17 +11,17 @@
 - Reconciliation: "a semi-automated process of matching text names to database IDs (keys). This is semi-automated because in some cases, machine alone is not sufficient and human judgment is essential." [link](https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation)
 
 
-##1. Basics of Open Refine
+##Basics of Open Refine
 
 General resources on Open Refine: [http://openrefine.org/](http://openrefine.org/)
 
 Open Refine Wiki: [https://github.com/OpenRefine/OpenRefine/wiki](https://github.com/OpenRefine/OpenRefine/wiki)
 
-### Dataset for this section
+###Dataset for this section
 
 Data from the New York Public Library "What's on the Menu?" Project: [http://menus.nypl.org/](http://menus.nypl.org/) (Should be on your desktop as menus.csv)
 
-##2. Reconciliation
+##Reconciliation
 
 ###Biodiversity Reconciliation Services (from Rod Page's [iPhylo Blog](iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html))
 
@@ -37,11 +32,11 @@ WORMS http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_worms.ph
 - GBIF: http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_gbif.php
 - Global Names Index: http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_globalnames.php
 
-##Dataset for this section 
+###Dataset for this section 
 
 Custom dataset from [GBIF.org](http://www.gbif.org/).  Should be on your desktop as biodiversity.txt
 
-##3. Publishing XML
+##Publishing XML
 
 Using NYPL dataset again; template should be on your desktop as template.txt
 
@@ -61,12 +56,11 @@ Using NYPL dataset again; template should be on your desktop as template.txt
 
 - More tutorials: [link](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources)
 
-
 ###Advanced resources
 
 - Google Refine "Cheat Sheet": [link](http://arcadiafalcone.net/GoogleRefineCheatSheets.pdf)
 
-- GREL: [link](https://github.com/OpenRefine/OpenRefine/wiki/Variables)
+- Google Refine Expressoin Language (GREL): [link](https://github.com/OpenRefine/OpenRefine/wiki/Variables)
 
 - Clustering in depth: [link](https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth)
 
