@@ -91,9 +91,9 @@ Two diagrams resulted:
 
 _Bruce's field data, as linked from parent to child_
 
-![image](workflow1.png)
+![image](Workflow1.png)
 
-_ver. 1 of the activity model_
+_ver. 1 of the activity diagram_
 
 After this first iteration, we went on to curate Bruce's data for submission to a repository.  We then revised both diagrams again to account for our curatorial work, and to begin identifying "points of intervention" at which Bruce could begin curatorial work earlier during future field trips.
 
@@ -101,7 +101,7 @@ After this first iteration, we went on to curate Bruce's data for submission to 
 
 _Version 2 of the activity model and data diagram. The panels below represent different stages of research and curatorial work; each colored box corresponds to similarly colored documents and data products above. Each data product or sample is linked to its parent data products by arrows. Each element with < pointed corners > represents a standard, protocol or best practice. Each box below with a red border represents a curatorial point of intervention identified through our work._
 
-![image](workflow2.png)
+![image](Workflow2.png)
 
 The final workflow has 6 stages: Planning, Fieldwork, Processing & Analysis, Data Assessment, Standardizing and Packaging. 
 
