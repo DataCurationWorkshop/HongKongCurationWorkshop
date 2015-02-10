@@ -47,13 +47,11 @@ Using NYPL dataset again; template should be on your desktop as template.txt
 
 ##Further Resources
 
-**A quick note on the Freebase Reconciliation API:** Many Refine services rely/relied on this; however, Google has been slowly shutting Freebase down over the last year.  Developers are currently working on integration with Wikidata as a replacement, but there's no estimate on its availability.  That said, there are many tutorials available that use Freebase as a resource which may be worth exploring.
+- **A quick note on the Freebase Reconciliation API:** Many Refine services rely/relied on this; however, Google has been slowly shutting Freebase down over the last year.  Developers are currently working on integration with Wikidata as a replacement, but there's no estimate on its availability.  That said, there are many tutorials available that use Freebase as a resource which may be worth exploring.
 
-Freebase API services now available from: http://reconcile.freebaseapps.com/reconcile
-
-Further information about [Freebase](www.freebase.org) integration with Open Refine [https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation](https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation)
-
-Google on Freebase shut down: [link](https://plus.google.com/109936836907132434202/posts/bu3z2wVqcQc)
+  - Freebase API services now available from: http://reconcile.freebaseapps.com/reconcile
+  - Further information about [Freebase](www.freebase.org) integration with Open Refine [https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation](https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation)
+  - Google on Freebase shut down: [link](https://plus.google.com/109936836907132434202/posts/bu3z2wVqcQc)
 
 - Rod Page's full tutorial on taxonomic name reconciliation: [link](http://iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html)
 
