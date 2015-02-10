@@ -25,7 +25,7 @@ YNP was established as the USA's first national park in 1872, and is world famou
 _Geothermal areas (red) and caldera (shaded) in Yellowstone National Park.
 (courtesy NPS)_
 
-##Minimum information guidelines:
+##Minimum Information Guidelines
 
 Capturing context in the field is crucial for research on geothermal systems: all sampling locations need to be contextualized by their location relative to the feature vent, and by the water chemistry of the spring at the sampling point. These data points concretely situate sampling locations within a geothermal system, and can act as community recognized “anchor points” that help future researchers integrate diverse datasets.
 
