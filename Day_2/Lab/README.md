@@ -7,8 +7,6 @@
 
 ##Vocabulary
 
-- Why "carpentry" instead of "curation": Want to specifically reference the process of _crafting_ data into a usable product!
-
 - Normalization: from relational database design, "the process of organizing the attributes and tables of a relational database to minimize data redundancy."  More generally used to mean standardizing a dataset according to a controlled vocabulary or metadata schema.
 
 - Faceting: filtering your dataset based on a particular text feature [link](https://github.com/OpenRefine/OpenRefine/wiki/Faceting)
@@ -30,7 +28,7 @@ Data from the New York Public Library "What's on the Menu?" Project: [http://men
 
 ##2. Reconciliation
 
-### Biodiversity Reconciliation Services (from Rod Page's [iPhylo Blog](iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html))
+###Biodiversity Reconciliation Services (from Rod Page's [iPhylo Blog](iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html))
 
 - EOL: http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_eol.php
 - NCBI taxonomy: http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_ncbi.php
@@ -49,6 +47,14 @@ Using NYPL dataset again; template should be on your desktop as template.txt
 
 ##Further Resources
 
+**A quick note on the Freebase Reconciliation API:** Many Refine services rely/relied on this; however, Google has been slowly shutting Freebase down over the last year.  Developers are currently working on integration with Wikidata as a replacement, but there's no estimate on its availability.  That said, there are many tutorials available that use Freebase as a resource which may be worth exploring.
+
+Freebase API services now available from: http://reconcile.freebaseapps.com/reconcile
+
+Further information about [Freebase](www.freebase.org) integration with Open Refine [https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation](https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation)
+
+Google on Freebase shut down: [link](https://plus.google.com/109936836907132434202/posts/bu3z2wVqcQc)
+
 - Rod Page's full tutorial on taxonomic name reconciliation: [link](http://iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html)
 
 - Cleaning Geo-Data in Open Refine (AKA georeferencing):[link](http://ahmadassaf.com/blog/data-analysis/cleaning-geo-data-open-refine/)
@@ -56,14 +62,6 @@ Using NYPL dataset again; template should be on your desktop as template.txt
 - Converting Spreadsheets into MODS XML through Open Refine: [link](https://www.utsc.utoronto.ca/digitalscholarship/content/blogs/converting-spreadsheets-modsxml-using-open-refine)
 
 - More tutorials: [link](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources)
-
-A quick note on the Freebase Reconciliation API -- Many Refine services rely/relied on this; however, Google has been slowly shutting Freebase down over the last year.  Developers are currently working on integration with Wikidata as a replacement, but there's no ETA on its availability.  Some Freebase services are still active and can be used as a tutorial, but I don't want to spend too much time on them.
-
-API: http://reconcile.freebaseapps.com/reconcile
-
-Further information about [Freebase](www.freebase.org) integration with Open Refine [https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation](https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation)
-
-Google on Freebase shut down: [link](https://plus.google.com/109936836907132434202/posts/bu3z2wVqcQc)
 
 
 ###Advanced resources
