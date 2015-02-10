@@ -20,7 +20,7 @@ YNP was established as the USA's first national park in 1872, and is world famou
 
 >The park's geothermal system is the visible expression of the immense Yellowstone volcano; they would not exist without the underlying magma body that releases tremendous heat. They also depend on sources of water, such as the mountains surrounding the Yellowstone Plateau. There, snow and rain slowly percolate through layers of permeable rock riddled with cracks. Some of this cold water meets hot brine directly heated by the shallow magma body. The water's temperature rises well above the boiling point but the water remains in a liquid state due to the great pressure and weight of the overlying water. The result is superheated water with temperatures exceeding 400°F. [link](http://www.nps.gov/yell/naturescience/hydrothermalsystems.htm)
 
-![image](Day_3/Case_Study/YNPmap.png)
+![image](YNPmap.png)
 
 _Geothermal areas (red) and caldera (shaded) in Yellowstone National Park.
 (courtesy NPS)_
@@ -73,7 +73,7 @@ Process models,
 
 Process modeling is often visualized in the form of an activity diagram.  Activity diagrams, "portray the primary activities and the relationships among the activities in a process" (ibid).  They model activities, objects and decisions as workflows:
 
-![image](Day_3/CaseStudy/exampleAD.jpeg)
+![image](exampleAD.jpeg)
 
 _From Dennis et al, 2012, ch 4.  We will talk more about this method in detail during today's lab_
 
@@ -91,17 +91,17 @@ Two diagrams resulted:
 
 _Bruce's field data, as linked from parent to child_
 
-![image](Day_3/CaseStudy/workflow1.png)
+![image](workflow1.png)
 
 _ver. 1 of the activity model_
 
 After this first iteration, we went on to curate Bruce's data for submission to a repository.  We then revised both diagrams again to account for our curatorial work, and to begin identifying "points of intervention" at which Bruce could begin curatorial work earlier during future field trips.
 
-![image](Day_3/CaseStudy/Documents2.png)
+![image](Documents2.png)
 
 _Version 2 of the activity model and data diagram. The panels below represent different stages of research and curatorial work; each colored box corresponds to similarly colored documents and data products above. Each data product or sample is linked to its parent data products by arrows. Each element with < pointed corners > represents a standard, protocol or best practice. Each box below with a red border represents a curatorial point of intervention identified through our work._
 
-![image](Day_3/CaseStudy/workflow2.png)
+![image](workflow2.png)
 
 The final workflow has 6 stages: Planning, Fieldwork, Processing & Analysis, Data Assessment, Standardizing and Packaging. 
 
