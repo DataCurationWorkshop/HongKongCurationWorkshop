@@ -12,8 +12,8 @@ Guidelines for authors: [http://docs.lib.purdue.edu/dcp/guidelines.html](http://
 
 Because we do not have any researchers to interview, instead we'll be assessing and creating profiles for two public datasets:
 
-- Page-Level Genre Metadata for English-Language Volumes in HathiTrust, 1700-1922 [link to data](http://figshare.com/articles/Page_Level_Genre_Metadata_for_English_Language_Volumes_in_HathiTrust_1700_1922/1279201
-http://figshare.com/articles/) [link to further documentation](Understanding_Genre_in_a_Collection_of_a_Million_Volumes_Interim_Report/1281251)
+- Page-Level Genre Metadata for English-Language Volumes in HathiTrust, 1700-1922: [link to data](http://figshare.com/articles/Page_Level_Genre_Metadata_for_English_Language_Volumes_in_HathiTrust_1700_1922/1279201
+http://figshare.com/articles/) - [link to further documentation](Understanding_Genre_in_a_Collection_of_a_Million_Volumes_Interim_Report/1281251)
 - Hong Kong 2011 population census: [main tables](http://www.gov.hk/en/theme/psi/datasets/2011cmaintables.htm) - [district profiles](http://www.gov.hk/en/theme/psi/datasets/2011cdistrictprofiles.htm)
 
 Some of these datasets should be available on your desktop; others can be navigated to through your web browser.
