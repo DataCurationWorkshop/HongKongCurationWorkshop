@@ -1,6 +1,6 @@
 #Current Topics in Scholarly Communications and Data Curation: Open Data
 
-The first lecture of the workshop will focus on a timely theme in data curation - the open accessibility and licensing of data. The lecture will cover topics such as national and international policy around open research data, the economic incentives of open data, and how these two factors impact data curation services in libraries, archives, and museums. 
+The first lecture of the workshop will focus on a timely theme in data curation - the open accessibility and licensing of data. The lecture will cover topics such as national and international policy around open research data, the economic incentives for open data, and how these two factors impact data curation services in libraries, archives, and museums. 
 
 
 ##Bibliography
