@@ -4,7 +4,7 @@ We have relied heavily on secondary sources in compiling the material for this w
 
 To reference this work, or the workshop in a general way, please use the following citation: 
 
-`Downie, J.S., Thomer, A.K., & Weber, N.M. (2015). Data Curation Workshop: University of Hong Kong. IDEALS ARK`
+`Downie, J.S., Thomer, A.K., & Weber, N.M. (2015). Data Curation Workshop: University of Hong Kong. http://hdl.handle.net/2142/73203`
 
 #Licenses for this work
 
