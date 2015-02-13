@@ -9,6 +9,7 @@
 		* [Overview of the data lifecycle](Day_1/Day_1_Lectures/Book/Day_1_Lecture_DC_LifeCycles.md)
 		* [The lifecycle applied](Day_1/Day_1_Lectures/Book/Day_1_Lecture_DC_LifeCycleApplied.md)
 		* [Identifiers](Day_1/Day_1_Lectures/Book/Day_1_Lectures_Identifiers.md)
+		* [Data Publication](Day_1/Day_1_Lectures/Book/Day_1_Lectures_PubCite.md)
 	* [Case Study 1: Academic data curation](Day_1/Case_Study/Day_1_AcaDataCuration_CaseStudy.md)
 	* [Lab 1: Curation Profiles Toolkit and Data Management Plans](Day_1/Lab/Day_1_Lab_DCToolkit.md)
 * [Day 2](Day_2/README.md)
