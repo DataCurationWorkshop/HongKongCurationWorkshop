@@ -21,8 +21,9 @@ _(CCCDS, 2012)_
 Created by Consultive Committee for Space Data Systems (CCSDS) for use with space data, the OAIS Reference Model has been widely adopted by a broad range of non-space agencies as a general model of a preservation system for both analog and digital data objects.
 
 The OAIS Reference Model provides information professionals with a conceptual framework of a preservation system, as well as a vocabulary of "terms that are not already overloaded with meaning so as to reduce conveying unintended meanings".  In particular, it contributes the idea of the different information packages that are processed at different points during preservation work:
+
 	- the SIP, or submitted information package
-	- the AIP, or archival informaition package
+	- the AIP, or archival information package
 	- and the DIP, or dissemination information package
 
 Preservation activities are prioritized according to the needs of a "designated community" of users.
