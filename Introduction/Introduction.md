@@ -14,7 +14,7 @@ To begin, we find it helpful to offer a broad view of both "data" and "curation"
 
 ##What do we mean by data?
 
-In a scholarly context data can mean different things to different disciplines. A humanist may treat a collection of digitized maps as a source of data, while an ecologists might be concerned with geo-location data in the form of latitude and longitude.
+In a scholarly context data can mean different things to different disciplines. A humanist may treat a collection of digitized maps as a source of data, while an ecologist might be concerned with geo-location data in the form of latitude and longitude.
 
 In this workshop, rather than assuming that data is a distinct type of artifact (i.e. a map, a database, a digital document) we consider data to be a role that many different artifacts are capable of playing.
 
