@@ -4,7 +4,7 @@ We have relied heavily on secondary sources in compiling the material for this i
 
 To reference this work, or the institute in a general way, please use the following citation: 
 
-`Thomer, A.K, Weber, N.M. (2015). Data Curation Institute: University of Hong Kong. February, 25-27 http://hdl.handle.net/2142/73203`
+`Weber, N.M., Thomer, A.K., Chu, S., Hu, X. & Downie, S.J. (2015). Data Curation Institute: University of Hong Kong. February, 25-27.`
 
 #Licenses for this work
 
