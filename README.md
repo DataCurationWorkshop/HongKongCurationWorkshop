@@ -28,7 +28,7 @@ The Spring Institute is held in the Hong Kong University of Science and Technolo
 
 #Acknowledgements 
 
-This Spring Institute is generously supported by the Center for Informatics Research in Science and Scholarship (CIRSS) in Graduate School of Library and Information Science (GSLIS) in the University of Illinois, Faculty of Education in the University of Hong Kong and the Joint University Librarians Advisory Committee (JULAC) of Hong Kong.
+This Spring Institute is generously supported by the Center for Informatics Research in Science and Scholarship (CIRSS) at the Graduate School of Library and Information Science (GSLIS), University of Illinois Urbana-Champaign, Faculty of Education in the University of Hong Kong and the Joint University Librarians Advisory Committee (JULAC) of Hong Kong.
 
 We would like to show our greatest gratitude to the Hong Kong University of Science and Technology (HKUST) Library for providing the venue and local arrangement. Without their support, the Spring Institute would not be successful.
 
