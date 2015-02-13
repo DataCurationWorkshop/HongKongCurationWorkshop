@@ -6,7 +6,7 @@ The design and analysis of systems to support the lifecycle of research data man
 
 - Based on the requirements gathering document, develop a single **use case** which outlines a set of intended actions, and supporting services. Use cases are valuable and important because they help a data curator move from modeling what data are (types, roles, etc.) to understanding how the data might be used in the future.
 
-- Create an **activity diagram** which models the research processes described in th euse case. Systems modeling in data curation can take a formal approach, such as UML (Unified Modeling Language) or an informal approach, such as activity diagrams, which we will cover in this.
+- Create an **activity diagram** which models the research processes described in the use case. Systems modeling in data curation can take a formal approach, such as UML (Unified Modeling Language) or an informal approach, such as activity diagrams, which we will cover in this.
 
 - Using the scenario documents to create a **data dictionary**
 
