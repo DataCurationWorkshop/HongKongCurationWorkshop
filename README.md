@@ -1,10 +1,10 @@
 #How to cite this book
 
-We have relied heavily on secondary sources in compiling the material for this workshop and this book. Please use those sources for any attribution of ideas or direct quotes.
+We have relied heavily on secondary sources in compiling the material for this institute and this book. Please use those sources for any attribution of ideas or direct quotes.
 
-To reference this work, or the workshop in a general way, please use the following citation: 
+To reference this work, or the institute in a general way, please use the following citation: 
 
-`Downie, J.S., Thomer, A.K., & Weber, N.M. (2015). Data Curation Workshop: University of Hong Kong. http://hdl.handle.net/2142/73203`
+`Thomer, A.K, Weber, N.M. (2015). Data Curation Institute: University of Hong Kong. February, 25-27 http://hdl.handle.net/2142/73203`
 
 #Licenses for this work
 
