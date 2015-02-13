@@ -4,7 +4,7 @@ Each afternoon of the workshop will have two concurrent sessions: empirical case
 
 ##Case Study 
 
-The case study approach to social science research includes the logic of de-sign, data collection techniques, and specicific approaches to data analysis. It can be a very formal, or a wholly informal process. As Robert Yin explains, "it is not so much a method as it is a comprehensive research strategy (Yin,2003, p. 14). The case studies that we will explore are a mix of of previous and ongoing work. For instance, we will outline a framework for developing curation policies through our on-going work with the **[Site-Based Data Curation (SBDC)](http://cirssweb.lis.illinois.edu/SBDC/index.php)** project at the Yellowstone National Park (Thomer et al. 2014); and, we will also offer four comparative case studies of data curation in research libraries throughout the USA (Akers et. al 2014). 
+The case study approach to social science research includes the logic of de-sign, data collection techniques, and specific approaches to data analysis. It can be a very formal, or a wholly informal process. As Robert Yin explains, "it is not so much a method as it is a comprehensive research strategy (Yin,2003, p. 14). The case studies that we will explore are a mix of previous and ongoing work. For instance, we will outline a framework for developing curation policies through our on-going work with the **[Site-Based Data Curation (SBDC)](http://cirssweb.lis.illinois.edu/SBDC/index.php)** project at the Yellowstone National Park (Thomer et al. 2014); and, we will also offer four comparative case studies of data curation in research libraries throughout the USA (Akers et. al 2014). 
 
 The marked features of a systematic approach to case study research are:
 
