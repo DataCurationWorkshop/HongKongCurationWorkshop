@@ -59,7 +59,7 @@ Using NYPL dataset again; template should be on your desktop as template.txt
 
 - Google Refine "Cheat Sheet": [link](http://arcadiafalcone.net/GoogleRefineCheatSheets.pdf)
 
-- Google Refine Expressoin Language (GREL): [link](https://github.com/OpenRefine/OpenRefine/wiki/Variables)
+- Google Refine Expression Language (GREL): [link](https://github.com/OpenRefine/OpenRefine/wiki/Variables)
 
 - Clustering in depth: [link](https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth)
 
