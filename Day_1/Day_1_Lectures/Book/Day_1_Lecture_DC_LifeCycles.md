@@ -10,7 +10,7 @@ _([from the DCC FAQ](http://www.dcc.ac.uk/resources/curation-lifecycle-model/lif
 
 Lifecycle models are a way of atomizing data collection, use, analysis and preservation into component stages, and then identifying individual curatorial tasks that can or should be completed at each point. 
 
-There are numerous lifecycle models; for this workshop we'll focus on three of the more widely referenced general models: the OAIS Reference Model, the DCC lifecycle model and the Data One lifecycle model.
+There are numerous lifecycle models; for this institute we'll focus on three of the more widely referenced general models: the OAIS Reference Model, the DCC lifecycle model and the Data One lifecycle model.
 
 ##OAIS Reference Model
 
