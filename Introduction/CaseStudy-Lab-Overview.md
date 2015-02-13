@@ -1,6 +1,6 @@
-#The Data Curation Workshop 
+#The Data Curation Institute
 
-Each afternoon of the workshop will have two concurrent sessions: empirical case studies, and laboratory work. 
+Each afternoon of the institute will have two concurrent sessions: empirical case studies, and laboratory work. 
 
 ##Case Study 
 
