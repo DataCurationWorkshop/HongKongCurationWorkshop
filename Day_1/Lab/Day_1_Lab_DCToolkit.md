@@ -8,7 +8,7 @@ In this lab, we'll review Purdue's Data Curation Toolkit, and the California Dig
 
 _(Carlson and Witt, 2010)_
 
-Developed jointly by Purdue University and the University of Illinois, the toolkit is a generalizable worksheet and interview guide for libraries, cultural heritage instituions and non-profits. The toolkit acts as a guide for a curator or librarian in their collaborations with researchers. 
+Developed jointly by Purdue University and the University of Illinois, the toolkit is a generalizable worksheet and interview guide for libraries, cultural heritage institutions and non-profits. The toolkit acts as a guide for a curator or librarian in their collaborations with researchers. 
 
 Guidelines for authors: [http://docs.lib.purdue.edu/dcp/guidelines.html](http://docs.lib.purdue.edu/dcp/guidelines.html)
 

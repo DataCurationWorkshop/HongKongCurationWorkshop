@@ -10,7 +10,7 @@ _([from the DCC FAQ](http://www.dcc.ac.uk/resources/curation-lifecycle-model/lif
 
 Lifecycle models are a way of atomizing data collection, use, analysis and preservation into component stages, and then identifying individual curatorial tasks that can or should be completed at each point. 
 
-There are numerous lifecycle models; for this workshop we'll focus on three of the more widely referenced general models: the OAIS Reference Model, the DCC lifecycle model and the Data One lifecycle model.
+There are numerous lifecycle models; for this institute we'll focus on three of the more widely referenced general models: the OAIS Reference Model, the DCC lifecycle model and the Data One lifecycle model.
 
 ##OAIS Reference Model
 
@@ -18,11 +18,12 @@ There are numerous lifecycle models; for this workshop we'll focus on three of t
 
 _(CCCDS, 2012)_
 
-Created by Consultive Committee for Space Data Systems (CCSDS) for use with space data, the OAIS Reference Model has been widely adapted by a broad range of non-space agencies as a general model of a preservation system for both analog and digital data objects.
+Created by Consultive Committee for Space Data Systems (CCSDS) for use with space data, the OAIS Reference Model has been widely adopted by a broad range of non-space agencies as a general model of a preservation system for both analog and digital data objects.
 
 The OAIS Reference Model provides information professionals with a conceptual framework of a preservation system, as well as a vocabulary of "terms that are not already overloaded with meaning so as to reduce conveying unintended meanings".  In particular, it contributes the idea of the different information packages that are processed at different points during preservation work:
+
 	- the SIP, or submitted information package
-	- the AIP, or archival informaition package
+	- the AIP, or archival information package
 	- and the DIP, or dissemination information package
 
 Preservation activities are prioritized according to the needs of a "designated community" of users.

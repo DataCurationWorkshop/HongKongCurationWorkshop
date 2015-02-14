@@ -1,10 +1,10 @@
 #How to cite this book
 
-We have relied heavily on secondary sources in compiling the material for this workshop and this book. Please use those sources for any attibution of ideas or direct quotes.
+We have relied heavily on secondary sources in compiling the material for this institute and this book. Please use those sources for any attribution of ideas or direct quotes.
 
-To reference this work, or the workshop in a general way, please use the following citation: 
+To reference this work, or the institute in a general way, please use the following citation: 
 
-`Downie, J.S., Thomer, A.K., & Weber, N.M. (2015). Data Curation Workshop: University of Hong Kong. http://hdl.handle.net/2142/73203`
+`Weber, N.M., Thomer, A.K., Hu, X., Chu, S., & Downie, S.J. (2015). Data Curation Institute: University of Hong Kong. February, 25-27.`
 
 #Licenses for this work
 
@@ -28,7 +28,7 @@ The Spring Institute is held in the Hong Kong University of Science and Technolo
 
 #Acknowledgements 
 
-This Spring Institute is generously supported by the Center for Informatics Research in Science and Scholarship (CIRSS) in Graduate School of Library and Information Science (GSLIS) in the University of Illinois, Faculty of Education in the University of Hong Kong and the Joint University Librarians Advisory Committee (JULAC) of Hong Kong.
+This Spring Institute is generously supported by the Center for Informatics Research in Science and Scholarship (CIRSS) at the Graduate School of Library and Information Science (GSLIS), University of Illinois Urbana-Champaign, Faculty of Education in the University of Hong Kong and the Joint University Librarians Advisory Committee (JULAC) of Hong Kong.
 
 We would like to show our greatest gratitude to the Hong Kong University of Science and Technology (HKUST) Library for providing the venue and local arrangement. Without their support, the Spring Institute would not be successful.
 

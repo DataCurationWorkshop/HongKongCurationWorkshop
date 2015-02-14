@@ -1,6 +1,6 @@
 #Putting Lifecycle Models Into Practice
 
-A lifecycle approach to data curation is needed because different curatorial activities (or a lack thereof) at each stage in the life cycle directly influence practitioners' ability to preserve data, and later researchers' ability to reuse data. Thus its important to identify specific curatorial actions that should or can be undertaken at each stage.  
+A lifecycle approach to data curation is needed because different curatorial activities (or a lack thereof) at each stage in the life cycle directly influence practitioners' ability to preserve data, and later researchers' ability to reuse data. Thus it's important to identify specific curatorial actions that should or can be undertaken at each stage.  
 
 ##DCC Checklists
 

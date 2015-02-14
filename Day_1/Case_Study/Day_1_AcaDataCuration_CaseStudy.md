@@ -19,7 +19,7 @@ In a breakout session we will review five different additional cases:
 
 (note: we will also cover the University of Illinois, Urbana-Champaign) in greater detail on Day 3): 
 
-For each institution try toanswer the following questions: 
+For each institution try to answer the following questions: 
 
 - Where are the research data services located (i.e. IT department, University Library, collaboration between different units, etc.)?
 - When did research data services begin at this institution? What was the motivation?
