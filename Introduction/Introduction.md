@@ -1,14 +1,14 @@
 #Introduction to Data Curation
 
-Digital data have become a critical information object in our everyday lives: Our phones, our social networks, and our cars all transmit and consume data making it possible for things like GPS to tell us where we are and how we are going to get there. 
+Digital data have become a critical information object in our everyday lives: Our phones, our social networks, and our cars all transmit and consume data making it possible for things like GPS to help us find destinations, and even tell us how to most effectively get there. 
 
 Digital data produced by research in the humanities, science, and engineering has, similarly, become an important aspect of scholarship. Just as our phones and cars depend on data to effectively navigate, scholars depend on access to and preservation of data in order to effectively carry out their research.  
 
-Archives, Museums, and Libraries have responded to the data needs of scholars by developing curation services.  
+Archives, Museums, and Libraries have responded to the data needs of scholars by developing research data curation services.  
 
-The goal of this workshop is to provide you a working knowledge of the concepts, tools, and approaches to *doing* data curation. By understanding the foundations of data curation - as it cuts across different disciplines and domains - you will be better prepared to make decisions about the costs and benefits of offering curation services in your own institutional settings. 
+The goal of this workshop is to provide you with a working knowledge of the concepts, tools, and approaches to *doing* data curation. By understanding the foundations of data curation - as it cuts across different disciplines and domains - you will be better prepared to make decisions about the costs and benefits of offering curation services in your own institutional settings. 
 
-An important first step in this process is to broadly define what is we mean when we talk about data curation, and what it is that we do NOT mean.    
+An important first step in this process is to broadly define what it is we mean when we talk about data curation, and what it is that we do NOT mean.    
 
 To begin, we find it helpful to offer a broad view of both "data" and "curation" - before defining "data curation."
 
