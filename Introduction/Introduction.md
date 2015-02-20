@@ -6,8 +6,6 @@ Digital data produced by research in the humanities, science, and engineering ha
 
 Archives, Museums, and Libraries have responded to the data needs of scholars by developing research data curation services.  
 
-The goal of this workshop is to provide you with a working knowledge of the concepts, tools, and approaches to *doing* data curation. By understanding the foundations of data curation - as it cuts across different disciplines and domains - you will be better prepared to make decisions about the costs and benefits of offering curation services in your own institutional settings. 
-=======
 The goal of this institute is to provide you a working knowledge of the concepts, tools, and approaches to *doing* data curation. By understanding the foundations of data curation - as it cuts across different disciplines and domains - you will be better prepared to make decisions about the costs and benefits of offering curation services in your own institutional settings. 
 
 An important first step in this process is to broadly define what it is we mean when we talk about data curation, and what it is that we do NOT mean.    
