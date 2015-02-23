@@ -2,6 +2,10 @@
 
 The first lecture of the institute will focus on a timely theme in data curation - the open accessibility and licensing of data. The lecture will cover topics such as national and international policy around open research data, the economic incentives for open data, and how these two factors impact data curation services in libraries, archives, and museums. 
 
+## Speaker Bio    
+Professor John Bacon-Shone is the Associate Dean (Knowledge Exchange) of the Faculty of Social Sciences at The University of Hong Kong (HKU). He completed his PhD and MSc in Statistic at the University of Birmingham and University College London respectively. He is currently the Director of the Social Sciences Research Centre and the chair of the Non-Clinical Human Research Ethics Committee of HKU. He was also a member of the Central Policy Unit of the Hong Kong SAR Government for some years previously.
+
+Professor Bacon-Shone current research interests include compositional data, gambling, immigration and population policy, privacy policy and telephone survey methodology. As an applied statistician, he has applied a wide range of methodological skills to many research and policy questions. He was the keynote speaker at the international conference of Electronic Theses & Dissertations 2013.
 
 ##Bibliography
 
