@@ -13,7 +13,7 @@
 
     14:00 - 15:15: Case study - the SBDC Project & Systems Analysis for Data Curation
     15:15 - 15:30: Coffee break
-    15:30 - 17:15: Hands-on lab - preservation auditing and assessment
+    15:30 - 17:15: Hands-on lab - Systems Analysis and Design for Data Curation
     16:45 - 17:30: Plenary closing session - discussion on how to effectively involve researchers and administrators in data curation. Panel includes Dr. J. Stephen Downie, Dr. Sam Chu, Mr. Peter Sidorko, Ms. Diana Chan, Mr. Nicholas Weber, Ms. Andrea Thomer, Dr. Xiao Hu
 
 ##Intended Learning Outcomes
