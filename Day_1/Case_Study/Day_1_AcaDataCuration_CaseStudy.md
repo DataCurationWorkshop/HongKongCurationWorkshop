@@ -4,10 +4,12 @@ In this session we will use a case study method that been used extensively in th
 
 Later case study research has focused on the development of research data management services (RDM) at universities as they respond to federal mandates in data management planning (Raboin, Reznik-Zellenk, and Salo, 2012). The most recent set of data curation case studies were offered by a group at the University of Michigan that concentrated specifically on the "prominent role of the library in providing services to educate and assist researchers with managing data before, during, and after their research projects" (Akers et al. 2014). 
 
-We will review two case studies as a group:
-
--  [Johns Hopkins University](http://dmp.data.jhu.edu/)
+We will review case study as a group:
 -  [Pennsylvania State University](http://www.libraries.psu.edu/psul/groups/rdmst.html) and their innovative [scholar sphere](https://scholarsphere.psu.edu/)
+
+We will also look at the following case study, as an example of policy developed for data curation: 
+
+-  [University of Virginia](http://data.library.virginia.edu/)
 
 In a breakout session we will review five different additional cases: 
 
@@ -15,9 +17,9 @@ In a breakout session we will review five different additional cases:
 -  [Emory University](http://edc.library.emory.edu/content/online-analysis)
 -  [Purdue University](https://www.lib.purdue.edu/researchdata) and [D2C2](http://d2c2.lib.purdue.edu/)
 -  [University of Michigan](http://www.lib.umich.edu/research-data-services)
--  [University of Virginia](http://data.library.virginia.edu/)
+-  [Johns Hopkins University](http://dmp.data.jhu.edu/)
 
-(note: we will also cover the University of Illinois, Urbana-Champaign) in greater detail on Day 3): 
+(note: we will also cover the University of Illinois, Urbana-Champaign in greater detail on Day 3): 
 
 For each institution try to answer the following questions: 
 
